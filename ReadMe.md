@@ -1,4 +1,5 @@
 Evan Sinasac
+
 Built and Compiled in Visual Studios Debug and Release Win32 and x64.
 
 This is a rapidJSON reader built around an Examine ability I homebrewed for a DnD campaign.
