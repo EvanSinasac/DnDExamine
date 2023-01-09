@@ -1,0 +1,80 @@
+{
+    "Name": "Flying Sword",
+    "Creature Type": "Small Construct",
+    "Max HP": 20,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 0,
+        "Type 2": "Flying",
+        "Speed 2": 50
+    },
+    "Challenge Rating": "1/4",
+    "EXP": 50,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Low Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Longsword, Melee Weapon Attack, Range: 5ft, Average Damage: 5 Slashing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 12,
+        "Dexterity": 15,
+        "Constitution": 11,
+        "Intelligence": 1,
+        "Wisdom": 5,
+        "Charisma": 1
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Antimagic Susceptibility, The sword is incapacitated while in the area of an Antimagic Field, or similar magic",
+        "Ability 2": "False Appearance, While the sword remains motionless and isn't flying, it is indistinguishable from a normal sword"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison",
+        "Damage 2": "Psychic"
+    },
+    "Condition Immunities": {
+        "Number": 7,
+        "Condition 1": "Blinded",
+        "Condition 2": "Charmed",
+        "Condition 3": "Deafened",
+        "Condition 4": "Frightened",
+        "Condition 5": "Paralyzed",
+        "Condition 6": "Petrified",
+        "Condition 7": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

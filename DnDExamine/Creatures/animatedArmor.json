@@ -1,0 +1,79 @@
+{
+    "Name": "Animated Armor",
+    "Creature Type": "Medium Construct",
+    "Max HP": 35,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 25
+    },
+    "Challenge Rating": "1",
+    "EXP": 200,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Low Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Slam, Melee Weapon Attack, Range 5ft, Average Damage: 5 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The armor makes 2 melee attacksr"
+    },
+    "AC": 18,
+    "Stats": {
+        "Strength": 14,
+        "Dexterity": 11,
+        "Constitution": 13,
+        "Intelligence": 1,
+        "Wisdom": 3,
+        "Charisma": 1
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Antimagic Susceptibility, The armor is incapacitated while in the area of an Antimagic Field, or similar magic",
+        "Ability 2": "False Appearance, While the armor remains motionless, it is indistinguishable from a normal suit of armor"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 2,
+        "Damage 1": "Poison",
+        "Damage 2": "Psychic"
+    },
+    "Condition Immunities": {
+        "Number": 8,
+        "Condition 1": "Blinded",
+        "Condition 2": "Charmed",
+        "Condition 3": "Deafened",
+        "Condition 4": "Exhaustion",
+        "Condition 5": "Frightened",
+        "Condition 6": "Paralyzed",
+        "Condition 7": "Petrified",
+        "Condition 8": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

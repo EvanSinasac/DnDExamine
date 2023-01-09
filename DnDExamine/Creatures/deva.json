@@ -1,0 +1,81 @@
+{
+    "Name": "Deva",
+    "Creature Type": "Medium Celestial",
+    "Max HP": 140,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Flying",
+        "Speed 2": 90
+    },
+    "Challenge Rating": "10",
+    "EXP": 5900,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Insight",
+        "Skill 2": "Perception"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "All",
+        "Language 2": "Telepathy"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Mace, Melee Weapon Attack, Range: 5ft, Average Damage: 7 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 3,
+        "Action 1": "Multiattack, Makes 2 melee attacks",
+        "Action 2": "Healing Touch, The Deva can touch another creature and magically heal them, as well as cure them of any curse, disease, poison, blindness, or deafness",
+        "Action 3": "Change Shape, The Deva can magically polymorph into a humanoid or beast, or back into its true form"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 18,
+        "Constitution": 18,
+        "Intelligence": 17,
+        "Wisdom": 20,
+        "Charisma": 20
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Angelic Weapons, The Deva's weapon attacks are magical and deal extra Average 18 Radiant damage",
+        "Ability 2": "Innate Spellcasting, The Deva can innately cast a few spells while requiring only verbal components",
+        "Ability 3": "Magic Resistance, The Deva has advantage on saving throws againts spells and other magical effects"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 2,
+        "Damage 1": "Radiant",
+        "Damage 2": "Bludgeoning, Piercing and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 3,
+        "Condition 1": "Charmed",
+        "Condition 2": "Exhaustion",
+        "Condition 3": "Frightened"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

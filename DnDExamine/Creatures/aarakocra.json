@@ -1,0 +1,72 @@
+{
+    "Name": "Aarakocra",
+    "Creature Type": "Medium Humanoid",
+    "Max HP": 15,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 20,
+        "Type 2": "Flying",
+        "Speed 2": 50
+    },
+    "Challenge Rating": "1/4",
+    "EXP": 50,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Aarakocra",
+        "Language 2": "Auran"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Javelin, Melee or Ranged Weapon Attack, Range: 5ft or 30/120ft, Average Damage: 5 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Talon, Melee Weapon Attack, Range: 5ft, Average Damage: 4 Slashing Damage"
+    },
+    "AC": 12,
+    "Stats": {
+        "Strength": 10,
+        "Dexterity": 14,
+        "Constitution": 10,
+        "Intelligence": 11,
+        "Wisdom": 12,
+        "Charisma": 11
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Dive Attack: If the Aarakocra is flying and dives at least 30ft straight towards a target and then hits with a melee weapon attack, the attack deals some extra damage."
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

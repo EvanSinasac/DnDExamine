@@ -1,0 +1,86 @@
+{
+    "Name": "Solar",
+    "Creature Type": "Large Celestial",
+    "Max HP": 250,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 50,
+        "Type 2": "Flying",
+        "Speed 2": 150
+    },
+    "Challenge Rating": "21",
+    "EXP": 33000,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Truesight",
+        "Sense 2": "Very High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "All",
+        "Language 2": "Telepathy"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Greatsword, Melee Weapon Attack, Range: 5ft, Average Damage: 22 Slashing",
+        "Action 2": "Slaying Longbow, Ranged Weapon Attack, Range: 150/600ft, Average Damage: 15 Piercing"
+    },
+    "Other Actions": {
+        "Number": 3,
+        "Action 1": "Multiattack, The Solar makes 2 attacks with its Greatsword",
+        "Action 2": "Flying Sword, The Solar releases its greatsword to hover magically and can mentally command the sword to move and attack",
+        "Action 3": "Healing Touch, The Solar touches another creature and magically heals them, as well as cure them of any curse, disease, poison, blindness, or deafness"
+    },
+    "AC": 21,
+    "Stats": {
+        "Strength": 26,
+        "Dexterity": 22,
+        "Constitution": 26,
+        "Intelligence": 25,
+        "Wisdom": 25,
+        "Charisma": 30
+    },
+    "Abilities": {
+        "Number": 4,
+        "Ability 1": "Angelic Weapons, The Solar's weapon attacks are magical and deal an extra Average 27 Radiant damage",
+        "Ability 2": "Divine Awareness, The Solar knows if it hears a lie",
+        "Ability 3": "Innate Spellcasting, The Solar can innately cast a number of spells, requiring no material components",
+        "Ability 4": "Magic Resistance: Has advantage on saving throws againts spells and other magical effects"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 2,
+        "Damage 1": "Radiant",
+        "Damage 2": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 2,
+        "Damage 1": "Necrotic",
+        "Damage 2": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 4,
+        "Condition 1": "Charmed",
+        "Condition 2": "Exhaustion",
+        "Condition 3": "Frightened",
+        "Condition 4": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 3,
+        "Action 1": "Teleport, The Solar magically teleports to a point it can see up to 120ft",
+        "Action 2": "Searing Burst, The Solar emits magical, divine energy, dealing fire and divine energy to creatures around it",
+        "Action 3": "Blinding Gaze, The solar targets one creature and attempts to blind it with magic"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

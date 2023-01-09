@@ -386,6 +386,42 @@ bool cExamineCreatureJSONReader::readCreatureFile(const std::string& filePath, C
 		}
 	}
 
+	if (!d["Damage Vulnerabilities"].IsObject())
+	{
+		std::cout << "Damage Vulnerabilities doesn't exist!" << std::endl;
+		return false;
+	}
+	else
+	{
+		if (!d["Damage Vulnerabilities"]["Number"].IsInt())
+		{
+			std::cout << "Damage Vulnerabilities->Number doesn't exist!" << std::endl;
+			return false;
+		}
+		else
+		{
+			int numberOfDamageResistance = d["Damage Vulnerabilities"]["Number"].GetInt();
+			int counter = 1;
+			for (unsigned int i = 0; i < numberOfDamageResistance; i++)
+			{
+				std::stringstream ss;
+				ss << "Damage " << counter;
+
+				if (!d["Damage Vulnerabilities"][ss.str().c_str()].IsString())
+				{
+					std::cout << "Damage Vulnerabilities->" << ss.str() << " doesn't exist!" << std::endl;
+					return false;
+				}
+				else
+				{
+					currentCreature->damageVulnerabilities.push_back(d["Damage Vulnerabilities"][ss.str().c_str()].GetString());
+				}
+
+				counter++;
+			}
+		}
+	}
+
 	if (!d["Damage Resistances"].IsObject())
 	{
 		std::cout << "Damage Resistances doesn't exist!" << std::endl;

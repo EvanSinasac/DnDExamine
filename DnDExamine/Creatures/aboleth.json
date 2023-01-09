@@ -1,0 +1,83 @@
+{
+    "Name": "Aboleth",
+    "Creature Type": "Large Aberration",
+    "Max HP": 150,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 10,
+        "Type 2": "Swimming",
+        "Speed 2": 40
+    },
+    "Challenge Rating": "10",
+    "EXP": 5900,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "History",
+        "Skill 2": "Perception"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Deep Speech",
+        "Language 2": "Telepathy"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Tentacle, Melee Weapon Attack, Range: 10ft, Average Damage: 12 Bludgeoning, Can cause a unique Disease",
+        "Action 2": "Tail, Melee Weapon Attack, Range : 10ft, Average Damage: 15 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, Makes 3 attack Tentacle attacks",
+        "Action 2": "Enslave, The Aboleth can target a creature within 30ft of it and attempt to magically charm the target, enslaving them when successful"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 21,
+        "Dexterity": 9,
+        "Constitution": 15,
+        "Intelligence": 18,
+        "Wisdom": 15,
+        "Charisma": 18
+    },
+    "Abilities": {
+        "Number": 4,
+        "Ability 1": "Amphibious, The Aboleth can breath air and water",
+        "Ability 2": "Mucous Cloud, While underwater, the Aboleth is surrounded by a transformative mucus.  Touching the mucus can cause a disease which forces the affected creature to only be able to breath underwater",
+        "Ability 3": "Probing Telepathy, When communicating with a creature telepathically, the aboleth can learn the creature's greatest desires",
+        "Ability 4": "Disease, Caused by the Aboleth's Tentacle attack.  An afflicted creature will take acid damge while outside a body of water every 10 minutes unless moisture is applied to the skin before 10 minutes have passed"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 3,
+        "Action 1": "Detect, Makes a Wisdom (Perception) Check",
+        "Action 2": "Tail Swipe, Makes one tail attack",
+        "Action 3": "Psychic Drain, One creature charmed by the Aboleth takes psychic damage and the Aboleth heals equal to the damage the creature took"
+    },
+    "Lair Actions": {
+        "Number": 3,
+        "Action 1": "The Aboleth can cast Phantasmal Force on any number of creatures it can see within 60ft of it",
+        "Action 2": "The Aboleth can cause pools of water within 90ft of it to surge outward in a grasping tide, attempting to suck any nearby creatures into the pool",
+        "Action 3": "The Aboleth can use any water within its lair as a conduit to extend the range of its abilities"
+    }    
+}

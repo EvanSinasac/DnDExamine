@@ -1,0 +1,80 @@
+{
+    "Name": "Planetar",
+    "Creature Type": "Large Celestial",
+    "Max HP": 200,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 40,
+        "Type 2": "Flying",
+        "Speed 2": 120
+    },
+    "Challenge Rating": "16",
+    "EXP": 15000,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Truesight",
+        "Sense 2": "High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "All",
+        "Language 2": "Telepathy"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Greatsword, Melee Weapon Attack, Range: 5ft, Average Damage: 21 Slashing"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Planetar makes 2 melee attacks",
+        "Action 2": "Healing Touch, The Planetar touches another creature and magically heals them, as well as cure them of any curse, disease, poison, blindness, or deafness"
+    },
+    "AC": 19,
+    "Stats": {
+        "Strength": 24,
+        "Dexterity": 20,
+        "Constitution": 24,
+        "Intelligence": 19,
+        "Wisdom": 22,
+        "Charisma": 25
+    },
+    "Abilities": {
+        "Number": 4,
+        "Ability 1": "Angelic Weapons, The Planetar's weapon attacks are magical and deal an extra Average 22 Radiant damage",
+        "Ability 2": "Divine Awareness, The Planetar knows if it hears a lie",
+        "Ability 3": "Innate Spellcasting, The Planetar can innately cast a number of spells, requiring no material components",
+        "Ability 4": "Magic Resistance, The Planetar has advantage on saving throws againts spells and other magical effects"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 2,
+        "Damage 1": "Radiant",
+        "Damage 2": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 3,
+        "Condition 1": "Charmed",
+        "Condition 2": "Exhaustion",
+        "Condition 3": "Frightened"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

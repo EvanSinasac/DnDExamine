@@ -1,14 +1,16 @@
 {
-    "Name": "Template",
-    "Creature Type": "Non-Existant",
-    "Max HP": 999,
+    "Name": "Ankheg",
+    "Creature Type": "Large Monstrosity",
+    "Max HP": 40,
     "Movement Speeds": {
-        "Number": 1,
+        "Number": 2,
         "Type 1": "Walking",
-        "Speed 1": 30
+        "Speed 1": 30,
+        "Type 2": "Burrowing",
+        "Speed 2": 10
     },
-    "Challenge Rating": "1/4",
-    "EXP": 50,
+    "Challenge Rating": "2",
+    "EXP": 450,
     "Skills": {
         "Number": 1,
         "Skill 1": "N/A"
@@ -16,28 +18,29 @@
     "Senses": {
         "Number": 2,
         "Sense 1": "Darkvision",
-        "Sense 2": "Medium Passive Perception"
+        "Sense 2": "Tremorsense",
+        "Sense 3": "Medium Passive Perception"
     },
     "Languages": {
         "Number": 1,
-        "Language 1": "Common"
+        "Language 1": "None"
     },
     "Equipment Actions": {
         "Number": 1,
-        "Action 1": "Scimitar, Melee Weapon Attack, Range: 5ft, Average Damage: 5 Slashing"
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 5 Slashing and 3 Acid, Can Grapple large or smaller creatures"
     },
     "Other Actions": {
         "Number": 1,
-        "Action 1": "Multiattack, Makes 2 attacks with Scimitar"
+        "Action 1": "Acid Spray, Tha Ankheg spits acid in a line while it has no creature grappled, dealing acid damage to each creature caught in the line"
     },
-    "AC": 20,
+    "AC": 14,
     "Stats": {
-        "Strength": 12,
-        "Dexterity": 13,
-        "Constitution": 14,
-        "Intelligence": 15,
-        "Wisdom": 16,
-        "Charisma": 17
+        "Strength": 17,
+        "Dexterity": 11,
+        "Constitution": 13,
+        "Intelligence": 1,
+        "Wisdom": 13,
+        "Charisma": 6
     },
     "Abilities": {
         "Number": 1,

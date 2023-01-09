@@ -120,6 +120,11 @@ int main(int argv, char* argc)
 					{
 						std::cout << "      " << currentCreature->abilities[index] << std::endl;
 					}
+					std::cout << "Damage Vulnerabilities: " << std::endl;
+					for (unsigned int index = 0; index != currentCreature->damageVulnerabilities.size(); index++)
+					{
+						std::cout << "      " << currentCreature->damageVulnerabilities[index] << std::endl;
+					}
 					std::cout << "Damage Resistances: " << std::endl;
 					for (unsigned int index = 0; index != currentCreature->damageResistances.size(); index++)
 					{

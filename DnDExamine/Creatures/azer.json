@@ -1,0 +1,72 @@
+{
+    "Name": "Azer",
+    "Creature Type": "Medium Elemental",
+    "Max HP": 40,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "2",
+    "EXP": 450,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Ignan"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Warhammer, Melee Weapon Attack, Range: 5ft, Average Damage: 7 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 17,
+        "Dexterity": 12,
+        "Constitution": 15,
+        "Intelligence": 12,
+        "Wisdom": 13,
+        "Charisma": 10
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Heated Body, A creature that touches or hits the Azer with a melle attack takes some fire damage",
+        "Ability 2": "Heated Weapons, When the Azer hits with a metal melee weapon, it deals an extra Average 3 Fire damage",
+        "Ability 3": "Illumination, The Azer sheds bright light in a 10ft radius and dim light for an additional 10ft"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 2,
+        "Damage 1": "Fire",
+        "Damage 2": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

@@ -24,6 +24,7 @@ struct Creature
 	int AC;
 	int stats[6];
 	std::vector<std::string> abilities;
+	std::vector<std::string> damageVulnerabilities;
 	std::vector<std::string> damageResistances;
 	std::vector<std::string> damageImmunities;
 	std::vector<std::string> conditionImmunities;
