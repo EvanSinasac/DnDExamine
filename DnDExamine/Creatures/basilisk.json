@@ -1,14 +1,14 @@
 {
-    "Name": "Template",
-    "Creature Type": "NonExistant",
-    "Max HP": 999,
+    "Name": "Basilisk",
+    "Creature Type": "Medium Monstrosity",
+    "Max HP": 55,
     "Movement Speeds": {
         "Number": 1,
         "Type 1": "Walking",
-        "Speed 1": 30
+        "Speed 1": 20
     },
-    "Challenge Rating": "1/4",
-    "EXP": 50,
+    "Challenge Rating": "3",
+    "EXP": 700,
     "Skills": {
         "Number": 1,
         "Skill 1": "N/A"
@@ -20,28 +20,28 @@
     },
     "Languages": {
         "Number": 1,
-        "Language 1": "Common"
+        "Language 1": "None"
     },
     "Equipment Actions": {
         "Number": 1,
-        "Action 1": "Scimitar, Melee Weapon Attack, Range: 5ft, Average Damage: 5 Slashing"
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 10 Piercing and 7 Poison"
     },
     "Other Actions": {
         "Number": 1,
-        "Action 1": "Multiattack, Makes 2 attacks with Scimitar"
+        "Action 1": "N/A"
     },
-    "AC": 20,
+    "AC": 15,
     "Stats": {
-        "Strength": 12,
-        "Dexterity": 13,
-        "Constitution": 14,
-        "Intelligence": 15,
-        "Wisdom": 16,
-        "Charisma": 17
+        "Strength": 16,
+        "Dexterity": 8,
+        "Constitution": 15,
+        "Intelligence": 2,
+        "Wisdom": 8,
+        "Charisma": 7
     },
     "Abilities": {
         "Number": 1,
-        "Ability 1": "N/A"
+        "Ability 1": "Petrifying Gaze, The Basilisk eyes a target within 30ft and attempts to petrify them"
     },
     "Damage Vulnerabilities": {
         "Number": 1,

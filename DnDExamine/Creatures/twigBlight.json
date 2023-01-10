@@ -1,51 +1,51 @@
 {
-    "Name": "Template",
-    "Creature Type": "NonExistant",
-    "Max HP": 999,
+    "Name": "Twig Blight",
+    "Creature Type": "Small Plant",
+    "Max HP": 5,
     "Movement Speeds": {
         "Number": 1,
         "Type 1": "Walking",
-        "Speed 1": 30
+        "Speed 1": 20
     },
-    "Challenge Rating": "1/4",
-    "EXP": 50,
+    "Challenge Rating": "1/8",
+    "EXP": 25,
     "Skills": {
         "Number": 1,
-        "Skill 1": "N/A"
+        "Skill 1": "Stealth"
     },
     "Senses": {
         "Number": 2,
-        "Sense 1": "Darkvision",
+        "Sense 1": "Blindsight",
         "Sense 2": "Medium Passive Perception"
     },
     "Languages": {
         "Number": 1,
-        "Language 1": "Common"
+        "Language 1": "Common, but can not speak"
     },
     "Equipment Actions": {
         "Number": 1,
-        "Action 1": "Scimitar, Melee Weapon Attack, Range: 5ft, Average Damage: 5 Slashing"
+        "Action 1": "Claws, Melee Weapon Attack, Range: 5ft, Average Damage: 3 Piercing"
     },
     "Other Actions": {
         "Number": 1,
-        "Action 1": "Multiattack, Makes 2 attacks with Scimitar"
+        "Action 1": "N/A"
     },
-    "AC": 20,
+    "AC": 13,
     "Stats": {
-        "Strength": 12,
+        "Strength": 6,
         "Dexterity": 13,
-        "Constitution": 14,
-        "Intelligence": 15,
-        "Wisdom": 16,
-        "Charisma": 17
+        "Constitution": 12,
+        "Intelligence": 4,
+        "Wisdom": 8,
+        "Charisma": 3
     },
     "Abilities": {
         "Number": 1,
-        "Ability 1": "N/A"
+        "Ability 1": "False Appearance, While the Twig Blight remains motionless, it is indistinguishable from a dead shrub"
     },
     "Damage Vulnerabilities": {
         "Number": 1,
-        "Damage 1": "N/A"
+        "Damage 1": "Fire"
     },
     "Damage Resistances": {
         "Number": 1,
@@ -56,8 +56,9 @@
         "Damage 1": "N/A"
     },
     "Condition Immunities": {
-        "Number": 1,
-        "Condition 1": "N/A"
+        "Number": 2,
+        "Condition 1": "Blinded",
+        "Condition 2": "Deafened"
     },
     "Legendary Actions": {
         "Number": 1,

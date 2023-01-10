@@ -1,0 +1,76 @@
+{
+    "Name": "Bugbear Chief",
+    "Creature Type": "Medium Humanoid (Goblinoid)",
+    "Max HP": 65,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "3",
+    "EXP": 700,
+    "Skills": {
+        "Number": 3,
+        "Skill 1": "Intimidation",
+        "Skill 2": "Stealth",
+        "Skill 3": "Survival"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Common",
+        "Language 2": "Goblin"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Morningstar, Melee Weapon Attack, Range: 5ft, Average Damage: 12 Piercing",
+        "Action 2": "Javelin, Melee or Ranged Weapon Attack, Range: 5ft or 30/120ft, Average Damage: 10 Piercing or 6 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Bugbear Chief makes 2 melee attacks"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 17,
+        "Dexterity": 14,
+        "Constitution": 14,
+        "Intelligence": 11,
+        "Wisdom": 12,
+        "Charisma": 11
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Brute, A melee weapon deals one extra die of damage when the Bugbear Chief hits (included above, whoops, not going back ;)",
+        "Ability 2": "Heart of Hruggek, The Bugbear Chief has advantage on saving throws against being charmed, frightened, paralyzed, poisoned, stunned, or put to sleep",
+        "Ability 3": "Surprise Attack, If the Bugbear Chief surprises a creature and hits it with an attack during the first round of combat, the target takes extra damage"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

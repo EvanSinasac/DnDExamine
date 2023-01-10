@@ -1,0 +1,74 @@
+{
+    "Name": "Bugbear",
+    "Creature Type": "Medium Humanoid (Goblinoid)",
+    "Max HP": 30,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "1",
+    "EXP": 200,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Stealth",
+        "Skill 2": "Survival"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Common",
+        "Language 2": "Goblin"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Morningstar, Melee Weapon Attack, Range: 5ft, Average Damage: 11 Piercing",
+        "Action 2": "Javelin, Melee or Ranged Weapon Attack, Range: 5ft or 30/120ft, Average Damage: 9 Piercing or 5 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 16,
+    "Stats": {
+        "Strength": 15,
+        "Dexterity": 14,
+        "Constitution": 13,
+        "Intelligence": 8,
+        "Wisdom": 11,
+        "Charisma": 9
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Brute, A melee weapon deals one extra die of damage when the Bugbear hits (included above, whoops, not going back ;)",
+        "Ability 2": "Surprise Attack, If the Bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes extra damage"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

@@ -1,0 +1,76 @@
+{
+    "Name": "Behir",
+    "Creature Type": "Huge Monstrosity",
+    "Max HP": 170,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 50,
+        "Type 2": "Climbing",
+        "Speed 2": 40
+    },
+    "Challenge Rating": "11",
+    "EXP": 7200,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Draconic"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 10ft, Average Damage: 22 Piercing",
+        "Action 2": "Constrict, Melee Weapon Attack, Range: 5ft, Average Damage: 17 Bludgeoning plus 17 Slashing, Grapples a hit creature"
+    },
+    "Other Actions": {
+        "Number": 3,
+        "Action 1": "Multiattack, The Behir makes 2 attacks, one with its bite and one to constrict",
+        "Action 2": "Lightning Breath, The Behir exhales a line of lightning that deals an average 66 lightning damage to all creatures caught in the line",
+        "Action 3": "Swallow, The Behir attempts to swallow a medium or smaller creature it's grappling.  A swallowed creature takes an average of 21 acid damage each turn they are trapped"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 23,
+        "Dexterity": 16,
+        "Constitution": 18,
+        "Intelligence": 7,
+        "Wisdom": 14,
+        "Charisma": 12
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "N/A"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Lightning"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

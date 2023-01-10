@@ -1,21 +1,21 @@
 {
-    "Name": "Template",
-    "Creature Type": "NonExistant",
-    "Max HP": 999,
+    "Name": "Vine Blight",
+    "Creature Type": "Medium Plant",
+    "Max HP": 30,
     "Movement Speeds": {
         "Number": 1,
         "Type 1": "Walking",
-        "Speed 1": 30
+        "Speed 1": 10
     },
-    "Challenge Rating": "1/4",
-    "EXP": 50,
+    "Challenge Rating": "1/2",
+    "EXP": 100,
     "Skills": {
         "Number": 1,
-        "Skill 1": "N/A"
+        "Skill 1": "Stealth"
     },
     "Senses": {
         "Number": 2,
-        "Sense 1": "Darkvision",
+        "Sense 1": "Blindsight",
         "Sense 2": "Medium Passive Perception"
     },
     "Languages": {
@@ -24,24 +24,24 @@
     },
     "Equipment Actions": {
         "Number": 1,
-        "Action 1": "Scimitar, Melee Weapon Attack, Range: 5ft, Average Damage: 5 Slashing"
+        "Action 1": "Constrict, Melee Weapon Attack, Range: 10ft, Average Damage: 9 Bludgeoning, Grapples a hit target"
     },
     "Other Actions": {
         "Number": 1,
-        "Action 1": "Multiattack, Makes 2 attacks with Scimitar"
+        "Action 1": "Entagling Plants, The Vine Blight grows grasping roots and vines, creating difficult terrain and attempting to restrain creatures within the area"
     },
-    "AC": 20,
+    "AC": 12,
     "Stats": {
-        "Strength": 12,
-        "Dexterity": 13,
+        "Strength": 15,
+        "Dexterity": 8,
         "Constitution": 14,
-        "Intelligence": 15,
-        "Wisdom": 16,
-        "Charisma": 17
+        "Intelligence": 5,
+        "Wisdom": 10,
+        "Charisma": 3
     },
     "Abilities": {
         "Number": 1,
-        "Ability 1": "N/A"
+        "Ability 1": "False Appearance, While the Vine Blight remains motionless, it is indistinguishable from a tangle of vines"
     },
     "Damage Vulnerabilities": {
         "Number": 1,
@@ -56,8 +56,9 @@
         "Damage 1": "N/A"
     },
     "Condition Immunities": {
-        "Number": 1,
-        "Condition 1": "N/A"
+        "Number": 2,
+        "Condition 1": "Blinded",
+        "Condition 2": "Deafened"
     },
     "Legendary Actions": {
         "Number": 1,

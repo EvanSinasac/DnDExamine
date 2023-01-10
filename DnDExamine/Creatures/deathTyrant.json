@@ -1,0 +1,90 @@
+{
+    "Name": "Death Tyrant",
+    "Creature Type": "Large Undead",
+    "Max HP": 200,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 0,
+        "Type 2": "Flying",
+        "Speed 2": 20
+    },
+    "Challenge Rating": "14",
+    "EXP": 11500,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Deep Speech",
+        "Language 2": "Undercommon"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 14 Piercing"
+    },
+    "Other Actions": {
+        "Number": 11,
+        "Action 1": "Eye Rays, The Undead Beholder's eyes have become floating eyes around the Death Tyrant, these magical eyes shoot similar but stronger rays as a Beholder",
+        "Action 2": "Charm Ray, The Death Tyrant attempts to charm a target",
+        "Action 3": "Paralyzing Ray, The Death Tyrant attempts to paralyze a target",
+        "Action 4": "Fear Ray, The Death Tyrant attempts to frighten a target",
+        "Action 5": "Slowing Ray, The Death Tyrant attempts to slow a target, halving their movement speed",
+        "Action 6": "Enervation Ray, The Death Tyrant blasts a target with a necrotic ray",
+        "Action 7": "Telekinetic Ray, The Death Tyrant exerts a telekinetic grip on a target",
+        "Action 8": "Sleep Ray, The Death Tyrant attempts to induce sleep upon a target",
+        "Action 9": "Petrification Ray, The Death Tyrant blasts a target and begins to petrify them",
+        "Action 10": "Disintigration Ray, The Death Tyrant blasts a target with a force ray, disintigrating objects and any creature it kills",
+        "Action 11": "Death Ray, The Death Tyrant blasts a target, either killing them or dealing massive necrotic damage"
+    },
+    "AC": 19,
+    "Stats": {
+        "Strength": 10,
+        "Dexterity": 14,
+        "Constitution": 14,
+        "Intelligence": 19,
+        "Wisdom": 15,
+        "Charisma": 19
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Negative Energy Cone, The Death Tyrant's central eye emits an invisible cone of negative energy which prevents any form of healing.  In addition, it is said that any creature that would die while in the cone is immediatly revived as a zombie under the Death Tyrant's command"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 6,
+        "Condition 1": "Charmed",
+        "Condition 2": "Exhaustion",
+        "Condition 3": "Paralyzed",
+        "Condition 4": "Petrified",
+        "Condition 5": "Poisoned",
+        "Condition 6": "Prone"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "Eye Ray, The Death Tyrant uses any one of its Eye Rays"
+    },
+    "Lair Actions": {
+        "Number": 3,
+        "Action 1": "The Death Tyrant fills a 50ft cube with spectral eyes and tentacles",
+        "Action 2": "The Death Tyrant causes spectral appendages to sprout from walls, attempting to grapple any creatures near those walls",
+        "Action 3": "The Death Tyrant causes a spectral eye to open in the air and shoots a random eye ray through it, the eye then closes and disappears"
+    }    
+}

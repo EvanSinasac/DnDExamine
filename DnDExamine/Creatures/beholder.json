@@ -1,0 +1,85 @@
+{
+    "Name": "Beholder",
+    "Creature Type": "Large Aberration",
+    "Max HP": 180,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 0,
+        "Type 2": "Flying",
+        "Speed 2": 20
+    },
+    "Challenge Rating": "13",
+    "EXP": 10000,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Deep Speech",
+        "Language 2": "Undercommon"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 14 Piercing"
+    },
+    "Other Actions": {
+        "Number": 11,
+        "Action 1": "Eye Rays, Each of the 10 eye stalks on the Beholder's bulbous head which have each been given a very descriptive name",
+        "Action 2": "Charm Ray, The Beholder attempts to charm a target",
+        "Action 3": "Paralyzing Ray, The Beholder attempts to paralyze a target",
+        "Action 4": "Fear Ray, The Beholder attempts to frighten a target",
+        "Action 5": "Slowing Ray, The Beholder attempts to slow a target, halving their movement speed",
+        "Action 6": "Enervation Ray, The Beholder blasts a target with a necrotic ray",
+        "Action 7": "Telekinetic Ray, The Beholder exerts a telekinetic grip on a target",
+        "Action 8": "Sleep Ray, The Beholder attempts to induce sleep upon a target",
+        "Action 9": "Petrification Ray, The Beholder blasts a target and begins to petrify them",
+        "Action 10": "Disintigration Ray, The Beholder blasts a target with a force ray, disintigrating objects and any creature it kills",
+        "Action 11": "Death Ray, The Beholder blasts a target, either killing them or dealing massive necrotic damage"
+    },
+    "AC": 18,
+    "Stats": {
+        "Strength": 10,
+        "Dexterity": 14,
+        "Constitution": 18,
+        "Intelligence": 17,
+        "Wisdom": 15,
+        "Charisma": 17
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Antimagic Cone, The Beholder's central eye creates a cone of antimagic, similar to the antimagic field spell"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "Prone"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "Eye Ray, The Beholder uses any one of its Eye Rays"
+    },
+    "Lair Actions": {
+        "Number": 3,
+        "Action 1": "The Beholder can cause a 50ft square area to become slimy",
+        "Action 2": "The Beholder can cause grasping appendages to sprout from walls, attempting to grapple any creatures near those walls",
+        "Action 3": "The Beholder can open an eye on a solid surface and fires a random Eye Ray through it, the eye then closes and disappears"
+    }    
+}

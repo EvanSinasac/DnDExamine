@@ -1,0 +1,73 @@
+{
+    "Name": "Bulette",
+    "Creature Type": "Large Monstrosity",
+    "Max HP": 100,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 40,
+        "Type 2": "Burrowing",
+        "Speed 2": 40
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Tremorsense",
+        "Sense 3": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 30 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Deadly Leap, The Bulette jumps 15ft as part of its movement to land in a space containing other creatures, attempting to knock them prone and damaging them with its heavy body"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 19,
+        "Dexterity": 11,
+        "Constitution": 21,
+        "Intelligence": 2,
+        "Wisdom": 10,
+        "Charisma": 5
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Standing Leap, The Bulette can long jump up to 30ft and its high jump is up to 15ft, with or without a running start"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

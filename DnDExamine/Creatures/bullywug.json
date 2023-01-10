@@ -1,0 +1,75 @@
+{
+    "Name": "Bullywug",
+    "Creature Type": "Medium Humanoid (Bullywug)",
+    "Max HP": 11,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 20,
+        "Type 2": "Swimming",
+        "Speed 2": 40
+    },
+    "Challenge Rating": "1/4",
+    "EXP": 50,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Stealth"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Bullywug"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 3 Bludgeoning",
+        "Action 2": "Spear, Melee or Ranged Weapon Attack, Range: 5ft or 20/60ft, Average Damage: 4 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Bullywug makes 2 melee attacks, one with its bite and one with its spear"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 12,
+        "Dexterity": 12,
+        "Constitution": 13,
+        "Intelligence": 7,
+        "Wisdom": 10,
+        "Charisma": 7
+    },
+    "Abilities": {
+        "Number": 4,
+        "Ability 1": "Amphibious, The Bullywug can breath air and water",
+        "Ability 2": "Speak with Frogs and Toads, The Bullywug can communicate simple concepts to frigs and toads",
+        "Ability 3": "Swamp Camouflage, The Bullywug has advantage on Dexterity (Stealth) checks made to hide in swampy terrain",
+        "Ability 4": "Standing Leap, The Bullywug's long jump is up to 20ft and its high jump is up to 10ft, with or without a running start"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}
