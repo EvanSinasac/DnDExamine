@@ -1,0 +1,74 @@
+{
+    "Name": "Chuul",
+    "Creature Type": "Large Aberration",
+    "Max HP": 93,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Swimming",
+        "Speed 2": 30
+    },
+    "Challenge Rating": "4",
+    "EXP": 1100,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Deep Speech, understands but can not speak"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Pincer, Melee Weapon Attack, Range: 10ft, Average Damage: 11 Bludgeoning, Can grapple Large or smaller creatures",
+        "Action 2": "Tentacles, One Creature grappled by the Chuul must succeed a Constitution saving throw or be poisoned.  This poison paralyzes the target"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Chuul makes 2 Pincer attacks.  If the Chuul is grappling a creature, the Chuul can also use its tentacles once."
+    },
+    "AC": 16,
+    "Stats": {
+        "Strength": 19,
+        "Dexterity": 10,
+        "Constitution": 16,
+        "Intelligence": 5,
+        "Wisdom": 11,
+        "Charisma": 5
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Amphibious, The Chuul can breathe air and water",
+        "Ability 2": "Sense Magic, The Chuul can sense magic within 120ft of it at will.  This seems to works like the spell detect magic, but is not magical itself"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

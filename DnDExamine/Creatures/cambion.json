@@ -1,0 +1,84 @@
+{
+    "Name": "Cambion",
+    "Creature Type": "Medium Fiend",
+    "Max HP": 82,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Flying",
+        "Speed 2": 60
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 4,
+        "Skill 1": "Deception",
+        "Skill 2": "Intimidation",
+        "Skill 3": "Perception",
+        "Skill 4": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 3,
+        "Language 1": "Abyssal",
+        "Language 2": "Common",
+        "Language 3": "Infernal"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Spear, Melee or Ranged Weapon Attack, Range: 5ft or 20/60ft, Average Damage: 5 Piercing plus 3 Fire",
+        "Action 2": "Fire Ray, Ranged Spell Attack, Range: 120ft, Average Damage: 10 Fire"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Cambion makes 2 melee attacks or uses its Fire Ray twice",
+        "Action 2": "Fiendish Chamr, The Cambion attempts to charm a target"
+    },
+    "AC": 19,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 18,
+        "Constitution": 16,
+        "Intelligence": 14,
+        "Wisdom": 12,
+        "Charisma": 16
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Fiendish Blessing, The AC of the Cambion includes its Charisma bonus",
+        "Ability 2": "Innate Spellcasting, The Cambion can cast some spells"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 5,
+        "Damage 1": "Cold",
+        "Damage 2": "Fire",
+        "Damage 3": "Lightning",
+        "Damage 4": "Poison",
+        "Damage 5": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

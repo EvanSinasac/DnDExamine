@@ -1,0 +1,70 @@
+{
+    "Name": "Cyclops",
+    "Creature Type": "Huge Giant",
+    "Max HP": 138,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "6",
+    "EXP": 2300,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium-Low Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Common"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Greatclub, Melee Weapon Attack, Range: 10ft, Average Damage: 19 Bludgeoning",
+        "Action 2": "Rock, Ranged Weapon Attack, Range: 30/120ft, Average Damage: 28 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Cyclops makes 2 Greatclub attacks"
+    },
+    "AC": 14,
+    "Stats": {
+        "Strength": 22,
+        "Dexterity": 11,
+        "Constitution": 20,
+        "Intelligence": 8,
+        "Wisdom": 6,
+        "Charisma": 10
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Poor Depth Perception, The Cyclops has disadvantage on any attack roll against a target more than 30ft away"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

@@ -1,0 +1,74 @@
+{
+    "Name": "Crawling Claw",
+    "Creature Type": "Tiny Undead",
+    "Max HP": 2,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 20,
+        "Type 2": "Climbing",
+        "Speed 2": 20
+    },
+    "Challenge Rating": "0",
+    "EXP": 10,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Common, understands but can not speak"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 3 Bludgeoning or Slashing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 12,
+    "Stats": {
+        "Strength": 13,
+        "Dexterity": 14,
+        "Constitution": 11,
+        "Intelligence": 5,
+        "Wisdom": 10,
+        "Charisma": 4
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Turn Immunity, The Crawling Claw is immune to effects that turn undead"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 3,
+        "Condition 1": "Charmed",
+        "Condition 2": "Exhaustion",
+        "Condition 3": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

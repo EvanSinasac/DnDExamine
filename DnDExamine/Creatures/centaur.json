@@ -1,0 +1,74 @@
+{
+    "Name": "Centaur",
+    "Creature Type": "Large Monstrosity",
+    "Max HP": 45,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 50
+    },
+    "Challenge Rating": "2",
+    "EXP": 450,
+    "Skills": {
+        "Number": 3,
+        "Skill 1": "Athletics",
+        "Skill 2": "Perception",
+        "Skill 3": "Survival"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Elvish",
+        "Language 2": "Sylvan"
+    },
+    "Equipment Actions": {
+        "Number": 3,
+        "Action 1": "Pike, Melee Weapon Attack, Range: 10ft, Average Damage: 9 Piercing",
+        "Action 2": "Hooves, Melee Weapon Attack, Range: 5ft, Average Damage: 11 Bludgeoning",
+        "Action 3": "Longbow, Ranged Weapon Attack, Range: 150/600ft, Average Damage: 6 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Centaur makes 2 attacks: one with its pike and one with its hooves or two with its longbow"
+    },
+    "AC": 12,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 14,
+        "Constitution": 14,
+        "Intelligence": 9,
+        "Wisdom": 13,
+        "Charisma": 11
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Charge, If the Centaur moves at least 30ft straight towards a target and then hits it with a pike attack on the same turn, the target takes an extra (average) 10 Piercing"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

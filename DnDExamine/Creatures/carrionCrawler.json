@@ -1,0 +1,74 @@
+{
+    "Name": "Carrion Crawler",
+    "Creature Type": "Large Monstrosity",
+    "Max HP": 51,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Climbing",
+        "Speed 2": 30
+    },
+    "Challenge Rating": "2",
+    "EXP": 450,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Tentacles, Melee Weapon Attack, Range: 10ft, Average Damage: 4 Poison, Can Poison hit targets",
+        "Action 2": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 7 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Carrion Crawler makes 2 attacks, one with its tentacles and one with its bite"
+    },
+    "AC": 13,
+    "Stats": {
+        "Strength": 14,
+        "Dexterity": 13,
+        "Constitution": 16,
+        "Intelligence": 1,
+        "Wisdom": 12,
+        "Charisma": 5
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Keen Smell, The Carrion Crawler has advantage on Wisdom (Perception) checks that rely on smell",
+        "Ability 2": "Spider Climb, The Carrion Crawler can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

@@ -1,0 +1,75 @@
+{
+    "Name": "Chimera",
+    "Creature Type": "Large Monstrosity",
+    "Max HP": 114,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Flying",
+        "Speed 2": 60
+    },
+    "Challenge Rating": "6",
+    "EXP": 2300,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Draconic, understands but can not speak"
+    },
+    "Equipment Actions": {
+        "Number": 3,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 11 Piercing",
+        "Action 2": "Horns, Melee Weapon Attack, Range: 5ft, Average Damage: 10 Bludgeoning",
+        "Action 3": "Claws, Melee Weapon Attack, Range: 5ft, Average Damage: 11 Slashing"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Chimera makes 3 attacks, one with its bite, one with its horn, and one with its claws.  When Fire Breath is available, it can use the breath in place of its bite or horns",
+        "Action 2": "Fire Breath, The dragon head exhales fire in a 15ft cone, dealing an average 31 Fire damage to each creature caught in the cone"
+    },
+    "AC": 14,
+    "Stats": {
+        "Strength": 19,
+        "Dexterity": 11,
+        "Constitution": 19,
+        "Intelligence": 3,
+        "Wisdom": 14,
+        "Charisma": 10
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "N/A"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

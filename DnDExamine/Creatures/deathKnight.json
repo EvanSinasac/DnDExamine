@@ -1,0 +1,78 @@
+{
+    "Name": "Death Knight",
+    "Creature Type": "Medium Undead",
+    "Max HP": 180,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "17",
+    "EXP": 18000,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Abyssal",
+        "Language 2": "Common"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Longsword, Melee Weapon Attack, Range: 5ft, Average Damage: 9 Slashing plus 18 Necrotic"
+    },
+    "Other Actions": {
+        "Number": 3,
+        "Action 1": "Multiattack, The Death Knight makes 3 Longsword attacks",
+        "Action 2": "Hellfire Orb, The Death Knight hurls a magical ball of fire that explodes, each creature caught in its radius takes an average of 35 Fire and 35 Necrotic damage",
+        "Action 3": "Parry, The Death Knight adds 6 to its AC against one melee attack that would hit it, Reaction"
+    },
+    "AC": 20,
+    "Stats": {
+        "Strength": 20,
+        "Dexterity": 11,
+        "Constitution": 20,
+        "Intelligence": 12,
+        "Wisdom": 16,
+        "Charisma": 18
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Magic Resistance, The Death Knight has advantage on saving throws against spells and other magical effects",
+        "Ability 2": "Marshal Undead, The Death Knight and its undead allies have advantage on saving throws against featuers tha tturn undead",
+        "Ability 3": "Spellcasting, The Death Knight is a fallen paladin, a 19th level spellcaster with a number of Paladin spells prepared for battle"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 2,
+        "Damage 1": "Necrotic",
+        "Damage 2": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 3,
+        "Condition 1": "Exhaustion",
+        "Condition 2": "Frightened",
+        "Condition 3": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

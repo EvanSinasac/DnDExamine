@@ -1,0 +1,73 @@
+{
+    "Name": "Darkmantle",
+    "Creature Type": "Small Monstrosity",
+    "Max HP": 22,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 10,
+        "Type 2": "Flying",
+        "Speed 2": 30
+    },
+    "Challenge Rating": "1/2",
+    "EXP": 100,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Crush, Melee Weapon Attack, Range: 5ft, Average Damage: 6 Bludgeoning, If the target is Medium or smaller, the Darkmantle attaches itself to the targets head, blinding and suffocating them"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Darkness Aura, The Darkmantle extends a 15ft radius of magical darkness which moves with it.  Darkvision can not penetrate this darkness, and no natural light can illuminate it.  The darkness can extinguish any magical light of 2nd level or lower"
+    },
+    "AC": 11,
+    "Stats": {
+        "Strength": 16,
+        "Dexterity": 12,
+        "Constitution": 13,
+        "Intelligence": 2,
+        "Wisdom": 10,
+        "Charisma": 5
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Echolocation, The Darkmantle can not use its blindsight while deafened",
+        "Ability 2": "False Appearance, While the Darkmantle remains motionless, it is indistinguishable from a cave formation such as a stalactite or stalagmite"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}
