@@ -1,0 +1,78 @@
+{
+    "Name": "Ice Devil",
+    "Creature Type": "Large Fiend (Devil)",
+    "Max HP": 180,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 40
+    },
+    "Challenge Rating": "14",
+    "EXP": 11500,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Infernal",
+        "Language 2": "Telepathy"
+    },
+    "Equipment Actions": {
+        "Number": 3,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 12 Piercing plus 10 Cold",
+        "Action 2": "Claws, Melee Weapon Attack, Range: 5ft, Average Damage: 10 Slashing plus 10 Cold",
+        "Action 3": "Tail, Melee Weapon Attack, Range: 10ft, Average Damage: 12 Bludgeoning plus 10 Cold"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Ice Devil makes 3 attacks, one with its Bite, one with its Claws, and one with its Tail",
+        "Action 2": "Wall of Ice, The Ice Devil magically forms an opaque wall of ice that is 1ft thick and up to 30ft long and 10ft high, or hemispherical dome up to 20ft in diameter.  When summoned, creatures in its space are pushed to either side of it.  Those creatures also make a Dexterity saving throw, taking an average 35 Cold damage from the wall"
+    },
+    "AC": 18,
+    "Stats": {
+        "Strength": 21,
+        "Dexterity": 14,
+        "Constitution": 18,
+        "Intelligence": 18,
+        "Wisdom": 15,
+        "Charisma": 18
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Devil's Sight, Magical darkness doesn't impede the Devil's darkvision",
+        "Ability 2": "Magic Resistance, The Devil has advantage on saving throws against spells and other magical effects"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with silvered weapons"
+    },
+    "Damage Immunities": {
+        "Number": 3,
+        "Damage 1": "Cold",
+        "Damage 2": "Fire",
+        "Damage 3": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

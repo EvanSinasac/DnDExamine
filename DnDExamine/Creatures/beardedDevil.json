@@ -1,0 +1,76 @@
+{
+    "Name": "Bearded Devil",
+    "Creature Type": "Medium Fiend (Devil)",
+    "Max HP": 52,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Infernal",
+        "Language 2": "Telepathy"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Beard, Melee Weapon Attack, Range: 5ft, Average Damage: 6 Piercing, Can poison a hit target",
+        "Action 2": "Glaive, Melee Weapon Attack, Range: 10ft, Average Damage: 8 Slashing, Can cause an Infernal Wound that causes the target to bleed and take damage every turn"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Bearded Devil makes 2 attacks, one with its Beard and one with its Glaive."
+    },
+    "AC": 13,
+    "Stats": {
+        "Strength": 16,
+        "Dexterity": 15,
+        "Constitution": 15,
+        "Intelligence": 9,
+        "Wisdom": 11,
+        "Charisma": 11
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Devil's Sight, Magical darkness doesn't impede the Devil's darkvision",
+        "Ability 2": "Magic Resistance, The Devil has advantage on saving throws against spells and other magical effects",
+        "Ability 3": "Steadfast, The Devil can't be frightened while it can see an allied creature"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 2,
+        "Damage 1": "Cold",
+        "Damage 2": "Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with silvered weapons"
+    },
+    "Damage Immunities": {
+        "Number": 2,
+        "Damage 1": "Fire",
+        "Damage 2": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

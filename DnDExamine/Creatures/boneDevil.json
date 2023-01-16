@@ -1,0 +1,78 @@
+{
+    "Name": "Bone Devil",
+    "Creature Type": "Large Fiend (Devil)",
+    "Max HP": 142,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 40,
+        "Type 2": "Flying",
+        "Speed 2": 40
+    },
+    "Challenge Rating": "9",
+    "EXP": 5000,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Deception",
+        "Skill 2": "Insight"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Infernal",
+        "Language 2": "Telepathy"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Claw, Melee Weapon Attack, Range: 10ft, Average Damage: 8 Slashing",
+        "Action 2": "Sting, Melee Weapon Attack, Range: 10ft, Average Damage: 13 Piercing plus 17 Poison, Can Posion hit target"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Devil makes 3 attacks, two with its Claws and one with its Sting"
+    },
+    "AC": 19,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 16,
+        "Constitution": 18,
+        "Intelligence": 13,
+        "Wisdom": 14,
+        "Charisma": 16
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Devil's Sight, Magical darkness doesn't impede the Devil's darkvision",
+        "Ability 2": "Magic Resistance, The Devil has advantage on saving throws against spells and other magical effects"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 2,
+        "Damage 1": "Cold",
+        "Damage 2": "Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with silvered weapons"
+    },
+    "Damage Immunities": {
+        "Number": 2,
+        "Damage 1": "Fire",
+        "Damage 2": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

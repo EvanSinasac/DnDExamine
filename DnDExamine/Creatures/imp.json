@@ -1,0 +1,80 @@
+{
+    "Name": "Imp",
+    "Creature Type": "Tiny Fiend (Devil, Shapechanger)",
+    "Max HP": 10,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 20,
+        "Type 2": "Flying",
+        "Speed 2": 40
+    },
+    "Challenge Rating": "1",
+    "EXP": 200,
+    "Skills": {
+        "Number": 4,
+        "Skill 1": "Deception",
+        "Skill 2": "Insight",
+        "Skill 3": "Persuasion",
+        "Skill 4": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Infernal",
+        "Language 2": "Common"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Sting (Bite in Beast Form), Melee Weapon Attack, Range: 5ft, Average Damage: 5 Piercing, The target makes a Constitution saving throw, taking an Average 10 Poison damage"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Invisibility, The Imp magically turns invisible"
+    },
+    "AC": 13,
+    "Stats": {
+        "Strength": 6,
+        "Dexterity": 17,
+        "Constitution": 13,
+        "Intelligence": 11,
+        "Wisdom": 12,
+        "Charisma": 14
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Shapechanger, The Imp can use its action to polymorph into a beast form that resembles a rat (speed 20ft), a raven (20ft, fly 60ft), or a spider (20ft, climb 20ft) or back into its true form.  Its statistics are the same in each form, except for the speed changes noted.",
+        "Ability 2": "Devil's Sight, Magical darkness doesn't impede the Devil's darkvision",
+        "Ability 3": "Magic Resistance, The Devil has advantage on saving throws against spells and other magical effects"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 2,
+        "Damage 1": "Cold",
+        "Damage 2": "Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with silvered weapons"
+    },
+    "Damage Immunities": {
+        "Number": 2,
+        "Damage 1": "Fire",
+        "Damage 2": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

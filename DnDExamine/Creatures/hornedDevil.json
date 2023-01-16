@@ -1,0 +1,78 @@
+{
+    "Name": "Horned Devil",
+    "Creature Type": "Large Fiend (Devil)",
+    "Max HP": 178,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 20,
+        "Type 2": "Flying",
+        "Speed 2": 60
+    },
+    "Challenge Rating": "11",
+    "EXP": 7200,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Infernal",
+        "Language 2": "Telepathy"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Fork, Melee Weapon Attack, Range: 10ft, Average Damage: 15 Piercing",
+        "Action 2": "Tail, Melee Weapon Attack, Range: 10ft, Average Damage: 10 Piercing, Can inflict an Infernal Wound that causes the creature to bleed every turn"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Horned Devil makes 3 melee attacks, two with its fork and one with its tail.  It can use Hurl Flame in place of any melee attack",
+        "Action 2": "Hurl Flame, Ranged Spell Attack, Range: 150ft, Average Damage: 14 Fire"
+    },
+    "AC": 18,
+    "Stats": {
+        "Strength": 22,
+        "Dexterity": 17,
+        "Constitution": 21,
+        "Intelligence": 12,
+        "Wisdom": 16,
+        "Charisma": 17
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Devil's Sight, Magical darkness doesn't impede the Devil's darkvision",
+        "Ability 2": "Magic Resistance, The Devil has advantage on saving throws against spells and other magical effects"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 2,
+        "Damage 1": "Cold",
+        "Damage 2": "Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with silvered weapons"
+    },
+    "Damage Immunities": {
+        "Number": 2,
+        "Damage 1": "Fire",
+        "Damage 2": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

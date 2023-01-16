@@ -1,0 +1,79 @@
+{
+    "Name": "Barbed Devil",
+    "Creature Type": "Medium Fiend (Devil)",
+    "Max HP": 110,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 3,
+        "Skill 1": "Deception",
+        "Skill 2": "Insight",
+        "Skill 3": "Perception"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Infernal",
+        "Language 2": "Telepathy"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 6 Piercing",
+        "Action 2": "Tail, Melee Weapon Attack, Range: 5ft, Average Damage: 10 Piercing"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Barbed Devil makes 3 melee attacks, one with its Tail and two with its Claws.  Alternatively, the Barbed Devil can use Hurl Flame twice",
+        "Action 2": "Hurl Flame, Ranged Spell Attack, Range: 150ft, Average Damage: 10 Fire"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 16,
+        "Dexterity": 17,
+        "Constitution": 18,
+        "Intelligence": 12,
+        "Wisdom": 14,
+        "Charisma": 14
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Barbed Hide, At the start of its turn, The Barbed Devil deals Piercing damage to any creature grappling it",
+        "Ability 2": "Devil's Sight, Magical darkness doesn't impede the Devil's darkvision",
+        "Ability 3": "Magic Resistance, The Devil has advantage on saving throws against spells and other magical effects"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 2,
+        "Damage 1": "Cold",
+        "Damage 2": "Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with silvered weapons"
+    },
+    "Damage Immunities": {
+        "Number": 2,
+        "Damage 1": "Fire",
+        "Damage 2": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

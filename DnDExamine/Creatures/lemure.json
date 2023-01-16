@@ -1,0 +1,74 @@
+{
+    "Name": "Lemure",
+    "Creature Type": "Medium Fiend (Devil)",
+    "Max HP": 13,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 15
+    },
+    "Challenge Rating": "0",
+    "EXP": 10,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Infernal, understands but can not speak"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Fist, Melee Weapon Attack, Range: 5ft, Average Damage: 2 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 7,
+    "Stats": {
+        "Strength": 10,
+        "Dexterity": 5,
+        "Constitution": 11,
+        "Intelligence": 1,
+        "Wisdom": 11,
+        "Charisma": 3
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Devil's Sight, Magical darkness doesn't impede the Devil's darkvision",
+        "Ability 2": "Hellish Rejuvination, A Lemure that dies in the Nine Hells comes back to life with all its hit points after a few days unless it is killed by a good-aligned creature with a bless spell cast on that creature or its remains are sprinkled with holy water"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "Cold"
+    },
+    "Damage Immunities": {
+        "Number": 2,
+        "Damage 1": "Fire",
+        "Damage 2": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 3,
+        "Condition 1": "Charmed",
+        "Condition 2": "Frightened",
+        "Condition 3": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}
