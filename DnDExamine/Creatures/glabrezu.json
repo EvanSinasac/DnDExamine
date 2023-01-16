@@ -1,0 +1,76 @@
+{
+    "Name": "Glabrezu",
+    "Creature Type": "Large Fiend (Demon)",
+    "Max HP": 157,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 40
+    },
+    "Challenge Rating": "9",
+    "EXP": 5000,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Truesight",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Abyssal",
+        "Language 2":"Telepathy"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Pincer, Melee Weapon Attack, Range: 10ft, Average Damage: 16 Bludgeoning, Can Grapple Medium or smaller creatures",
+        "Action 2": "Fist, Melee Weapon Attack, Range: 5ft, Average Damage: 7 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Glabrezu makes 4 attacks, two with its Pincers and two with its Fists.  Alternatively, it makes two attacks with its Pincers and casts one spell"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 20,
+        "Dexterity": 15,
+        "Constitution": 21,
+        "Intelligence": 19,
+        "Wisdom": 17,
+        "Charisma": 16
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Innate Spellcasting, The Glabrezu can innately cast a few spells",
+        "Ability 2": "Magic Resistance, The Glabrezu has advantage on saving throws against spells and other magical effects"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 4,
+        "Damage 1": "Cold",
+        "Damage 2": "Fire",
+        "Damage 3": "Lightning",
+        "Damage 4": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

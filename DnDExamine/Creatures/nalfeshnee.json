@@ -1,0 +1,79 @@
+{
+    "Name": "Nalfeshnee",
+    "Creature Type": "Large Fiend (Demon)",
+    "Max HP": 184,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 20,
+        "Type 2": "Flying",
+        "Speed 2": 30
+    },
+    "Challenge Rating": "13",
+    "EXP": 10000,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Truesight",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Abyssal",
+        "Language 2": "Telepathy"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 32 Piercing",
+        "Action 2": "Claw, Melee Weapon Attack, Range: 10ft, Average Damage: 15 Slashing"
+    },
+    "Other Actions": {
+        "Number": 3,
+        "Action 1": "Multiattack, The Nalfeshnee uses Horror Nimbus if it can.  It then makes 3 attacks, one with its bite and two with its claws",
+        "Action 2": "Horror Nimbus, The Nalfeshnee emits magical, scintillating multicolored light.  Each creature within range and can see the light makes a Wisdom saving throw or be frightened by the Nalfeshnee",
+        "Action 3": "Teleport, The Nalfeshnee magically teleports to an unoccupied space it can see"
+    },
+    "AC": 18,
+    "Stats": {
+        "Strength": 21,
+        "Dexterity": 10,
+        "Constitution": 22,
+        "Intelligence": 19,
+        "Wisdom": 12,
+        "Charisma": 15
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Magic Resistance, The Nalfeshnee has advantage on saving throws against spells and other magical effects"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 4,
+        "Damage 1": "Cold",
+        "Damage 2": "Fire",
+        "Damage 3": "Lightning",
+        "Damage 4": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

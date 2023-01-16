@@ -1,0 +1,78 @@
+{
+    "Name": "Chasme",
+    "Creature Type": "Large Fiend (Demon)",
+    "Max HP": 84,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 20,
+        "Type 2": "Flying",
+        "Speed 2": 60
+    },
+    "Challenge Rating": "6",
+    "EXP": 2300,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Abyssal",
+        "Language 2": "Telepathy"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Proboscis, Melee Weapon Attack, Range: 5ft, Average Damage: 16 Piercing plus 24 Necrotic, A hit target's HP maximum is reduced by the amount of Necrotic damage taken"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 15,
+        "Dexterity": 15,
+        "Constitution": 12,
+        "Intelligence": 11,
+        "Wisdom": 14,
+        "Charisma": 10
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Drone, The Chasme produces a horrid droning sound that can knock creatures unconscious",
+        "Ability 2": "Magic Resistance, The Chasme has advantage on saving throws against spells and other magical effects",
+        "Ability 3": "Spider Climb, The Chasme can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 3,
+        "Damage 1": "Cold",
+        "Damage 2": "Fire",
+        "Damage 3": "Lightning"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

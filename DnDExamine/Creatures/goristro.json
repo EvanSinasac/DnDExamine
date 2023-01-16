@@ -1,0 +1,78 @@
+{
+    "Name": "Goristro",
+    "Creature Type": "Huge Fiend (Demon)",
+    "Max HP": 310,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 40
+    },
+    "Challenge Rating": "17",
+    "EXP": 18000,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Abyssal"
+    },
+    "Equipment Actions": {
+        "Number": 3,
+        "Action 1": "Fist, Melee Weapon Attack, Range: 10ft, Average Damage: 20 Bludgeoning",
+        "Action 2": "Hoof, Melee Weapon Attack, Range: 5ft, Average Damage: 23 Bludgeoning, Can knock the target Prone",
+        "Action 3": "Gore, Melee Weapon Attack, Range: 10ft, Average Damage: 45 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Goristro makes 3 attacks, two with its Fists and one with hits Hoof"
+    },
+    "AC": 19,
+    "Stats": {
+        "Strength": 25,
+        "Dexterity": 11,
+        "Constitution": 25,
+        "Intelligence": 6,
+        "Wisdom": 13,
+        "Charisma": 14
+    },
+    "Abilities": {
+        "Number": 4,
+        "Ability 1": "Charge, If the Goristro moves at least 15ft straight towards a target and then hits it with a Gore attack, the target takes an extra Average 38 Piercing Damage and can be knocked Prone or pushed away",
+        "Ability 2": "Labyrinthine Recall, The Goristro can perfectly recall any path it has traveled",
+        "Ability 3": "Magic Resistance, The Goristro has advantage on saving throws against spells and other magical effects",
+        "Ability 4": "Siege Monster, The Goristro deals double damage to objects and structures"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 4,
+        "Damage 1": "Cold",
+        "Damage 2": "Fire",
+        "Damage 3": "Lightning",
+        "Damage 4": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

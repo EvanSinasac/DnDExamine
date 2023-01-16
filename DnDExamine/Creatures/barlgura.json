@@ -1,0 +1,80 @@
+{
+    "Name": "Barlgura",
+    "Creature Type": "Large Fiend (Demon)",
+    "Max HP": 68,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 40,
+        "Type 2": "Climbing",
+        "Speed 2": 40
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Abyssal",
+        "Language 2": "Telepathy"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 11 Piercing",
+        "Action 2": "Fist, Melee Weapon Attack, Range: 5ft, Average Damage: 9 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Barlgura makes 3 attacks, one with its bite and two with its fists"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 15,
+        "Constitution": 16,
+        "Intelligence": 7,
+        "Wisdom": 14,
+        "Charisma": 9
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Innate Spellcasting, The Barlgura can innately cast a number of spells",
+        "Ability 2": "Reckless, At the start of its turn, the Barlgura can gain advantage on all melee weapon attack rolls it makes during that turn, and all attacks against it have advantage until the start of its next turn",
+        "Ability 3": "Running Leap, The Barlgura's long jump is up to 40ft and its high jump is up to 20ft when it has a running start"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 3,
+        "Damage 1": "Cold",
+        "Damage 2": "Fire",
+        "Damage 3": "Lightning"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

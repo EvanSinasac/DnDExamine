@@ -1,0 +1,87 @@
+{
+    "Name": "Shadow Demon",
+    "Creature Type": "Medium Fiend (Demon)",
+    "Max HP": 66,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Flying",
+        "Speed 2": 30
+    },
+    "Challenge Rating": "4",
+    "EXP": 1100,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Abyssal",
+        "Language 2": "Telepathy"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Claws, Melee Weapon Attack, Range: 5ft, Average Damage: 10 Psychic"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 13,
+    "Stats": {
+        "Strength": 1,
+        "Dexterity": 17,
+        "Constitution": 12,
+        "Intelligence": 14,
+        "Wisdom": 13,
+        "Charisma": 14
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Incorporeal Movement, The Shadow Demon can move through other creatures and objects as if they were difficult terrain",
+        "Ability 2": "Light Sensitivity, While in bright light, the Shadow Demon has disadvantage on attack rolls, as well as Wisdom (Perception) checks that rely on sight",
+        "Ability 3": "Shadow Stealth, While in dim light or darkness, the Shadow Demon can take the Hide action as a bonus action"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "Radiant"
+    },
+    "Damage Resistances": {
+        "Number": 5,
+        "Damage 1": "Acid",
+        "Damage 2": "Fire",
+        "Damage 3": "Necrotic",
+        "Damage 4": "Thunder",
+        "Damage 5": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 3,
+        "Damage 1": "Cold",
+        "Damage 2": "Lightning",
+        "Damage 3": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 7,
+        "Condition 1": "Exhaustion",
+        "Condition 2": "Grappled",
+        "Condition 3": "Paralyzed",
+        "Condition 4": "Petrified",
+        "Condition 5": "Poisoned",
+        "Condition 6": "Prone",
+        "Condition 7": "Restrained"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}
