@@ -1,0 +1,70 @@
+{
+    "Name": "Triceratops",
+    "Creature Type": "Huge Beast",
+    "Max HP": 95,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 50
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Gore, Melee Weapon Attack, Range: 5ft, Average Damage: 24 Piercing",
+        "Action 2": "Stomp, Melee Weapon Attack, Range: 5ft, Average Damage: 22 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 13,
+    "Stats": {
+        "Strength": 22,
+        "Dexterity": 9,
+        "Constitution": 17,
+        "Intelligence": 2,
+        "Wisdom": 11,
+        "Charisma": 5
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Trampling Charge, If the Triceratops moves at least 20ft straight toward a creature and then hits it with a gore attack, that target muct succeed on a Strength saving throw or be knocked prone.  If the target is prone, the Triceratops can make one Stomp attack as a bonus action"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

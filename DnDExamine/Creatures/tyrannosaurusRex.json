@@ -1,0 +1,70 @@
+{
+    "Name": "Tyrannosaurus Rex",
+    "Creature Type": "Huge Beast",
+    "Max HP": 136,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 50
+    },
+    "Challenge Rating": "8",
+    "EXP": 3900,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 10ft, Average Damage: 33 Piercing, If the creature is Medium or smaller, it is grappled",
+        "Action 2": "Tail, Melee Weapon Attack, Range: 10ft, Average Damage: 20 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Tyrannosaurus Rex makes two attacks, one with its Bite and one with its Tail.  It can not make both attacks against the same target"
+    },
+    "AC": 13,
+    "Stats": {
+        "Strength": 25,
+        "Dexterity": 10,
+        "Constitution": 19,
+        "Intelligence": 2,
+        "Wisdom": 12,
+        "Charisma": 9
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "N/A"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

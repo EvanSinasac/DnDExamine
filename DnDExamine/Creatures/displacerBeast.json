@@ -1,0 +1,71 @@
+{
+    "Name": "Displacer Beast",
+    "Creature Type": "Medium Monstrosity",
+    "Max HP": 85,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 40
+    },
+    "Challenge Rating": "3",
+    "EXP": 700,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Tentacle, Melee Weapon Attack, Range: 10ft, Average Damage: 7 Bludgeoning plus 3 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Displacer Beast makes 2 attacks with its Tentacles"
+    },
+    "AC": 13,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 15,
+        "Constitution": 16,
+        "Intelligence": 6,
+        "Wisdom": 12,
+        "Charisma": 8
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Avoidance, If the Displacer Beast is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeeds on the saving throw, or only half damage if it fails",
+        "Ability 2": "Displacement, The Displacer Beast projects a magical illusion that makes it appear to be standing near its actual location, causing attack rolls against it to have disadvantage.  Once hit, the illusion breaks until the end of the Displacer Beast's next turn"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

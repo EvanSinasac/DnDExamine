@@ -1,0 +1,74 @@
+{
+    "Name": "Doppelganger",
+    "Creature Type": "Medium Monstrosity (Shapechanger)",
+    "Max HP": 52,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "3",
+    "EXP": 700,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Deception",
+        "Skill 2": "Insight"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Common"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Slam, Melee Weapon Attack, Range: 5ft, Average Damage: 7 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Doppelganger makes 2 melee attacks",
+        "Action 2": "Read Thoughts, The Doppelganger magically reads the surface thoughts of one creature within range.  The effect can penetrate thin barriers, it is known that a thin sheet of lead blocks this effect"
+    },
+    "AC": 14,
+    "Stats": {
+        "Strength": 11,
+        "Dexterity": 18,
+        "Constitution": 14,
+        "Intelligence": 11,
+        "Wisdom": 12,
+        "Charisma": 14
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Shapechanger, The Doppelganger can use its action to polymorph into a Small or Medium humanoid it has seen, or back into its true form.  Its statistics are the same in each form",
+        "Ability 2": "Ambusher, In the first round of combat, the Doppelganger has advantage on attack rolls against any creature it surprised",
+        "Ability 3": "Surprise Attack, If the Doppelganger surprises a creature and hits it with an attack during the first round of combat, the target takes an extra Average 10 damage from the attack"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "Charmed"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}
