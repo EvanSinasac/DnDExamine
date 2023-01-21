@@ -1,0 +1,78 @@
+{
+    "Name": "White Dragon Wyrmling",
+    "Creature Type": "Medium Dragon",
+    "Max HP": 32,
+    "Movement Speeds": {
+        "Number": 4,
+        "Type 1": "Walking",
+        "Speed 1": 40,
+        "Type 2": "Burrow",
+        "Speed 2": 15,
+        "Type 3": "Flying",
+        "Speed 3": 60,
+        "Type 4": "Swimming",
+        "Speed 4": 30
+    },
+    "Challenge Rating": "2",
+    "EXP": 450,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Draconic"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 7 Piercing plus 2 Acid"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Cold Breath, The Dragon exhales ice in a cone.  Each creature caught in the cone takes an Average 22 Cold damage"
+    },
+    "AC": 16,
+    "Stats": {
+        "Strength": 14,
+        "Dexterity": 10,
+        "Constitution": 14,
+        "Intelligence": 5,
+        "Wisdom": 10,
+        "Charisma": 11
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Ice Walk, The Dragon can move across and climb icy surfaces without needing to make an ability check.  Additionally, difficult terrain composed of ice or snow doesn't cost it extra movement"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Cold"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

@@ -1,0 +1,79 @@
+{
+    "Name": "Young Blue Dragon",
+    "Creature Type": "Large Dragon",
+    "Max HP": 152,
+    "Movement Speeds": {
+        "Number": 3,
+        "Type 1": "Walking",
+        "Speed 1": 40,
+        "Type 2": "Flying",
+        "Speed 2": 80,
+        "Type 3": "Burrowing",
+        "Speed 3": 20
+    },
+    "Challenge Rating": "9",
+    "EXP": 5000,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Common",
+        "Language 2": "Draconic"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 10ft, Average Damage: 16 Piercing plus 5 Lightning",
+        "Action 2": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 12 Slashing"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Dragon makes 3 attacks, one with its bite and two with its claws",
+        "Action 2": "Lightning Breath, The Dragon exhales lightning in a line.  Each creature caught in the line takes an Average 55 Lightning damage"
+    },
+    "AC": 18,
+    "Stats": {
+        "Strength": 21,
+        "Dexterity": 10,
+        "Constitution": 19,
+        "Intelligence": 14,
+        "Wisdom": 13,
+        "Charisma": 17
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "N/A"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Lightning"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

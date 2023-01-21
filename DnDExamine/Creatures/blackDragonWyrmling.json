@@ -1,0 +1,76 @@
+{
+    "Name": "Black Dragon Wyrmling",
+    "Creature Type": "Medium Dragon",
+    "Max HP": 33,
+    "Movement Speeds": {
+        "Number": 3,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Flying",
+        "Speed 2": 60,
+        "Type 3": "Swimming",
+        "Speed 3": 30
+    },
+    "Challenge Rating": "2",
+    "EXP": 450,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Draconic"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 7 Piercing plus 2 Acid"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Acid Breath, The Dragon exhales acid in a line.  Each creature caught in the line takes an Average 22 Acid damage"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 15,
+        "Dexterity": 14,
+        "Constitution": 13,
+        "Intelligence": 10,
+        "Wisdom": 11,
+        "Charisma": 13
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Amphibious, The Dragon can breath air and water"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Acid"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

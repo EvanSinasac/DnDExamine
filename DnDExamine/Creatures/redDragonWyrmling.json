@@ -1,0 +1,76 @@
+{
+    "Name": "Red Dragon Wyrmling",
+    "Creature Type": "Medium Dragon",
+    "Max HP": 75,
+    "Movement Speeds": {
+        "Number": 3,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Flying",
+        "Speed 2": 60,
+        "Type 3": "Climbing",
+        "Speed 3": 30
+    },
+    "Challenge Rating": "4",
+    "EXP": 1100,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Draconic"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 9 Piercing plus 3 Fire"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Fire Breath, The Dragon exhales fire in a cone.  Each creature caught in the cone takes an Average 24 Fire damage"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 19,
+        "Dexterity": 10,
+        "Constitution": 17,
+        "Intelligence": 12,
+        "Wisdom": 11,
+        "Charisma": 15
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "N/A"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Fire"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

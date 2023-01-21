@@ -1,0 +1,88 @@
+{
+    "Name": "Adult White Dragon",
+    "Creature Type": "Huge Dragon",
+    "Max HP": 200,
+    "Movement Speeds": {
+        "Number": 4,
+        "Type 1": "Walking",
+        "Speed 1": 40,
+        "Type 2": "Burrow",
+        "Speed 2": 30,
+        "Type 3": "Flying",
+        "Speed 3": 80,
+        "Type 4": "Swimming",
+        "Speed 4": 40
+    },
+    "Challenge Rating": "13",
+    "EXP": 10000,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Common",
+        "Language 2": "Draconic"
+    },
+    "Equipment Actions": {
+        "Number": 3,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 10ft, Average Damage: 17 Piercing plus 4 Cold",
+        "Action 2": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 13 Slashing",
+        "Action 3": "Tail, Melee Weapon Attack, Range: 15ft, Average Damage: 15 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 3,
+        "Action 1": "Multiattack, The Dragon can use its Frightful Presence.  It then makes 3 attacks, one with its bite and two with its claws",
+        "Action 2": "Frightful Presence, Each creature that is aware of the Dragon must succeed on a Wisdom saving throw or become frightened of the Dragon",
+        "Action 3": "Cold Breath, The Dragon exhales ice in a cone.  Each creature caught in the cone takes an Average 54 Cold damage"
+    },
+    "AC": 18,
+    "Stats": {
+        "Strength": 22,
+        "Dexterity": 10,
+        "Constitution": 22,
+        "Intelligence": 8,
+        "Wisdom": 12,
+        "Charisma": 12
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Ice Walk, The Dragon can move across and climb icy surfaces without needing to make an ability check.  Additionally, difficult terrain composed of ice or snow doesn't cost it extra movement",
+        "Ability 2": "Legendary Resistance, If the Dragon fails a saving throw, it can choose to succeed instead"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Cold"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 3,
+        "Action 1": "Detect, The Dragon makes a Wisdom (Perception) check",
+        "Action 2": "Tail Attack, The Dragon makes a Tail attack",
+        "Action 3": "Wing Attack, The Dragon beats its wings.  Nearby creatures make a Dexterity saving throw, failing they take an Average 13 Bludgeoning damage and be knocked prone.  The Dragon can then fly up to half its flying speed"
+    },
+    "Lair Actions": {
+        "Number": 3,
+        "Action 1": "Freezing fog fills a sphere, heavily obscuring the area.  Each creature caught in the area when it appears makes a Constitution saving throw, taking an Average 10 Cold damage.  Creatures that stay in the fog take additional damage at the end of their turn",
+        "Action 2": "Jagged ice shards fall from the ceiling, striking creatures underneath them.  A hit target takes an Average 10 Piercing",
+        "Action 3": "An opaque wall of ice is created.  When the wall appears, each creature is pushed to either side of the wall"
+    }    
+}

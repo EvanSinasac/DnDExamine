@@ -1,0 +1,81 @@
+{
+    "Name": "Young White Dragon",
+    "Creature Type": "Large Dragon",
+    "Max HP": 133,
+    "Movement Speeds": {
+        "Number": 4,
+        "Type 1": "Walking",
+        "Speed 1": 40,
+        "Type 2": "Burrow",
+        "Speed 2": 20,
+        "Type 3": "Flying",
+        "Speed 3": 80,
+        "Type 4": "Swimming",
+        "Speed 4": 40
+    },
+    "Challenge Rating": "6",
+    "EXP": 2300,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Common",
+        "Language 2": "Draconic"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 10ft, Average Damage: 15 Piercing plus 4 Cold",
+        "Action 2": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 11 Slashing"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Dragon makes 3 attacks, one with its bite and two with its claws",
+        "Action 2": "Cold Breath, The Dragon exhales ice in a come.  Each creature caught in the cone takes an Average 45 Cold damage"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 10,
+        "Constitution": 18,
+        "Intelligence": 6,
+        "Wisdom": 11,
+        "Charisma": 12
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Ice Walk, The Dragon can move across and climb icy surfaces without needing to make an ability check.  Additionally, difficult terrain composed of ice or snow doesn't cost it extra movement"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Cold"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}
