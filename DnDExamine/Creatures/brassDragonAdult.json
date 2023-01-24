@@ -1,0 +1,88 @@
+{
+    "Name": "Adult Brass Dragon",
+    "Creature Type": "Huge Dragon",
+    "Max HP": 172,
+    "Movement Speeds": {
+        "Number": 3,
+        "Type 1": "Walking",
+        "Speed 1": 40,
+        "Type 2": "Burrowing",
+        "Speed 2": 30,
+        "Type 3": "Flying",
+        "Speed 3": 80
+    },
+    "Challenge Rating": "13",
+    "EXP": 10000,
+    "Skills": {
+        "Number": 4,
+        "Skill 1": "History",
+        "Skill 2": "Perception",
+        "Skill 3": "Persuasion",
+        "Skill 4": "Stealth"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Common",
+        "Language 2": "Draconic"
+    },
+    "Equipment Actions": {
+        "Number": 3,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 10ft, Average Damage: 17 Piercing",
+        "Action 2": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 13 Slashing",
+        "Action 3": "Tail, Melee Weapon Attack, Range: 15ft, Average Damage: 15 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 4,
+        "Action 1": "Multiattack, The Dragon can use its Frightful Presence.  It then makes 3 attacks, one with its Bite and two with its Claws",
+        "Action 2": "Frightful Presence, Each creature that is aware of the Dragon must succeed on a Wisdom saving throw or become frightened of the Dragon",
+        "Action 3": "Fire Breath, The Dragon exhales fire in a line.  Each creature caught in the line takes an Average 45 Fire damage",
+        "Action 4": "Sleep Breath, The Dragon exhales sleeping gas in a cone.  Each creature caught in the area makes a Constitution saving throw or falls unconcious"
+    },
+    "AC": 18,
+    "Stats": {
+        "Strength": 23,
+        "Dexterity": 10,
+        "Constitution": 21,
+        "Intelligence": 14,
+        "Wisdom": 13,
+        "Charisma": 17
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Legendary Resistance, If the Dragon fails a saving throw, it can choose to succeed instead"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Fire"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 3,
+        "Action 1": "Detect, The Dragon makes a Wisdom (Perception) check",
+        "Action 2": "Tail Attack, The Dragon makes a Tail attack",
+        "Action 3": "Wing Attack, The Dragon beats its wings.  Nearby creatures make a Dexterity saving throw, failing they take an Average 13 Bludgeoning damage and be knocked prone.  The Dragon can then fly up to half its flying speed"
+    },
+    "Lair Actions": {
+        "Number": 3,
+        "Action 1": "Tracks appear in the sand within range of the lair.  These tracks lead to safe shelters and hidden water sources, while also leading away from areas that the dragon prefers to remain undisturbed",
+        "Action 2": "Images of Large or smaller monsters that haunt the desert lair appear.  The illusions move and appear real, although they can do no harm",
+        "Action 3": "The Dragon is aware of any creature within range of a water source within its lair"
+    }    
+}

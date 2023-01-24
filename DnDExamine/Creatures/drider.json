@@ -1,0 +1,80 @@
+{
+    "Name": "Drider",
+    "Creature Type": "Large Monstrosity",
+    "Max HP": 123,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Climbing",
+        "Speed 2": 30
+    },
+    "Challenge Rating": "6",
+    "EXP": 2300,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Elvish",
+        "Language 2": "Undercommon"
+    },
+    "Equipment Actions": {
+        "Number": 3,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 2 Piercing plus 9 Poison",
+        "Action 2": "Longsword, Melee Weapon Attack, Range: 5ft, Average Damage: 7 Slashing",
+        "Action 3": "Longbow, Ranged Weapon Attack, Range: 150/600, Average Damage: 7 Piercing plus 4 Poison"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Drider makes 3 attacks, either with its Longsword or its Longbow.  It can replace one of those attacks with a Bite attack"
+    },
+    "AC": 19,
+    "Stats": {
+        "Strength": 16,
+        "Dexterity": 16,
+        "Constitution": 18,
+        "Intelligence": 13,
+        "Wisdom": 14,
+        "Charisma": 12
+    },
+    "Abilities": {
+        "Number": 5,
+        "Ability 1": "Fey Ancestry, The Drider has advantage on saving throws against being charmed, and magic can't put the Drider to sleep",
+        "Ability 2": "Innate Spellcasting, The Drider has the ability to cast a few spells",
+        "Ability 3": "Spider Climb, The Drider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check",
+        "Ability 4": "Sunlight Sensitivity, The Drider has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight while in sunlight",
+        "Ability 5": "Web Walker, The Drider ignores movement restrictions caused by webbing"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

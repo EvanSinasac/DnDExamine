@@ -1,0 +1,77 @@
+{
+    "Name": "Gold Dragon Wyrmling",
+    "Creature Type": "Medium Dragon",
+    "Max HP": 60,
+    "Movement Speeds": {
+        "Number": 3,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Swimming",
+        "Speed 2": 30,
+        "Type 3": "Flying",
+        "Speed 3": 60
+    },
+    "Challenge Rating": "3",
+    "EXP": 700,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Draconic"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 9 Piercing"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Fire Breath, The Dragon exhales fire in a cone.  Each creature caught in the cone takes an Average 14 Fire damage",
+        "Action 2": "Weaking Breath, The Dragon exhales gas in a cone.  Each creature caught in the area makes a Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 19,
+        "Dexterity": 14,
+        "Constitution": 17,
+        "Intelligence": 14,
+        "Wisdom": 11,
+        "Charisma": 16
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Amphibious, The Dragon can breathe air and water"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Fire"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

@@ -1,0 +1,81 @@
+{
+    "Name": "Young Brass Dragon",
+    "Creature Type": "Large Dragon",
+    "Max HP": 110,
+    "Movement Speeds": {
+        "Number": 3,
+        "Type 1": "Walking",
+        "Speed 1": 40,
+        "Type 2": "Burrowing",
+        "Speed 2": 20,
+        "Type 3": "Flying",
+        "Speed 3": 80
+    },
+    "Challenge Rating": "6",
+    "EXP": 2300,
+    "Skills": {
+        "Number": 3,
+        "Skill 1": "Perception",
+        "Skill 2": "Persuasion",
+        "Skill 3": "Stealth"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Common",
+        "Language 2": "Draconic"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 10ft, Average Damage: 15 Piercing",
+        "Action 2": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 11 Slashing"
+    },
+    "Other Actions": {
+        "Number": 3,
+        "Action 1": "Multiattack, The Dragon makes 3 attacks, one with its Bite and two with its Claws",
+        "Action 2": "Fire Breath, The Dragon exhales fire in a line.  Each creature caught in the line takes an Average 42 Fire damage",
+        "Action 3": "Sleep Breath, The Dragon exhales sleeping gas in a cone.  Each creature caught in the area makes a Constitution saving throw or falls unconcious"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 19,
+        "Dexterity": 10,
+        "Constitution": 17,
+        "Intelligence": 12,
+        "Wisdom": 11,
+        "Charisma": 15
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "N/A"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Fire"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

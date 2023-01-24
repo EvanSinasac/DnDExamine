@@ -1,0 +1,77 @@
+{
+    "Name": "Brass Dragon Wyrmling",
+    "Creature Type": "Medium Dragon",
+    "Max HP": 16,
+    "Movement Speeds": {
+        "Number": 3,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Burrowing",
+        "Speed 2": 15,
+        "Type 3": "Flying",
+        "Speed 3": 60
+    },
+    "Challenge Rating": "1",
+    "EXP": 200,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Draconic"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 7 Piercing"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Fire Breath, The Dragon exhales fire in a line.  Each creature caught in the line takes an Average 14 Fire damage",
+        "Action 2": "Sleep Breath, The Dragon exhales sleeping gas in a cone.  Each creature caught in the area makes a Constitution saving throw or falls unconcious"
+    },
+    "AC": 16,
+    "Stats": {
+        "Strength": 15,
+        "Dexterity": 10,
+        "Constitution": 13,
+        "Intelligence": 10,
+        "Wisdom": 11,
+        "Charisma": 13
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "N/A"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Fire"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

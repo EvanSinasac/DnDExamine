@@ -1,0 +1,74 @@
+{
+    "Name": "Duergar",
+    "Creature Type": "Medium Humanoid (Dwarf)",
+    "Max HP": 26,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 25
+    },
+    "Challenge Rating": "1",
+    "EXP": 200,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Dwarvish",
+        "Language 2": "Undercommon"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "War Pick, Melee Weapon Attack, Range: 5ft, Average Damage: 6 Piercing",
+        "Action 2": "Javeling, Melee or Ranged Weapon Attack, Range: 5ft or 30/120ft, Average Damage: 5 Piercing"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Enlarge, The Durgar magically increases in size, along with anything it is wearing or carrying.  While enlarged, the Duergar is Large, doubles its damage dice on Strength-based weapon attacks, and makes Strength checks and Strength saving throws with advantage",
+        "Action 2": "Invisibility, The Duergar magically turns invisible until it attacks, casts a spell, uses Enlarge, or until its concentration is broken"
+    },
+    "AC": 16,
+    "Stats": {
+        "Strength": 14,
+        "Dexterity": 11,
+        "Constitution": 14,
+        "Intelligence": 11,
+        "Wisdom": 10,
+        "Charisma": 9
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Duergar Resilience, The Duergar has advantage on saving throws against poison, spells, illusions, being charmed and paralyzed",
+        "Ability 2": "Sunlight Sensitivity, The Duergar has disadvantage on attack rolls, as well as Wisdom (Perception) checks that rely on sight while in sunlight"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

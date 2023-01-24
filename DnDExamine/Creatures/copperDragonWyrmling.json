@@ -1,0 +1,77 @@
+{
+    "Name": "Copper Dragon Wyrmling",
+    "Creature Type": "Medium Dragon",
+    "Max HP": 22,
+    "Movement Speeds": {
+        "Number": 3,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Climbing",
+        "Speed 2": 30,
+        "Type 3": "Flying",
+        "Speed 3": 60
+    },
+    "Challenge Rating": "1",
+    "EXP": 200,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Draconic"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 7 Piercing"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Acid Breath, The Dragon exhales acid in a line.  Each creature caught in the line takes an Average 18 Acid damage",
+        "Action 2": "Slowing Breath, The Dragon exhales gas in a cone.  Each creature caught in the area makes a Constitution saving throw, failing they can not use reactions, its speed is halved and it can not make more than one attack on its turn.  The creature can use an action or a bonus action on its turn, but not both"
+    },
+    "AC": 16,
+    "Stats": {
+        "Strength": 15,
+        "Dexterity": 12,
+        "Constitution": 13,
+        "Intelligence": 14,
+        "Wisdom": 11,
+        "Charisma": 13
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "N/A"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Acid"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

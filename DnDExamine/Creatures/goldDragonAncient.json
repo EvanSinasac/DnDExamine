@@ -1,0 +1,89 @@
+{
+    "Name": "Ancient Gold Dragon",
+    "Creature Type": "Gargantuan Dragon",
+    "Max HP": 546,
+    "Movement Speeds": {
+        "Number": 3,
+        "Type 1": "Walking",
+        "Speed 1": 40,
+        "Type 2": "Swimming",
+        "Speed 2": 40,
+        "Type 3": "Flying",
+        "Speed 3": 80
+    },
+    "Challenge Rating": "24",
+    "EXP": 62000,
+    "Skills": {
+        "Number": 4,
+        "Skill 1": "Insight",
+        "Skill 2": "Perception",
+        "Skill 3": "Persuasion",
+        "Skill 4": "Stealth"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "Very High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Common",
+        "Language 2": "Draconic"
+    },
+    "Equipment Actions": {
+        "Number": 3,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 15ft, Average Damage: 21 Piercing",
+        "Action 2": "Claw, Melee Weapon Attack, Range: 10ft, Average Damage: 17 Slashing",
+        "Action 3": "Tail, Melee Weapon Attack, Range: 20ft, Average Damage: 19 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 5,
+        "Action 1": "Multiattack, The Dragon can use its Frightful Presence.  It then makes 3 attacks, one with its Bite and two with its Claws",
+        "Action 2": "Frightful Presence, Each creature that is aware of the Dragon must succeed on a Wisdom saving throw or become frightened of the Dragon",
+        "Action 3": "Fire Breath, The Dragon exhales fire in a cone.  Each creature caught in the cone takes an Average 71 Fire damage",
+        "Action 4": "Weaking Breath, The Dragon exhales gas in a cone.  Each creature caught in the area makes a Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws",
+        "Action 5": "Change Shape, The Dragon magically polymorphs into a humanoid or beast, or back into its true form"
+    },
+    "AC": 22,
+    "Stats": {
+        "Strength": 30,
+        "Dexterity": 14,
+        "Constitution": 29,
+        "Intelligence": 18,
+        "Wisdom": 17,
+        "Charisma": 28
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Amphibious, The Dragon can breathe air and water",
+        "Ability 2": "Legendary Resistance, If the Dragon fails a saving throw, it can choose to succeed instead"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Fire"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 3,
+        "Action 1": "Detect, The Dragon makes a Wisdom (Perception) check",
+        "Action 2": "Tail Attack, The Dragon makes a Tail attack",
+        "Action 3": "Wing Attack, The Dragon beats its wings.  Nearby creatures make a Dexterity saving throw, failing they take an Average 17 Bludgeoning damage and be knocked prone.  The Dragon can then fly up to half its flying speed"
+    },
+    "Lair Actions": {
+        "Number": 2,
+        "Action 1": "The Dragon can take a glimpse into the future, giving it advantage on upcoming rolls",
+        "Action 2": "The Dragon attempts to banish a creature it can see to the Dream Plane.  To escape, the creature makes a Charisma check contested by the Dragon"
+    }    
+}

@@ -1,0 +1,81 @@
+{
+    "Name": "Young Bronze Dragon",
+    "Creature Type": "Large Dragon",
+    "Max HP": 142,
+    "Movement Speeds": {
+        "Number": 3,
+        "Type 1": "Walking",
+        "Speed 1": 40,
+        "Type 2": "Swimming",
+        "Speed 2": 40,
+        "Type 3": "Flying",
+        "Speed 3": 80
+    },
+    "Challenge Rating": "8",
+    "EXP": 3900,
+    "Skills": {
+        "Number": 3,
+        "Skill 1": "Insight",
+        "Skill 2": "Persuasion",
+        "Skill 3": "Stealth"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Common",
+        "Language 2": "Draconic"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 10ft, Average Damage: 16 Piercing",
+        "Action 2": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 12 Slashing"
+    },
+    "Other Actions": {
+        "Number": 3,
+        "Action 1": "Multiattack, The Dragon makes 3 attacks, one with its Bite and two with its Claws",
+        "Action 2": "Lightning Breath, The Dragon exhales lightning in a line.  Each creature caught in the line takes an Average 55 Lightning damage",
+        "Action 3": "Repulsion Breath, The Dragon exhales repulsion energy in a cone.  Each creature caught in the area makes a Strength saving throw or be pushed away from the Dragon"
+    },
+    "AC": 18,
+    "Stats": {
+        "Strength": 21,
+        "Dexterity": 10,
+        "Constitution": 19,
+        "Intelligence": 14,
+        "Wisdom": 13,
+        "Charisma": 17
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Amphibious, The Dragon can breathe air and water"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Lightning"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

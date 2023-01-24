@@ -1,0 +1,86 @@
+{
+    "Name": "Adult Silver Dragon",
+    "Creature Type": "Huge Dragon",
+    "Max HP": 243,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 40,
+        "Type 2": "Flying",
+        "Speed 2": 80
+    },
+    "Challenge Rating": "16",
+    "EXP": 15000,
+    "Skills": {
+        "Number": 4,
+        "Skill 1": "Arcana",
+        "Skill 2": "History",
+        "Skill 3": "Perception",
+        "Skill 4": "Stealth"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Common",
+        "Language 2": "Draconic"
+    },
+    "Equipment Actions": {
+        "Number": 3,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 10ft, Average Damage: 19 Piercing",
+        "Action 2": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 15 Slashing",
+        "Action 3": "Tail, Melee Weapon Attack, Range: 15ft, Average Damage: 17 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 5,
+        "Action 1": "Multiattack, The Dragon can use its Frightful Presence.  It then makes 3 attacks, one with its Bite and two with its Claws",
+        "Action 2": "Frightful Presence, Each creature that is aware of the Dragon must succeed on a Wisdom saving throw or become frightened of the Dragon",
+        "Action 3": "Cold Breath, The Dragon exhales ice in a come.  Each creature caught in the cone takes an Average 58 Cold damage",
+        "Action 4": "Paralyzing Breath, The Dragon exhales paralyzing gas in a cone.  Each creature caught in the area makes a Constitution saving throw or be paralyzed",
+        "Action 5": "Change Shape, The Dragon magically polymorphs into a humanoid or beast, or back into its true form"
+    },
+    "AC": 19,
+    "Stats": {
+        "Strength": 27,
+        "Dexterity": 10,
+        "Constitution": 25,
+        "Intelligence": 16,
+        "Wisdom": 13,
+        "Charisma": 21
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Legendary Resistance, If the Dragon fails a saving throw, it can choose to succeed instead"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Cold"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 3,
+        "Action 1": "Detect, The Dragon makes a Wisdom (Perception) check",
+        "Action 2": "Tail Attack, The Dragon makes a Tail attack",
+        "Action 3": "Wing Attack, The Dragon beats its wings.  Nearby creatures make a Dexterity saving throw, failing they take an Average 15 Bludgeoning damage and be knocked prone.  The Dragon can then fly up to half its flying speed"
+    },
+    "Lair Actions": {
+        "Number": 2,
+        "Action 1": "A cloud of fog appears, obscuring the area.  Seems very similar to the fog cloud spell",
+        "Action 2": "A blisteringly cold wind blows through the lair.  Each creature near the Dragon makes a Constitution saving throw, taking an Average 5 Cold damage on a fail.  The wind disperses gases and vapors, and extinguisehes unprotected flames"
+    }    
+}

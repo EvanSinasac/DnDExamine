@@ -1,0 +1,77 @@
+{
+    "Name": "Bronze Dragon Wyrmling",
+    "Creature Type": "Medium Dragon",
+    "Max HP": 32,
+    "Movement Speeds": {
+        "Number": 3,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Swimming",
+        "Speed 2": 30,
+        "Type 3": "Flying",
+        "Speed 3": 60
+    },
+    "Challenge Rating": "2",
+    "EXP": 450,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Draconic"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 8 Piercing"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Lightning Breath, The Dragon exhales lightning in a line.  Each creature caught in the line takes an Average 16 Lightning damage",
+        "Action 2": "Repulsion Breath, The Dragon exhales repulsion energy in a cone.  Each creature caught in the area makes a Strength saving throw or is pushed away from the Dragon"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 17,
+        "Dexterity": 10,
+        "Constitution": 15,
+        "Intelligence": 12,
+        "Wisdom": 11,
+        "Charisma": 15
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "N/A"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Lightning"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}
