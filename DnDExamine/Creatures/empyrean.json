@@ -1,0 +1,81 @@
+{
+    "Name": "Empyrean",
+    "Creature Type": "Huge Celestial (Titan)",
+    "Max HP": 313,
+    "Movement Speeds": {
+        "Number": 3,
+        "Type 1": "Walking",
+        "Speed 1": 50,
+        "Type 2": "Flying",
+        "Speed 2": 50,
+        "Type 3": "Swimming",
+        "Speed 3": 50
+    },
+    "Challenge Rating": "23",
+    "EXP": 50000,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Insight",
+        "Skill 2": "Persuasion"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Truesight",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "All"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Maul, Melee Weapon Attack, Range: 10ft, Average Damage: 31 Bludgeoning and can Stun",
+        "Action 2": "Bolt, Ranged Spell Attack, Range: 600ft, Average Damage: 24 Acid, Cold, Fire, Force, Lightning, Radiant, or Thunder (choice, wtf)"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 22,
+    "Stats": {
+        "Strength": 30,
+        "Dexterity": 21,
+        "Constitution": 30,
+        "Intelligence": 21,
+        "Wisdom": 22,
+        "Charisma": 27
+    },
+    "Abilities": {
+        "Number": 4,
+        "Ability 1": "Innate Spellcasting, The Empyrean can innately cast a bunch of spells",
+        "Ability 2": "Legendary Resistance, If the Empyrean fails a saving throw, it can choose to succeed instead",
+        "Ability 3": "Magic Resistance, The Empyrean has advantage on saving throws against spells and other magical effects",
+        "Ability 4": "Magic Weapons, The Empyrean's weapon attacks are magical"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 3,
+        "Action 1": "Attack, The Empyrean makes one attack",
+        "Action 2": "Bolster, The Empyrean bolsters its allies.  Bolstered creatures can not be charmed or frightned, and gain advantage on ability checks and saving throws",
+        "Action 3": "Trembling Strike, The Empyrean strikes the ground with its Maul, triggering an earth tremor.  All creatures on the ground make a Strength saving throw or be knocked prone"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

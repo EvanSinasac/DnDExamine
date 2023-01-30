@@ -1,0 +1,78 @@
+{
+    "Name": "Faerie Dragon",
+    "Creature Type": "Tiny Dragon",
+    "Max HP": 14,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 10,
+        "Type 2": "Flying",
+        "Speed 2": 60
+    },
+    "Challenge Rating": "1 or 2 (Depends on age)",
+    "EXP": 200,
+    "Skills": {
+        "Number": 3,
+        "Skill 1": "Arcana",
+        "Skill 2": "Perception",
+        "Skill 3": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Draconic",
+        "Language 2": "Sylvan"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 1 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Euphoria Breath, The Faerie Dragon exhales a puff of gas at a creature.  The affected creature becomes confused and behaves erratically"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 3,
+        "Dexterity": 20,
+        "Constitution": 13,
+        "Intelligence": 14,
+        "Wisdom": 12,
+        "Charisma": 16
+    },
+    "Abilities": {
+        "Number": 4,
+        "Ability 1": "Superior Invisibility, The Faerie Dragon can magically turn invisible as a Bonus Action",
+        "Ability 2": "Limited Telepathy, The Faerie Dragon can magically communicate with any other Faerie Dragon within range",
+        "Ability 3": "Magic Resistance, The Faerie Dragon has advantage on saving throws against spells and other magical effects",
+        "Ability 4": "Innate Spellcasting, The Faerie Dragon can innately cast a number of spells depending on its age and colour"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

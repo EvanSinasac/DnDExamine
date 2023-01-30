@@ -1,0 +1,76 @@
+{
+    "Name": "Drow Elite Warrior",
+    "Creature Type": "Medium Humanoid (Elf)",
+    "Max HP": 71,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Elvish",
+        "Language 2": "Undercommon"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Shortsword, Melee Weapon Attack, Range: 5ft, Average Damage: 7 Piercing plus 10 Poison",
+        "Action 2": "Hand Crossbow, Ranged Weapon Attack, Range: 30/120ft, Average Damage: 5 Piercing and can poison"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Drow makes 2 Shortsword attacks",
+        "Action 2": "Parry, The Drow can parry a melee weapon attack it can see, Reaction"
+    },
+    "AC": 18,
+    "Stats": {
+        "Strength": 13,
+        "Dexterity": 18,
+        "Constitution": 14,
+        "Intelligence": 11,
+        "Wisdom": 13,
+        "Charisma": 12
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Fey Ancestry, The Drow has advantage on saving throws against being charmed and magic can not put the Drow to sleep",
+        "Ability 2": "Innate Spellcasting, The Drow can innately cast a few spells, requiring no material components",
+        "Ability 3": "Sunlight Sensitivity, The Drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight while in Sunlight"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

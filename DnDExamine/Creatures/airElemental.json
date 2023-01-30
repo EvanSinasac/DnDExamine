@@ -1,0 +1,82 @@
+{
+    "Name": "Air Elemental",
+    "Creature Type": "Large Elemental",
+    "Max HP": 90,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 0,
+        "Type 2": "Flying",
+        "Speed 2": 90
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Auran"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Slam, Melee Weapon Attack, Range: 5ft, Average Damage: 14 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Air Elemental makes 2 Slam attacks",
+        "Action 2": "Whirlwind, Each creature in the Air Elemental's space make a Strength saving throw, taking an Average 15 Bludgeoning damage and flung in a random direction away from the Air Elemental on a failure"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 14,
+        "Dexterity": 20,
+        "Constitution": 14,
+        "Intelligence": 6,
+        "Wisdom": 10,
+        "Charisma": 6
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Air Form, The Air Elemental can enter other creature's space.  It can move through a space as narrow as 1 inch wide without squeezing"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 3,
+        "Damage 1": "Lightning",
+        "Damage 2": "Thunder",
+        "Damage 3": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 8,
+        "Condition 1": "Exhaustion",
+        "Condition 2": "Grappled",
+        "Condition 3": "Paralyzed",
+        "Condition 4": "Petrified",
+        "Condition 5": "Poisoned",
+        "Condition 6": "Prone",
+        "Condition 7": "Restrained",
+        "Condition 8": "Unconscious"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

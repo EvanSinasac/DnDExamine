@@ -1,0 +1,78 @@
+{
+    "Name": "Gas Spore",
+    "Creature Type": "Large Plant",
+    "Max HP": 1,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 0,
+        "Type 2": "Flying",
+        "Speed 2": 10
+    },
+    "Challenge Rating": "1/2",
+    "EXP": 100,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Low Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Touch, Melee Weapon Attack, Range: 5ft, Average Damage: 1 Poison and can infect creatures with a disease"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 5,
+    "Stats": {
+        "Strength": 5,
+        "Dexterity": 1,
+        "Constitution": 3,
+        "Intelligence": 1,
+        "Wisdom": 1,
+        "Charisma": 1
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Death Burst, The Gas Spore explodes, spreading infectious spores in a 20ft radius.  Creatures caught in the explosion make a Constitution saving throw as the spores attempt to invade the creature's system.  The poisonous spores will kill infected creatures within hours unless the disease is removed in time",
+        "Ability 2": "Eerie Resemblance, The Gas Spore resenbles a Beholder.  Creatures can determine its true nature with a successful Intelligence (Nature) check"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 6,
+        "Condition 1": "Blinded",
+        "Condition 2": "Deafened",
+        "Condition 3": "Frightened",
+        "Condition 4": "Paralyzed",
+        "Condition 5": "Poisoned",
+        "Condition 6": "Prone"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

@@ -1,0 +1,77 @@
+{
+    "Name": "Flumph",
+    "Creature Type": "Small Aberration",
+    "Max HP": 7,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 5,
+        "Type 2": "Flying",
+        "Speed 2": 30
+    },
+    "Challenge Rating": "1/8",
+    "EXP": 25,
+    "Skills": {
+        "Number": 3,
+        "Skill 1": "Arcana",
+        "Skill 2": "History",
+        "Skill 3": "Religion"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Undercommon, understands but can not speak",
+        "Language 2": "Telepathy"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Tendrils, Melee Weapon Attack, Range: 5ft, Average Damage: 4 Piercing plus 2 Acid"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Stench Spray, The Flumph expels a foul-smelling liquid in a 15ft cone.  Creatures caught in the liquid exude a horrible stench for hours and is poisoned"
+    },
+    "AC": 12,
+    "Stats": {
+        "Strength": 6,
+        "Dexterity": 15,
+        "Constitution": 10,
+        "Intelligence": 14,
+        "Wisdom": 14,
+        "Charisma": 11
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Advanced Telepathy, The Flumph can perceive the content of any telepathic communication used within 60ft of it, and it can not be surprised by creatures with any form of telepathy",
+        "Ability 2": "Prone Deficiency, If the Flumph is knocked prone, there is a chance it lands upside down and becomes fully incapacitated",
+        "Ability 3": "Telepathic Shroud, The Flumph is immune to any effect that would sense its emothions or read its thoughts.  Wait, how are you reading this, it's immune to divination spells too!"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "Psychic"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

@@ -155,6 +155,10 @@ int main(int argv, char* argc)
 					{
 						std::cout << "      " << currentCreature->lairActions[index] << std::endl;
 					}
+
+					std::cout << std::endl;
+					std::cout << "---------------------------------------------------------------------------------" << std::endl;
+
 				}
 			}
 

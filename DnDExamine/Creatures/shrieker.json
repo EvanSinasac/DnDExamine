@@ -1,0 +1,72 @@
+{
+    "Name": "Shrieker",
+    "Creature Type": "Medium Plant",
+    "Max HP": 13,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 0
+    },
+    "Challenge Rating": "0",
+    "EXP": 10,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Low Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Shriek, When bright light or a creature is within range of the Shrieker, it begins to shriek.  The shriek is so loud and continuous that creatures within 300ft can hear it.  The Shrieker continues to shriek until the disturbance moves out of range, Reaction"
+    },
+    "AC": 5,
+    "Stats": {
+        "Strength": 1,
+        "Dexterity": 1,
+        "Constitution": 10,
+        "Intelligence": 1,
+        "Wisdom": 3,
+        "Charisma": 1
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "False Appearance, While the Shrieker remains motionless, it is indistinguishable from an ordinary fungus"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 3,
+        "Condition 1": "Blinded",
+        "Condition 2": "Deafened",
+        "Condition 3": "Frightened"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

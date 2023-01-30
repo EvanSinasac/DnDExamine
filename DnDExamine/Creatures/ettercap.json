@@ -1,0 +1,78 @@
+{
+    "Name": "Ettercap",
+    "Creature Type": "Medium Monstrosity",
+    "Max HP": 44,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Climbing",
+        "Speed 2": 30
+    },
+    "Challenge Rating": "2",
+    "EXP": 450,
+    "Skills": {
+        "Number": 3,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth",
+        "Skill 3": "Survival"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 6 Piercing plus 4 Poison and can poison",
+        "Action 2": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 7 Slashing"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Ettercap makes 2 attacks, one with its Bite and one with its Claws",
+        "Action 2": "Web, Ranged Weapon Attack, Range: 30/60ft, On a hit, the Ettercap restrains the creature with webbing"
+    },
+    "AC": 13,
+    "Stats": {
+        "Strength": 14,
+        "Dexterity": 15,
+        "Constitution": 13,
+        "Intelligence": 7,
+        "Wisdom": 12,
+        "Charisma": 8
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Spider Climb, The Ettercap can climb on difficult surfaces, including upside down on ceilings, without needing to make an ability check.  Why tf is this thing just a giant spider that can choke people with a web garrote lmao",
+        "Ability 2": "Web Sense, While in contact with a web, the Ettercap knows the exact location of any other creature in contact with the web.  It's just a spider",
+        "Ability 3": "Web Walker, The Ettercap ignores movement restrictions caused by webbing.  Seriously, it's just a humanoid spider.  What is this from"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

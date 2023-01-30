@@ -1,0 +1,74 @@
+{
+    "Name": "Fomorian",
+    "Creature Type": "Huge Giant",
+    "Max HP": 149,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "8",
+    "EXP": 3900,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Giant",
+        "Language 2": "Undercommon"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Greatclub, Melee Weapon Attack, Range: 15ft, Average Damage: 19 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 3,
+        "Action 1": "Multiattack, The Fomorian attacks twice with its Greatclub or makes one Greatclub attack and uses Evil Eye once",
+        "Action 2": "Evil Eye, The Fomorian magically forces a creature it can see within range to make a Charisma saving throw.  The creature takes an Average 27 Psychic damage",
+        "Action 3": "Curse of the Evil Eye, The Fomorian uses Evil Eye, however if the creature fails the saving throw, it is also cursed with magical deformities.  These deformities halve the creature's speed and has disadvantage on ability checks, saving throws and on Stength and Dexterity based attacks"
+    },
+    "AC": 14,
+    "Stats": {
+        "Strength": 23,
+        "Dexterity": 10,
+        "Constitution": 20,
+        "Intelligence": 9,
+        "Wisdom": 14,
+        "Charisma": 6
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "N/A"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

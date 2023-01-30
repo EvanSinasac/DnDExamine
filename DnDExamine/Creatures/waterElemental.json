@@ -1,0 +1,82 @@
+{
+    "Name": "Water Elemental",
+    "Creature Type": "Large Elemental",
+    "Max HP": 114,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Swimming",
+        "Speed 2": 90
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Aquan"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Slam, Melee Weapon Attack, Range: 5ft, Average Damage: 13 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Water Elemental makes 2 Slam attacks",
+        "Action 2": "Whelm, The Water Elemental attempts to Grapple all creatures in its space.  Those creatures make a Strength saving throw, taking an Average 13 Bludgeoning damage and becoming restrained and drowning on a failure"
+    },
+    "AC": 14,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 14,
+        "Constitution": 18,
+        "Intelligence": 5,
+        "Wisdom": 10,
+        "Charisma": 8
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Water Form, The Water Elemental's watery form allows it to enter other creature's space and move through narrow spaces",
+        "Ability 2": "Freeze, The Water Elemental is susceptable to Cold damage, partially freezing and slowing afterwards"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 2,
+        "Damage 1": "Acid",
+        "Damage 2": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 8,
+        "Condition 1": "Exhaustion",
+        "Condition 2": "Grappled",
+        "Condition 3": "Paralyzed",
+        "Condition 4": "Petrified",
+        "Condition 5": "Poisoned",
+        "Condition 6": "Prone",
+        "Condition 7": "Restrained",
+        "Condition 8": "Unconscious"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

@@ -1,0 +1,72 @@
+{
+    "Name": "Violet Fungus",
+    "Creature Type": "Medium Plant",
+    "Max HP": 18,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 5
+    },
+    "Challenge Rating": "1/4",
+    "EXP": 50,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Low Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Rotting Touch, Melee Weapon Attack, Range: 10ft, Average Damage: 4 Necrotic"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Violet Fungus makes 1d4 Rotting Touch attacks"
+    },
+    "AC": 5,
+    "Stats": {
+        "Strength": 3,
+        "Dexterity": 1,
+        "Constitution": 10,
+        "Intelligence": 1,
+        "Wisdom": 3,
+        "Charisma": 1
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "False Appearance, While the Violet Fungus remains motionless it is indistinguishable from an ordinary fungus"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 3,
+        "Condition 1": "Blinded",
+        "Condition 2": "Deafened",
+        "Condition 3": "Frightened"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

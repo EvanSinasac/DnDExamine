@@ -1,0 +1,84 @@
+{
+    "Name": "Flameskull",
+    "Creature Type": "Tiny Undead",
+    "Max HP": 40,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 0,
+        "Type 2": "Flying",
+        "Speed 2": 40
+    },
+    "Challenge Rating": "4",
+    "EXP": 1100,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Arcana",
+        "Skill 2": "Perception"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Common"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Fire Ray, Ranged Spell Attack, Range: 30ft, Average Damage: 10 Fire"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Flameskull uses Fire Ray twice"
+    },
+    "AC": 13,
+    "Stats": {
+        "Strength": 1,
+        "Dexterity": 17,
+        "Constitution": 14,
+        "Intelligence": 16,
+        "Wisdom": 10,
+        "Charisma": 11
+    },
+    "Abilities": {
+        "Number": 4,
+        "Ability 1": "Illumination, The flames surrounding the Flameskull emits light that it can control",
+        "Ability 2": "Magic Resistance, The Flameskull has advantage on saving throws against spells and other magical effects",
+        "Ability 3": "Rejuvenation, The Flameskull can revive itself after an hour unless it is dispelled by magic or holy water",
+        "Ability 4": "Spellcasting, The Flameskull is a 5th level spellcaster with a number of Wizard spells prepared"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 3,
+        "Damage 1": "Lightning",
+        "Damage 2": "Necrotic",
+        "Damage 3": "Piercing"
+    },
+    "Damage Immunities": {
+        "Number": 3,
+        "Damage 1": "Cold",
+        "Damage 2": "Fire",
+        "Damage 3": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 5,
+        "Condition 1": "Charmed",
+        "Condition 2": "Frightened",
+        "Condition 3": "Paralyzed",
+        "Condition 4": "Poisoned",
+        "Condition 5": "Prone"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

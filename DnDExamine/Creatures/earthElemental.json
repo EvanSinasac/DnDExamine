@@ -1,0 +1,78 @@
+{
+    "Name": "Earth Elemental",
+    "Creature Type": "Large Elemental",
+    "Max HP": 126,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Burrowing",
+        "Speed 2": 30
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Tremorsense",
+        "Sense 3": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Terran"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Slam, Melee Weapon Attack, Range: 5ft, Average Damage: 14 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Earth Elemental makes 2 Slam attacks"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 20,
+        "Dexterity": 8,
+        "Constitution": 20,
+        "Intelligence": 5,
+        "Wisdom": 10,
+        "Charisma": 5
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Earth Glide, The Earth Elemental moves through the Earth seamlessly",
+        "Ability 2": "Siege Monster, The Earth Elemental heavy attacks deal massive damage to buildings and other structures"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "Thunder"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 5,
+        "Condition 1": "Exhaustion",
+        "Condition 2": "Paralyzed",
+        "Condition 3": "Petrified",
+        "Condition 4": "Poisoned",
+        "Condition 5": "Unconscious"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}
