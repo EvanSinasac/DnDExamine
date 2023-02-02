@@ -1,0 +1,89 @@
+{
+    "Name": "Ghost",
+    "Creature Type": "Medium Undead",
+    "Max HP": 45,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 0,
+        "Type 2": "Flying",
+        "Speed 2": 40
+    },
+    "Challenge Rating": "4",
+    "EXP": 1100,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Any it knew in life! (what do I do with that for this lmfao)"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Withering Touch, Melee Weapon Attack, Range: 5ft, Average Damage: 17 Necrotic"
+    },
+    "Other Actions": {
+        "Number": 3,
+        "Action 1": "Etherealness, The Ghost enters the Ethereal Plane from the Material Plane, or vice versa",
+        "Action 2": "Horrifying Visage, The Ghost reveals its cursed visage, attempting to frighten creatures that see it.  It has been said that this skill can also cause creatures to age rapidly",
+        "Action 3": "Possession, The Ghost possesses a living humanoid.  It is said a possessed person retains awareness but is unable to exert any control over their body"
+    },
+    "AC": 11,
+    "Stats": {
+        "Strength": 7,
+        "Dexterity": 13,
+        "Constitution": 10,
+        "Intelligence": 10,
+        "Wisdom": 12,
+        "Charisma": 17
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Ethereal Sight, The Ghost can see into the Ethereal plane when it is on the Material Plane, and vice versa",
+        "Ability 2": "Incorporeal Movement, The Ghost can move through other creates and objects"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 5,
+        "Damage 1": "Acid",
+        "Damage 2": "Fire",
+        "Damage 3": "Lightning",
+        "Damage 4": "Thunder",
+        "Damage 5": "Bludgeoning, Piercing, Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 3,
+        "Damage 1": "Cold",
+        "Damage 2": "Necrotic",
+        "Damage 3": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 9,
+        "Condition 1": "Charmed",
+        "Condition 2": "Exhaustion",
+        "Condition 3": "Frightened",
+        "Condition 4": "Grappled",
+        "Condition 5": "Paralyzed",
+        "Condition 6": "Petrified",
+        "Condition 7": "Poisoned",
+        "Condition 8": "Prone",
+        "Condition 9": "Restrained"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

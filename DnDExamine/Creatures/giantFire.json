@@ -1,0 +1,71 @@
+{
+    "Name": "Fire Giant",
+    "Creature Type": "Huge Giant",
+    "Max HP": 162,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "9",
+    "EXP": 5000,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Athletics",
+        "Skill 2": "Perception"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Giant"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Greatsword, Melee Weapon Attack, Range: 10ft, Average Damage: 28 Slashing",
+        "Action 2": "Rock, Ranged Weapon Attack, Range: 60/240ft, Average Damage: 29 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Giant makes 2 Greatsword attacks"
+    },
+    "AC": 18,
+    "Stats": {
+        "Strength": 25,
+        "Dexterity": 9,
+        "Constitution": 23,
+        "Intelligence": 10,
+        "Wisdom": 14,
+        "Charisma": 13
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "N/A"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Fire"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

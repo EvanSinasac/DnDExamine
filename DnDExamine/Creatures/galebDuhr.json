@@ -1,0 +1,75 @@
+{
+    "Name": "Galeb Duhr",
+    "Creature Type": "Medium Elemental",
+    "Max HP": 85,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 15
+    },
+    "Challenge Rating": "6",
+    "EXP": 2300,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Tremorsense",
+        "Sense 3": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Terran"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Slam, Melee Weapon Attack, Range: 5ft, Average Damage: 12 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Animate Boulders, The Galeb Duhr magically animates nearby boulders to act as its allies"
+    },
+    "AC": 16,
+    "Stats": {
+        "Strength": 20,
+        "Dexterity": 14,
+        "Constitution": 20,
+        "Intelligence": 11,
+        "Wisdom": 12,
+        "Charisma": 11
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "False Appearance, While the Galeb Duhr remains motionless, it is indistinguishable from a normal boulder",
+        "Ability 2": "Rolling Charge, The Galeb Duhr rolls straight towards a target and then Slams into them, dealing additional damage and attempting to bowl them over, knocking them prone"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 4,
+        "Condition 1": "Exhaustion",
+        "Condition 2": "Paralyzed",
+        "Condition 3": "Poisoned",
+        "Condition 4": "Petrified"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

@@ -1,0 +1,74 @@
+{
+    "Name": "Efreeti",
+    "Creature Type": "Large Elemental",
+    "Max HP": 200,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 40,
+        "Type 2": "Flying",
+        "Speed 2": 60
+    },
+    "Challenge Rating": "11",
+    "EXP": 7200,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Ignan"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Scimitar, Melee Weapon Attack, Range: 5ft, Average Damage: 13 Slashing plus 7 Fire",
+        "Action 2": "Hurl Flame, Ranged Spell Attack, Range: 120ft, Average Damage: 17 Fire"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Efreeti makes 2 Scimitar attacks or uses its Hurl Flame twice"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 22,
+        "Dexterity": 12,
+        "Constitution": 24,
+        "Intelligence": 16,
+        "Wisdom": 15,
+        "Charisma": 16
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Elemental Demise, If the Efreeti dies, it disintegrates in a flash of fire and puff of smoke",
+        "Ability 2": "Innate Spellcasting, The Efreeti can cast a number of fire spells"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Fire"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

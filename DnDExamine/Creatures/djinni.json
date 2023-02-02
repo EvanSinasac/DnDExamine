@@ -1,0 +1,75 @@
+{
+    "Name": "Djinni",
+    "Creature Type": "Large Elemental",
+    "Max HP": 161,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Flying",
+        "Speed 2": 90
+    },
+    "Challenge Rating": "11",
+    "EXP": 7200,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Auran"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Scimitar, Melee Weapon Attack, Range: 5ft, Average Damage: 12 Slashing"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Djinni makes 3 Scimitar attacks",
+        "Action 2": "Create Whirlwind, the Djinni creates a viscious whirlwind that restrains creatures caught within it"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 21,
+        "Dexterity": 15,
+        "Constitution": 22,
+        "Intelligence": 15,
+        "Wisdom": 16,
+        "Charisma": 20
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Elemental Demise, If the Djinni dies, it disintegrates into a warm breeze",
+        "Ability 2": "Innate Spellcasting, The Djinni can cast a number of weather spells"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 2,
+        "Damage 1": "Lightning",
+        "Damage 2": "Thunder"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

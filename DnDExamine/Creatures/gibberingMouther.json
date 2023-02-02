@@ -1,0 +1,74 @@
+{
+    "Name": "Gibbering Mouther",
+    "Creature Type": "Medium Aberration",
+    "Max HP": 67,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 10,
+        "Type 2": "Swimming",
+        "Speed 2": 10
+    },
+    "Challenge Rating": "2",
+    "EXP": 450,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 17 Piercing and can knock prone"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Gibbering Mouther makes 1 Bite attack and, if it can, uses its Blinding Spittle",
+        "Action 2": "Blinding Spittle, The Mouther spits a glob that explodes into blinding light"
+    },
+    "AC": 9,
+    "Stats": {
+        "Strength": 10,
+        "Dexterity": 8,
+        "Constitution": 16,
+        "Intelligence": 3,
+        "Wisdom": 10,
+        "Charisma": 6
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Aberrant Ground, The Gibbering Mouther spreads its doughy flesh body wherever it moves, creating difficult terrain around it",
+        "Ability 2": "Gibbering, The Mouther babbles incoherently with all of its mouths.  Creatures that hear the gibbering can become confused"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

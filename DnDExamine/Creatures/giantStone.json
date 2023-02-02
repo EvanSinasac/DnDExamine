@@ -1,0 +1,73 @@
+{
+    "Name": "Stone Giant",
+    "Creature Type": "Huge Giant",
+    "Max HP": 126,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 40
+    },
+    "Challenge Rating": "7",
+    "EXP": 2900,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Athletics",
+        "Skill 2": "Perception"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Giant"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Greatclub, Melee Weapon Attack, Range: 10ft, Average Damage: 19 Bludgeoning",
+        "Action 2": "Rock, Ranged Weapon Attack, Range: 60/240ft, Average Damage: 28 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Giant makes 2 Greatclub attacks",
+        "Action 2": "Rock Catching, The Giant can catch large projectiles that are flying towards it, Reaction"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 23,
+        "Dexterity": 15,
+        "Constitution": 20,
+        "Intelligence": 10,
+        "Wisdom": 12,
+        "Charisma": 9
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Stone Camouflage, The Giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

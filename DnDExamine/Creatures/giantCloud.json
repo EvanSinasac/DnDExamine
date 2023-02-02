@@ -1,0 +1,73 @@
+{
+    "Name": "Cloud Giant",
+    "Creature Type": "Huge Giant",
+    "Max HP": 200,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 40
+    },
+    "Challenge Rating": "9",
+    "EXP": 5000,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Insight",
+        "Skill 2": "Perception"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Common",
+        "Language 2": "Giant"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Morningstar, Melee Weapon Attack, Range: 10ft, Average Damage: 21 Piercing",
+        "Action 2": "Rock, Ranged Weapon Attack, Range: 60/240ft, Average Damage: 30 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Giant makes 2 Morningstar attacks"
+    },
+    "AC": 14,
+    "Stats": {
+        "Strength": 27,
+        "Dexterity": 10,
+        "Constitution": 22,
+        "Intelligence": 12,
+        "Wisdom": 16,
+        "Charisma": 16
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Keen Smell, The Giant has advantage on Wisdom (Perception) checks that rely on smell",
+        "Ability 2": "Innate Spellcasting, The Giant can cast some sky spells"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

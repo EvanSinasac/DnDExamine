@@ -1,0 +1,80 @@
+{
+    "Name": "Marid",
+    "Creature Type": "Large Elemental",
+    "Max HP": 229,
+    "Movement Speeds": {
+        "Number": 3,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Flying",
+        "Speed 2": 60,
+        "Type 3": "Swimming",
+        "Speed 3": 90
+    },
+    "Challenge Rating": "11",
+    "EXP": 7200,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Aquan"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Trident, Melee or Ranged Weapon Attack, Range: 5ft/20/60ft, Average Damage: 13 Piercing"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Marid makes 2 Trident attacks",
+        "Action 2": "Water Jet, The Marid shoots a jet of water in a line that deals an Average 21 Bludgeoning damage and attempts to knock creatures prone"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 22,
+        "Dexterity": 12,
+        "Constitution": 26,
+        "Intelligence": 18,
+        "Wisdom": 17,
+        "Charisma": 18
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Amphibious, The Marid can breathe air and water",
+        "Ability 2": "Elemental Demise, If the Marid dies, its body disintegrates into a burst of water and foam",
+        "Ability 3": "Innate Spellcasting, The Marid can cast a number of water-themed spells"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 3,
+        "Damage 1": "Acid",
+        "Damage 2": "Cold",
+        "Damage 3": "Lightning"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}
