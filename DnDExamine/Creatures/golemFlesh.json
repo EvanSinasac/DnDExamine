@@ -1,0 +1,82 @@
+{
+    "Name": "Flesh Golem",
+    "Creature Type": "Medium Construct",
+    "Max HP": 93,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Understands the languages of its creator but can not speak"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Slam, Melee Weapon Attack, Range: 5ft, Average Damage: 13 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Golem makes 2 Slam attacks"
+    },
+    "AC": 9,
+    "Stats": {
+        "Strength": 19,
+        "Dexterity": 9,
+        "Constitution": 18,
+        "Intelligence": 6,
+        "Wisdom": 10,
+        "Charisma": 5
+    },
+    "Abilities": {
+        "Number": 6,
+        "Ability 1": "Berserk, When the Golem has sustained enough damage, it begins to go berserk, attacking whichever creature is closest to it",
+        "Ability 2": "Aversion of Fire, The Golem retains the fear of fire of all living flesh, having disadvantage on attack rolls and ability checks after taking any Fire damage",
+        "Ability 3": "Immutable Form, The Golem is immune to spells that would alter its form",
+        "Ability 4": "Lightning Absorption, The Golem absorbs lightning damage and heals from it",
+        "Ability 5": "Magic Resistance, The Golem has advantage on saving throws against spells and other magical effects",
+        "Ability 6": "Magic Weapons, The Golem's weapon attacks are magical"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 3,
+        "Damage 1": "Lightning",
+        "Damage 2": "Poison",
+        "Damage 3": "Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with Adamantine weapons"
+    },
+    "Condition Immunities": {
+        "Number": 6,
+        "Condition 1": "Charmed",
+        "Condition 2": "Exhaustion",
+        "Condition 3": "Frightened",
+        "Condition 4": "Paralyzed",
+        "Condition 5": "Petrified",
+        "Condition 6": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

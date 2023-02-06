@@ -1,0 +1,77 @@
+{
+    "Name": "Deep Gnome (Svirfneblin)",
+    "Creature Type": "Small Humanoid (Gnome)",
+    "Max HP": 16,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 20
+    },
+    "Challenge Rating": "1/2",
+    "EXP": 100,
+    "Skills": {
+        "Number": 3,
+        "Skill 1": "Investigation",
+        "Skill 2": "Perception",
+        "Skill 3": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 3,
+        "Language 1": "Gnomish",
+        "Language 2": "Terran",
+        "Language 3": "Undercommon"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "War Pick, Melee Weapon Attack, Range: 5ft, Average Damage: 6 Piercing",
+        "Action 2": "Poisoned Dart, Ranged Weapon Attack, Range: 30/120, Average Damage: 4 Piercing and can poison"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 15,
+        "Dexterity": 14,
+        "Constitution": 14,
+        "Intelligence": 12,
+        "Wisdom": 10,
+        "Charisma": 9
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Stone Camouflage, The Gnome has advantage on Dexterity (Stealth) checks to hide in rocky terrain",
+        "Ability 2": "Gnome Cunning, The Gnome has advantage on Intelligence, Wisdom and Charisma saving throws against magic",
+        "Ability 3": "Innate Spellcasting, The Gnome can cast a few spells"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

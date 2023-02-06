@@ -1,0 +1,69 @@
+{
+    "Name": "Githyanki Warrior",
+    "Creature Type": "Medium Humanoid (Gith)",
+    "Max HP": 49,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "3",
+    "EXP": 700,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Gith"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Greatsword, Melee Weapon Attack, Range: 5ft, Average Damage: 9 Slashing plus 7 Psychic"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Githyanki makes 2 Greatsword attacks"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 15,
+        "Dexterity": 14,
+        "Constitution": 12,
+        "Intelligence": 13,
+        "Wisdom": 13,
+        "Charisma": 10
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Innate Spellcasting, The Githyanki can cast a few spells"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

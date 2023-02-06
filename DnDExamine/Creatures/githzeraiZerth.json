@@ -1,0 +1,71 @@
+{
+    "Name": "Githzerai Zerth",
+    "Creature Type": "Medium Humanoid (Gith)",
+    "Max HP": 84,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "6",
+    "EXP": 2300,
+    "Skills": {
+        "Number": 3,
+        "Skill 1": "Arcana",
+        "Skill 2": "Insight",
+        "Skill 3": "Perception"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Gith"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Unarmed Strike, Melee Weapon Attack, Range: 5ft, Average Damage: 11 Bludgeoning plus 13 Psychic"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Githzerai makes 2 Unarmed Strikes"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 13,
+        "Dexterity": 18,
+        "Constitution": 15,
+        "Intelligence": 16,
+        "Wisdom": 17,
+        "Charisma": 12
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Innate Spellcasting, The Githyanki can cast spells"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

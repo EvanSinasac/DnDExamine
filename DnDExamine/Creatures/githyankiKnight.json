@@ -1,0 +1,69 @@
+{
+    "Name": "Githyanki Knight",
+    "Creature Type": "Medium Humanoid (Gith)",
+    "Max HP": 91,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "8",
+    "EXP": 3900,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Gith"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Silver Greatsword, Melee Weapon Attack, Range: 5ft, Average Damage: 13 Slashing plus 10 Psychic"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Githyanki makes 2 Silver Greatsword attacks"
+    },
+    "AC": 18,
+    "Stats": {
+        "Strength": 16,
+        "Dexterity": 14,
+        "Constitution": 15,
+        "Intelligence": 14,
+        "Wisdom": 14,
+        "Charisma": 15
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Innate Spellcasting, The Githyanki can cast a some spells"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

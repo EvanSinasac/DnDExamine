@@ -1,0 +1,71 @@
+{
+    "Name": "Githzerai Monk",
+    "Creature Type": "Medium Humanoid (Gith)",
+    "Max HP": 38,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "2",
+    "EXP": 450,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Insight",
+        "Skill 2": "Perception"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Gith"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Unarmed Strike, Melee Weapon Attack, Range: 5ft, Average Damage: 6 Bludgeoning plus 9 Psychic"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Githzerai makes 2 Unarmed Strikes"
+    },
+    "AC": 14,
+    "Stats": {
+        "Strength": 12,
+        "Dexterity": 15,
+        "Constitution": 12,
+        "Intelligence": 13,
+        "Wisdom": 14,
+        "Charisma": 10
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Innate Spellcasting, The Githzerai can cast a few spells",
+        "Ability 2": "Psychic Defense, While the Githzerai is wearing no armor and wielding no shield, they protect their body with their mind, increasing their AC"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

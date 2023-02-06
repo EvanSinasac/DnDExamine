@@ -1,0 +1,71 @@
+{
+    "Name": "Gorgon",
+    "Creature Type": "Large Monstrosity",
+    "Max HP": 114,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 40
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Gore, Melee Weapon Attack, Range: 5ft, Average Damage: 18 Piercing",
+        "Action 2": "Hooves, Melee Weapon Attack, Range: 5ft, Average Damage: 16 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Petrifying Breath, The Gorgon exhales a petrifying gas in a cone.  Creatures caught in the area make a Constitution saving throw or begin being turned to stone and are restrained.  On a second failure, they become petrified"
+    },
+    "AC": 19,
+    "Stats": {
+        "Strength": 20,
+        "Dexterity": 11,
+        "Constitution": 18,
+        "Intelligence": 2,
+        "Wisdom": 12,
+        "Charisma": 7
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Trampling Charge, If the Gorgon moves in a straight line and then hits a Gore attack, the hit target makes a Strength saving throw or be knocked prone"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "Petrified"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}
