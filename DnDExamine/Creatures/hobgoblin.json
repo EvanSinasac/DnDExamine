@@ -1,0 +1,72 @@
+{
+    "Name": "Hobgoblin",
+    "Creature Type": "Medium Humanoid (Goblinoid)",
+    "Max HP": 11,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "1/2",
+    "EXP": 100,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Common",
+        "Language 2": "Goblin"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Longsword, Melee Weapon Attack, Range: 5ft, Average Damage: 5 Slashing",
+        "Action 2": "Longbow, Ranged Weapon Attack, Range: 150/600ft, Average Damage: 5 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 18,
+    "Stats": {
+        "Strength": 13,
+        "Dexterity": 12,
+        "Constitution": 12,
+        "Intelligence": 10,
+        "Wisdom": 10,
+        "Charisma": 9
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Martial Advantage, The Hobgoblin uses its knowledge of weapons to deal extra damage against a target while that creature is within 5ft of an ally of the Hobgoblin (it's Pack Tactics but damage instead of advantage)"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

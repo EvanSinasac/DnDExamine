@@ -1,0 +1,76 @@
+{
+    "Name": "Sea Hag",
+    "Creature Type": "Medium Fey",
+    "Max HP": 52,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Swimming",
+        "Speed 2": 40
+    },
+    "Challenge Rating": "2",
+    "EXP": 45,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 3,
+        "Language 1": "Aquan",
+        "Language 2": "Common",
+        "Language 3": "Giant"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Claws, Melee Weapon Attack, Range: 5ft, Average Damage: 10 Slashing"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Death Glare, The Hag targets a frightened creature.  The target makes a Wisdom saving throw, dropping to 0 HP on a failure",
+        "Action 2": "Illusory Appearance, The Hag can use materials and magic to create an image to appear as any creature or humanoid she'd like"
+    },
+    "AC": 14,
+    "Stats": {
+        "Strength": 16,
+        "Dexterity": 13,
+        "Constitution": 16,
+        "Intelligence": 12,
+        "Wisdom": 12,
+        "Charisma": 13
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Amphibious, The Hag can breathe air and water",
+        "Ability 2": "Horrific Appearance, Creature's that can see the Hag's true appearance must make a Wisdom saving throw, becoming frightened of the Hag on a failure"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

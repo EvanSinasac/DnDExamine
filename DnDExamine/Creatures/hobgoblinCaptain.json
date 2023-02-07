@@ -1,0 +1,73 @@
+{
+    "Name": "Hobgoblin Captain",
+    "Creature Type": "Medium Humanoid (Goblinoid)",
+    "Max HP": 39,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "3",
+    "EXP": 700,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Common",
+        "Language 2": "Goblin"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Greatsword, Melee Weapon Attack, Range: 5ft, Average Damage: 9 Piercing",
+        "Action 2": "Javelin, Melee or Ranged Weapon Attack, Range: 5ft or 30/120ft, Average Damage: 5 Piercing"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Hobgoblin makes 2 Greatsword attacks",
+        "Action 2": "Leadership, The Hobgoblin issues a special command or warning to a creature making an attack roll or saving throw, allowing that creature to add a d4 to its roll"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 15,
+        "Dexterity": 14,
+        "Constitution": 14,
+        "Intelligence": 12,
+        "Wisdom": 10,
+        "Charisma": 13
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Martial Advantage, The Hobgoblin uses its knowledge of weapons to deal extra damage against a target while that creature is within 5ft of an ally of the Hobgoblin (it's Pack Tactics but damage instead of advantage)"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

@@ -1,0 +1,73 @@
+{
+    "Name": "Harpy",
+    "Creature Type": "Medium Monstrosity",
+    "Max HP": 38,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 20,
+        "Type 2": "Flying",
+        "Speed 2": 40
+    },
+    "Challenge Rating": "1",
+    "EXP": 200,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Common"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Claws, Melee Weapon Attack, Range: 5ft, Average Damage: 6 Slashing",
+        "Action 2": "Club, Melee Weapon Attack, Range: 5ft, Average Damage: 3 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Harpy makes 2 attacks, one with its Claws and one with its Club",
+        "Action 2": "Luring Song, The Harpy sings a lovely melody, charming those who hear it"
+    },
+    "AC": 11,
+    "Stats": {
+        "Strength": 12,
+        "Dexterity": 13,
+        "Constitution": 12,
+        "Intelligence": 7,
+        "Wisdom": 10,
+        "Charisma": 13
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "N/A"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

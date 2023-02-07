@@ -1,0 +1,74 @@
+{
+    "Name": "Hook Horror",
+    "Creature Type": "Large Monstrosity",
+    "Max HP": 75,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Climbing",
+        "Speed 2": 30
+    },
+    "Challenge Rating": "3",
+    "EXP": 700,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Hook Horror"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Hook, Melee Weapon Attack, Range: 10ft, Average Damage: 11 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Hook Horro makes 2 Hook attacks"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 10,
+        "Constitution": 15,
+        "Intelligence": 6,
+        "Wisdom": 12,
+        "Charisma": 7
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Echolocation, The Hook Horror can't use its blindsight while deafened",
+        "Ability 2": "Keen Hearing, The Hook Horror has advantage on Wisdom (Perception) checks that rely on hearing"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

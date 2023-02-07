@@ -1,0 +1,81 @@
+{
+    "Name": "Night Hag",
+    "Creature Type": "Medium Fiend",
+    "Max HP": 112,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 4,
+        "Skill 1": "Deception",
+        "Skill 2": "Insight",
+        "Skill 3": "Perception",
+        "Skill 4": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 4,
+        "Language 1": "Abyssal",
+        "Language 2": "Common",
+        "Language 3": "Infernal",
+        "Language 4": "Primordial"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Claws, Melee Weapon Attack, Range: 5ft, Average Damage: 13 Slashing"
+    },
+    "Other Actions": {
+        "Number": 3,
+        "Action 1": "Change Shape, The Hag can polymorph into a female humanoid or back into her true form",
+        "Action 2": "Etherealness, The Hag enters the Ethereal Plane from the Material Plane or vice versa",
+        "Action 3": "Nightmare Haunting, While on the Ethereal Plane, the Hag can touch a sleeping humanoid a give it terrible visions"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 15,
+        "Constitution": 16,
+        "Intelligence": 16,
+        "Wisdom": 14,
+        "Charisma": 16
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Innate Spellcasting, The Hag can cast some spells",
+        "Ability 2": "Magic Resistance, The Hag has advantage on saving throws against spells and other magical effects"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 3,
+        "Damage 1": "Cold",
+        "Damage 2": "Fire",
+        "Damage 3": "Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with silvered weapons"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "Charmed"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

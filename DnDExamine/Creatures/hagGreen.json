@@ -1,0 +1,78 @@
+{
+    "Name": "Green Hag",
+    "Creature Type": "Medium Fey",
+    "Max HP": 82,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "3",
+    "EXP": 700,
+    "Skills": {
+        "Number": 4,
+        "Skill 1": "Arcana",
+        "Skill 2": "Deception",
+        "Skill 3": "Perception",
+        "Skill 4": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 3,
+        "Language 1": "Common",
+        "Language 2": "Draconic",
+        "Language 3": "Sylvan"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Claws, Melee Weapon Attack, Range: 5ft, Average Damage: 13 Slashing"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Illusory Appearance, The Hag can use materials and magic to create an image to appear as any creature or humanoid she'd like",
+        "Action 2": "Invisible Passage, The Hag turns invisible and leaves no trace of her passage"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 12,
+        "Constitution": 16,
+        "Intelligence": 13,
+        "Wisdom": 14,
+        "Charisma": 14
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Amphibious, The Hag can breathe air and water",
+        "Ability 2": "Innate Spellcasting, The Hag can cast a few spells",
+        "Ability 3": "Mimicry, The Hag can mimic animal sounds and human voices"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

@@ -1,0 +1,71 @@
+{
+    "Name": "Hell Hound",
+    "Creature Type": "Medium Fiend",
+    "Max HP": 45,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 50
+    },
+    "Challenge Rating": "3",
+    "EXP": 700,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Understands Infernal but can not speak"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 7 Piercing plus 7 Fire"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Fire Breath, The Hound exhales a cone of fire, creatures caught in the cone take an Average 21 Fire damage"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 17,
+        "Dexterity": 12,
+        "Constitution": 14,
+        "Intelligence": 6,
+        "Wisdom": 13,
+        "Charisma": 6
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Keen Hearing and Smell, The Hound has advantage on Wisdom (Perception) checks that rely on hearing or smell",
+        "Ability 2": "Pack Tactics, The Hound has advantage on an attack roll against a creature if at least one of the Hound's allies is within 5ft of the creature"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Fire"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

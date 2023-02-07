@@ -1,0 +1,72 @@
+{
+    "Name": "Hippogriff",
+    "Creature Type": "Large Monstrosity",
+    "Max HP": 19,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 40,
+        "Type 2": "Flying",
+        "Speed 2": 60
+    },
+    "Challenge Rating": "1",
+    "EXP": 100,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Beak, Melee Weapon Attack, Range: 5ft, Average Damage: 8 Piercing",
+        "Action 2": "Claws, Melee Weapon Attack, Range: 5ft, Average Damage: 10 Slashing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Hippogriff makes 2 attacks, one with its Beak and one with its Claws"
+    },
+    "AC": 11,
+    "Stats": {
+        "Strength": 17,
+        "Dexterity": 13,
+        "Constitution": 13,
+        "Intelligence": 2,
+        "Wisdom": 12,
+        "Charisma": 8
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Keen Sight, The Hippogriff has advantage on Wisdom (Perception) checks that rely on sight"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

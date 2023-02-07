@@ -1,0 +1,75 @@
+{
+    "Name": "Hobgoblin Warlord",
+    "Creature Type": "Medium Humanoid (Goblinoid)",
+    "Max HP": 97,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "6",
+    "EXP": 2300,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Common",
+        "Language 2": "Goblin"
+    },
+    "Equipment Actions": {
+        "Number": 3,
+        "Action 1": "Longsword, Melee Weapon Attack, Range: 5ft, Average Damage: 7 Slashing",
+        "Action 2": "Shield Bash, Melee Weapon Attack, Range: 5ft, Average Damage: 5 Bludgeoning and can knock prone",
+        "Action 3": "Javelin, Melee or Ranged Weapon Attack, Range: 5ft or 30/120ft, Average Damage: 6 Piercing"
+    },
+    "Other Actions": {
+        "Number": 3,
+        "Action 1": "Multiattack, The Hobgoblin makes 3 Melee attacks, or 2  Ranged attacks with its Javelins",
+        "Action 2": "Leadership, The Hobgoblin issues a special command or warning to a creature making an attack roll or saving throw, allowing that creature to add a d4 to its roll",
+        "Action 3": "Parry, The Hobgoblin parries a melee attack against it, raising its AC"
+    },
+    "AC": 20,
+    "Stats": {
+        "Strength": 16,
+        "Dexterity": 14,
+        "Constitution": 16,
+        "Intelligence": 14,
+        "Wisdom": 11,
+        "Charisma": 15
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Martial Advantage, The Hobgoblin uses its knowledge of weapons to deal extra damage against a target while that creature is within 5ft of an ally of the Hobgoblin (it's Pack Tactics but damage instead of advantage)"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}
