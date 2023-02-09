@@ -1,0 +1,84 @@
+{
+    "Name": "Kraken",
+    "Creature Type": "Gargantuan Monstrosity (Titan)",
+    "Max HP": 472,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 20,
+        "Type 2": "Swimming",
+        "Speed 2": 60
+    },
+    "Challenge Rating": "23",
+    "EXP": 50000,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Truesight",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Telepathy",
+        "Language 2": "Understands Abyssal, Celestial, Infernal and Primordial but can not speak"
+    },
+    "Equipment Actions": {
+        "Number": 3,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 23 Piercing.  If the Kraken is grappling the target, it swallows the creature.  Swallowed creatures are blinded and restrained, and take an Average 42 Acid damage from the surrounding stomach acid",
+        "Action 2": "Tentacle, Melee Weapon Attack, Range: 30ft, Average Damage: 20 Bludgeoning and grapples the target",
+        "Action 3": "Fling, The Kraken throws a creature or object in one of its Tentacles.  The thrown target takes 3 Bludgeoning damage for every 10ft it was thrown.  If they are thrown at another creature, that creature makes a Dexterity saving throw, taking the same damage and being knocked prone on a failure"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Kraken makes 3 Tentacle attacks, each of which can be replaced with Fling",
+        "Action 2": "Lightning Storm, The Kraken magically creates a storm from which 3 bolts of lightning strike targets the Kraken can see, dealing an Average 22 Lightning damage"
+    },
+    "AC": 18,
+    "Stats": {
+        "Strength": 30,
+        "Dexterity": 11,
+        "Constitution": 25,
+        "Intelligence": 22,
+        "Wisdom": 18,
+        "Charisma": 20
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Amphibious, The Kraken can breathe air and water",
+        "Ability 2": "Freedom of Movement, The Kraken ignores difficult terrain, magical effects can't reduce its speed or cause it to be restrained, and it can expend 5ft of movement to break free of nonmagical restraints or being grappled",
+        "Ability 3": "Siege Monster, The Kraken deals double damage to objects and structures"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 2,
+        "Damage 1": "Lightning",
+        "Damage 2": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Condition Immunities": {
+        "Number": 2,
+        "Condition 1": "Frightened",
+        "Condition 2": "Paralyzed"
+    },
+    "Legendary Actions": {
+        "Number": 3,
+        "Action 1": "Tentacle Attack or Fling, The Kraken makes one Tentacle attack or uses Fling",
+        "Action 2": "Lightning Storm, The Kraken uses Lightning Storm",
+        "Action 3": "Ink Cloud, The Kraken expels an ink cloud, heavily obscuring the area and dealing poison damage to creatures caught in the cloud"
+    },
+    "Lair Actions": {
+        "Number": 3,
+        "Action 1": "The Kraken causes a strong current to move through the lair, creatures caught in the current make a Strength saving throw or is pushed away from the Kraken",
+        "Action 2": "The Kraken magically causes nearby creatures in water to become vulnerable to Lightning damage",
+        "Action 3": "The Kraken emits an electric shock through the water within its lair, dealing Lightning damage to creatures in the water"
+    }    
+}

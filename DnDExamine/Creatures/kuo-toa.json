@@ -1,0 +1,77 @@
+{
+    "Name": "Kuo-Toa",
+    "Creature Type": "Medium Humanoid (Kuo-Toa)",
+    "Max HP": 18,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Swimming",
+        "Speed 2": 30
+    },
+    "Challenge Rating": "1/4",
+    "EXP": 50,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Undercommon"
+    },
+    "Equipment Actions": {
+        "Number": 3,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 3 Piercing",
+        "Action 2": "Spear, Melee or Ranged Weapon Attack, Range: 5ft or 20/60ft, Average Damage: 4 Piercing",
+        "Action 3": "Net, Ranged Weapon Attack, Range: 5/15ft, Restrains the target"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Sticky Shield, If a creature misses an attack against the Kuo-Toa, the Kuo-Toa uses its sticky shield to catch the weapon"
+    },
+    "AC": 13,
+    "Stats": {
+        "Strength": 13,
+        "Dexterity": 10,
+        "Constitution": 11,
+        "Intelligence": 11,
+        "Wisdom": 10,
+        "Charisma": 8
+    },
+    "Abilities": {
+        "Number": 4,
+        "Ability 1": "Amphibious, The Kuo-Toa can breathe air and water",
+        "Ability 2": "Otherworldy Perception, The Kuo-Toa can sense the presence of nearby creatures that are invisible or on the Ethereal Plane",
+        "Ability 3": "Slippery, The Kuo-Toa has advantage on ability checks and saving throws made to escape a grapple",
+        "Ability 4": "Sunlight Sensitivity, While in sunlight, the Kuo-Toa has disadvantage on attack rolls and on Wisdom (Perception) checksthat rely on sight"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Invisible Stalker",
+    "Creature Type": "Medium Elemental",
+    "Max HP": 104,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 50,
+        "Type 2": "Flying",
+        "Speed 2": 50
+    },
+    "Challenge Rating": "6",
+    "EXP": 2300,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Auran",
+        "Language 2": "Understands Common but can not speak"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Slam, Melee Weapon Attack, Range: 5ft, Average Damage: 10 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Stalker makes 2 Slam attacks"
+    },
+    "AC": 14,
+    "Stats": {
+        "Strength": 16,
+        "Dexterity": 19,
+        "Constitution": 14,
+        "Intelligence": 10,
+        "Wisdom": 15,
+        "Charisma": 11
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Invisibility, The Stalker is Invisible (like, no shit, why'd we call this thing the 'Invisible Stalker'",
+        "Ability 2": "Faultless Tracker, The Stalker is given a quarry by its summoner and goes to every length possible to stalk them.  The Stalker knows the direction and distance to its quarry and the location of its summoner"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 8,
+        "Condition 1": "Exhaustion",
+        "Condition 2": "Grappled",
+        "Condition 3": "Paralyzed",
+        "Condition 4": "Petrified",
+        "Condition 5": "Poisoned",
+        "Condition 6": "Prone",
+        "Condition 7": "Restrained",
+        "Condition 8": "Unconscious"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

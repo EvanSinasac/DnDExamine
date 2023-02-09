@@ -1,0 +1,74 @@
+{
+    "Name": "Intellect Devourer",
+    "Creature Type": "Tiny Aberration",
+    "Max HP": 21,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 40
+    },
+    "Challenge Rating": "2",
+    "EXP": 450,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Understands Deep Speech but can not speak",
+        "Language 2": "Telepathy"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Claws, Melee Weapon Attack, Range: 5ft, Average Damage: 7 Slashing"
+    },
+    "Other Actions": {
+        "Number": 3,
+        "Action 1": "Multiattack, The Intellect Devourer makes one attack with its Claws and uses Devour Intellect",
+        "Action 2": "Devour Intellect, The Intellect Devourer targets a creature that has a brain.  That creature makes a Wisdom saving throw, taking an Average 11 Psychic damage and losing intelligence on a failure",
+        "Action 3": "Body Thief, The Intellect Devourer targets an incapacitated creature and has an Intelligence contest with them.  If the Intellect Devourer wins, it consumes the target's brain, teleports into the skull and takes control of the body"
+    },
+    "AC": 12,
+    "Stats": {
+        "Strength": 6,
+        "Dexterity": 14,
+        "Constitution": 13,
+        "Intelligence": 12,
+        "Wisdom": 11,
+        "Charisma": 10
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Detect Sentience, The Intellect Devourer can sense the presence and location of any creature within 300ft of it, regardless of interposing barriers, unless the creature's mind is protected"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "Blinded"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

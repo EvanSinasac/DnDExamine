@@ -1,0 +1,78 @@
+{
+    "Name": "Kuo-Toa Archpriest",
+    "Creature Type": "Medium Humanoid (Kuo-Toa)",
+    "Max HP": 97,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Swimming",
+        "Speed 2": 30
+    },
+    "Challenge Rating": "6",
+    "EXP": 2300,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Religion"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Undercommon"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Scepter, Melee Weapon Attack, Range: 5ft, Average Damage: 6 Bludgeoning plus 14 Lightning",
+        "Action 2": "Unarmed Strike, Melee Weapon Attack, Range: 5ft, Average Damage: 5 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Kuo-Toa makes 2 Melee attacks"
+    },
+    "AC": 13,
+    "Stats": {
+        "Strength": 16,
+        "Dexterity": 14,
+        "Constitution": 16,
+        "Intelligence": 13,
+        "Wisdom": 16,
+        "Charisma": 14
+    },
+    "Abilities": {
+        "Number": 5,
+        "Ability 1": "Amphibious, The Kuo-Toa can breathe air and water",
+        "Ability 2": "Otherworldy Perception, The Kuo-Toa can sense the presence of nearby creatures that are invisible or on the Ethereal Plane",
+        "Ability 3": "Slippery, The Kuo-Toa has advantage on ability checks and saving throws made to escape a grapple",
+        "Ability 4": "Sunlight Sensitivity, While in sunlight, the Kuo-Toa has disadvantage on attack rolls and on Wisdom (Perception) checksthat rely on sight",
+        "Ability 5": "Spellcasting, The Kuo-Toa is a 10th level spellcaster with a number of Cleric spells prepared"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

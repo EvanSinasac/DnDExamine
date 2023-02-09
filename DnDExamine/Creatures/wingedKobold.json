@@ -1,0 +1,75 @@
+{
+    "Name": "Winged Kobold",
+    "Creature Type": "Small Humanoid (Kobold)",
+    "Max HP": 7,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Flying",
+        "Speed 2": 30
+    },
+    "Challenge Rating": "1/4",
+    "EXP": 50,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Common",
+        "Language 2": "Draconic"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Dagger, Melee Weapon Attack, Range: 5ft, Average Damage: 5 Piercing",
+        "Action 2": "Dropped Rock, Ranged Weapon, Range: Below, Average Damage: 6 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 13,
+    "Stats": {
+        "Strength": 7,
+        "Dexterity": 16,
+        "Constitution": 9,
+        "Intelligence": 8,
+        "Wisdom": 7,
+        "Charisma": 8
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Sunlight Sensitivity, While in sunlight, the Kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight",
+        "Ability 2": "Pack Tactics, The Kobold has advantage on attacks made against creatures if at least one of the Kobold's allies is within 5ft of the target"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

@@ -1,0 +1,75 @@
+{
+    "Name": "Lamia",
+    "Creature Type": "Large Monstrosity",
+    "Max HP": 97,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "4",
+    "EXP": 1100,
+    "Skills": {
+        "Number": 3,
+        "Skill 1": "Deception",
+        "Skill 2": "Insight",
+        "Skill 3": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Abyssal",
+        "Language 2": "Common"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Claws, Melee Weapon Attack, Range: 5ft, Average Damage: 14 Slashing",
+        "Action 2": "Dagger, Melee Weapon Attack, Range: 5ft, Average Damage: 5 Piercing"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Lamia makes 2 attacks, one with its Claws and one with its Dagger or Intoxicating Breath",
+        "Action 2": "Intoxicating Breath, Melee Spell Attack, Range: 5ft, The target is magically cursed to have bad luck (they have disadvantage on Wisdom saving thros and all ability checks)"
+    },
+    "AC": 13,
+    "Stats": {
+        "Strength": 16,
+        "Dexterity": 13,
+        "Constitution": 15,
+        "Intelligence": 14,
+        "Wisdom": 15,
+        "Charisma": 16
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Innate Spellcasting, The Lamia can cast a few spells"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

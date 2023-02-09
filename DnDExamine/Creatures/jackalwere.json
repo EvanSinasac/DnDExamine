@@ -1,0 +1,72 @@
+{
+    "Name": "Jackalwere",
+    "Creature Type": "Medium Humanoid (Shapechanger)",
+    "Max HP": 18,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 40
+    },
+    "Challenge Rating": "1/2",
+    "EXP": 100,
+    "Skills": {
+        "Number": 3,
+        "Skill 1": "Deception",
+        "Skill 2": "Perception",
+        "Skill 3": "Stealth"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Common"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 4 Piercing",
+        "Action 2": "Scimitar, Melee Weapon Attack, Range: 5ft, Average Damage: 5 Slashing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Sleep Gaze, The Jackalwere gazes at one creature, attempting to hypnotize them into a magical slumber"
+    },
+    "AC": 12,
+    "Stats": {
+        "Strength": 11,
+        "Dexterity": 15,
+        "Constitution": 11,
+        "Intelligence": 13,
+        "Wisdom": 11,
+        "Charisma": 10
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Shapechanger, The Jackalwere can use its action to polymorph into a specific human or a jackal-humanoid hybrid, or back into its true form"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Bludgeoning, Piercing, and Slashing fron nonmagical attacks not made with silvered weapons"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

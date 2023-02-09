@@ -1,0 +1,74 @@
+{
+    "Name": "Wererat",
+    "Creature Type": "Medium Humanoid (Human, Shapechanger)",
+    "Max HP": 33,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "2",
+    "EXP": 450,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Common"
+    },
+    "Equipment Actions": {
+        "Number": 3,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 4 Piercing and can curse with Lycanthropy",
+        "Action 2": "Shortsword, Melee Weapon Attack, Range: 5ft, Average Damage: 5 Piercing",
+        "Action 3": "Hand Crossbow, Ranged Weapon Attack, Range: 30/120ft, Average Damage: 5 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Wererat makes 2 attacks, only one of which can be its Bite"
+    },
+    "AC": 12,
+    "Stats": {
+        "Strength": 10,
+        "Dexterity": 15,
+        "Constitution": 12,
+        "Intelligence": 11,
+        "Wisdom": 10,
+        "Charisma": 8
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Shapechanger, The Wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is Humanoid",
+        "Ability 2": "Keen Smell, The Wererat has advantage on Wisdom (Perception) checks that rely on smell"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with silvered weapons"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

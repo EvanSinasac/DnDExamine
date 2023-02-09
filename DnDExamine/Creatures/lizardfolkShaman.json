@@ -1,0 +1,76 @@
+{
+    "Name": "Lizardfolk Shamen",
+    "Creature Type": "Medium Humanoid (Lizardfolk)",
+    "Max HP": 27,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Swimming",
+        "Speed 2": 30
+    },
+    "Challenge Rating": "2",
+    "EXP": 450,
+    "Skills": {
+        "Number": 3,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth",
+        "Skill 3": "Survival"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Draconic"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 5 Piercing",
+        "Action 2": "Claws, Melee Weapon Attack, Range: 5ft, Average Damage: 4 Slashing"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Lizardfolk makes 2 attacks, one with its Bite and one with its Claws",
+        "Action 2": "Change Shape, The Lizardfolk magically polymorphs into a crocodile.  It can revert to its true form as a bonus action"
+    },
+    "AC": 13,
+    "Stats": {
+        "Strength": 15,
+        "Dexterity": 10,
+        "Constitution": 13,
+        "Intelligence": 10,
+        "Wisdom": 15,
+        "Charisma": 8
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Hold Breath, The Lizardfolk can hold its breath for about 15 minutes",
+        "Ability 2": "Spellcasting, The Lizardfolk is a 5th level spellcaster with a number of Druid spells prepared"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

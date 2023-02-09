@@ -1,0 +1,76 @@
+{
+    "Name": "Lizardfolk",
+    "Creature Type": "Medium Humanoid (Lizardfolk)",
+    "Max HP": 22,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Swimming",
+        "Speed 2": 30
+    },
+    "Challenge Rating": "1/2",
+    "EXP": 100,
+    "Skills": {
+        "Number": 3,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth",
+        "Skill 3": "Survival"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Draconic"
+    },
+    "Equipment Actions": {
+        "Number": 4,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 5 Piercing",
+        "Action 2": "Heavy Club, Melee Weapon Attack, Range: 5ft, Average Damage: 5 Bludgeoning",
+        "Action 3": "Javelin, Melee or Ranged Weapon Attack, Range: 5ft or 30/120ft, Average Damage: 5 Piercing",
+        "Action 4": "Spiked Shield, Melee Weapon Attack, Range: 5ft, Average Damage: 5 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Lizardfolk makes 2 Melee attacks with different weapons"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 15,
+        "Dexterity": 10,
+        "Constitution": 13,
+        "Intelligence": 7,
+        "Wisdom": 12,
+        "Charisma": 7
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Hold Breath, The Lizardfolk can hold its breath for about 15 minutes"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

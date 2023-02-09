@@ -1,0 +1,76 @@
+{
+    "Name": "Weretiger",
+    "Creature Type": "Medium Humanoid (Human, Shapechanger)",
+    "Max HP": 120,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "4",
+    "EXP": 1100,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Common"
+    },
+    "Equipment Actions": {
+        "Number": 4,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 8 Piercing and can curse with Lycanthropy",
+        "Action 2": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 7 Slashing",
+        "Action 3": "Scimitar, Melee Weapon Attack, Range: 5ft, Average Damage: 6 Slashing",
+        "Action 4": "Longbow, Ranged Weapon Attack, Range: 150/600ft, Average Damage: 6 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, In Humanoid form, the Weretiger makes 2 Scimitar attacks or 2 Longbow attacks.  In Hybrid form, it can attack like a Humanoid or make 2 Claw attacks"
+    },
+    "AC": 12,
+    "Stats": {
+        "Strength": 17,
+        "Dexterity": 15,
+        "Constitution": 16,
+        "Intelligence": 10,
+        "Wisdom": 13,
+        "Charisma": 11
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Shapechanger, The Weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is Humanoid",
+        "Ability 2": "Keen Hearing and Smell, The Weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell",
+        "Ability 3": "Pounce, If the Weretiger moves in a straight line towards a creature and then hits it with a Claw attack, the target makes a Strength saving throw or be knocked prone.  If the target is prone, the Weretiger can make one Bit attack against it as a bonus action"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with silvered weapons"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

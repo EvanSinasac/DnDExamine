@@ -1,0 +1,73 @@
+{
+    "Name": "Kenku",
+    "Creature Type": "Medium Humanoid (Kenku)",
+    "Max HP": 13,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "1/4",
+    "EXP": 50,
+    "Skills": {
+        "Number": 3,
+        "Skill 1": "Deception",
+        "Skill 2": "Perception",
+        "Skill 3": "Stealth"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Common"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Shortsword, Melee Weapon Attack, Range: 5ft, Average Damage: 6 Piercing",
+        "Action 2": "Shortbow, Ranged Weapon Attack, Range: 80/320ft, Average Damage: 6 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 13,
+    "Stats": {
+        "Strength": 10,
+        "Dexterity": 16,
+        "Constitution": 10,
+        "Intelligence": 11,
+        "Wisdom": 10,
+        "Charisma": 10
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Ambusher, The Kenku has advantage on attack rolls against creatures it surprises",
+        "Ability 2": "Mimicry, The Kenku can mimic any sounds it has heard, including voices"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

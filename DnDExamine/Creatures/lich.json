@@ -1,0 +1,88 @@
+{
+    "Name": "Lich",
+    "Creature Type": "Medium Undead",
+    "Max HP": 135,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "21",
+    "EXP": 33000,
+    "Skills": {
+        "Number": 4,
+        "Skill 1": "Arcana",
+        "Skill 2": "History",
+        "Skill 3": "Insight",
+        "Skill 4": "Perception"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Truesight",
+        "Sense 2": "High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Common plus 5 languages up to DM (so if you're reading this, I've fucked up lmao)"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Paralyzing Touch, Melee Spell Attack, Range: 5ft, Average Damage: 10 Cold and can paralyze the hit target"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 11,
+        "Dexterity": 16,
+        "Constitution": 16,
+        "Intelligence": 20,
+        "Wisdom": 14,
+        "Charisma": 16
+    },
+    "Abilities": {
+        "Number": 4,
+        "Ability 1": "Legendary Resistance, If the Lich fails a saving throw, it can choose to succeed instead",
+        "Ability 2": "Rejuvenation, So long as the Lich's phylactery is intact, a destroyed Lich gains a new body after a few days",
+        "Ability 3": "Spellcasting, The Lich is an 18th level spellcaster, with a large number of Wizard spells prepared.  Beware Power Word Kill, a known favorite of Liches",
+        "Ability 4": "Turn Resistance, The Lich has advantage on saving throws against any effect that turns undead"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 3,
+        "Damage 1": "Cold",
+        "Damage 2": "Lightning",
+        "Damage 3": "Necrotic"
+    },
+    "Damage Immunities": {
+        "Number": 2,
+        "Damage 1": "Poison",
+        "Damage 2": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Condition Immunities": {
+        "Number": 5,
+        "Condition 1": "Charmed",
+        "Condition 2": "Exhaustion",
+        "Condition 3": "Frightened",
+        "Condition 4": "Paralyzed",
+        "Condition 5": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 4,
+        "Action 1": "Cantrip, The Lich casts one of its cantrips",
+        "Action 2": "Paralyzing Touch, The Lich uses its Paralyzing Touch",
+        "Action 3": "Frightening Gaze, The Lich fixes its gaze upon a creature it can see.  The target makes a Wisdom saving throw, becoming frightened of the Lich on a failure",
+        "Action 4": "Disrupt Life, The Lich expels a powerful magic, forcing all non-undead creatures within its range to take an Average 21 Necrotic damage"
+    },
+    "Lair Actions": {
+        "Number": 3,
+        "Action 1": "The Lich absorbs the latent power within its lair and regains a spent spell slot",
+        "Action 2": "The Lich targets a creature it can see and tethers itself to them with a crackling cord of negative energy.  When the Lich takes damage, the tethered target makes a Constitution saving throw, taking half the damage the Lich would have taken on a failure",
+        "Action 3": "The Lich summons the spirits of creatures that have died within its lair.  The apparitions attack one creature the Lich can see, dealing an Average 52 Necrotic damage"
+    }    
+}

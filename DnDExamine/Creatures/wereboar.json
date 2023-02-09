@@ -1,0 +1,72 @@
+{
+    "Name": "Wereboar",
+    "Creature Type": "Medium Humanoid (Human, Shapechanger)",
+    "Max HP": 78,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "4",
+    "EXP": 1100,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Common"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Maul, Melee Weapon Attack, Range: 5ft, Average Damage: 10 Bludgeoning",
+        "Action 2": "Tusks, Melee Weapon Attack, Range: 5ft, Average Damage: 10 Slashing and can curse with Lycanthropy"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Wereboar makes 2 attacks, only one of which can be with its Tusks"
+    },
+    "AC": 10,
+    "Stats": {
+        "Strength": 17,
+        "Dexterity": 10,
+        "Constitution": 15,
+        "Intelligence": 10,
+        "Wisdom": 11,
+        "Charisma": 8
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Shapechanger, The Wereboar can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is Humanoid",
+        "Ability 2": "Charge, If the Wereboar moves in a straight line towards a target and then hits with its Tusks, the target takes an extra Average 7 Slashing damage and can be knocked prone",
+        "Ability 3": "Relentless, If the Wereboar would be reduced to 0 HP, it can resist the damage if it's not strong enough and be reduced to 1 HP instead"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with silvered weapons"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

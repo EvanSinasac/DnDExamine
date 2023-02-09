@@ -1,0 +1,74 @@
+{
+    "Name": "Werebear",
+    "Creature Type": "Medium Humanoid (Human, Shapechanger)",
+    "Max HP": 135,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Climbing",
+        "Speed 2": 30
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Common"
+    },
+    "Equipment Actions": {
+        "Number": 3,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 15 Piercing and can curse with Lycanthropy",
+        "Action 2": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 13 Slashing",
+        "Action 3": "Greataxe, Melee Weapon Attack, Range: 5ft, Average Damage: 10 Slashing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, In Bear form, the Werebear makes 2 Claw attacks.  In Humanoid form, the Werebear makes 2 Greataxe attacks.  In Hybrid form, the Werebear can attack like a Bear or a Humanoid"
+    },
+    "AC": 10,
+    "Stats": {
+        "Strength": 19,
+        "Dexterity": 10,
+        "Constitution": 17,
+        "Intelligence": 11,
+        "Wisdom": 12,
+        "Charisma": 12
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Shapechanger, The Werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is Humanoid",
+        "Ability 2": "Keen Smell, The Werebear has advantage on Wisdom (Perception) checks that rely on smell"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with silvered weapons"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}
