@@ -1,0 +1,74 @@
+{
+    "Name": "Manticore",
+    "Creature Type": "Large Monstrosity",
+    "Max HP": 68,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Flying",
+        "Speed 2": 50
+    },
+    "Challenge Rating": "3",
+    "EXP": 700,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Common"
+    },
+    "Equipment Actions": {
+        "Number": 3,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 7 Piercing",
+        "Action 2": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 6 Slashing",
+        "Action 3": "Tail Spike, Ranged Weapon Attack, Range: 100/200ft, Average Damage: 7 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Manticore makes 3 attacks, one with its Bite and two with its Claws or three with its Tail Spikes"
+    },
+    "AC": 14,
+    "Stats": {
+        "Strength": 17,
+        "Dexterity": 16,
+        "Constitution": 17,
+        "Intelligence": 7,
+        "Wisdom": 12,
+        "Charisma": 8
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Tail Spike Regrowth, The Manticore has a limited number of tail spikes that regrow while the Manticore is resting"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

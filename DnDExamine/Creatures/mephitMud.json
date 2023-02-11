@@ -1,0 +1,76 @@
+{
+    "Name": "Mud Mephit",
+    "Creature Type": "Small Elemental",
+    "Max HP": 17,
+    "Movement Speeds": {
+        "Number": 3,
+        "Type 1": "Walking",
+        "Speed 1": 20,
+        "Type 2": "Flying",
+        "Speed 2": 20,
+        "Type 3": "Swimming",
+        "Speed 3": 20
+    },
+    "Challenge Rating": "1/4",
+    "EXP": 50,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Aquan",
+        "Language 2": "Terran"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Fists, Melee Weapon Attack, Range: 5ft, Average Damage: 4 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Mud Breath, The Mephit belches a cone of viscid mud onto a creature.  The affected creature becomes restrained"
+    },
+    "AC": 11,
+    "Stats": {
+        "Strength": 8,
+        "Dexterity": 12,
+        "Constitution": 12,
+        "Intelligence": 9,
+        "Wisdom": 11,
+        "Charisma": 7
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Death Burst, When the Mephit dies, it explodes into a burst of sticky mud.  Nearby creatures could be caught and restrained by the sudden cloud of mud",
+        "Ability 2": "False Appearance, While the Mephit remains motionless, it is indistinguishable from an ordinary mound of mud"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

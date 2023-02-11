@@ -1,0 +1,79 @@
+{
+    "Name": "Mind Flayer",
+    "Creature Type": "Medium Aberration",
+    "Max HP": 71,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "7",
+    "EXP": 2900,
+    "Skills": {
+        "Number": 6,
+        "Skill 1": "Arcana",
+        "Skill 2": "Deception",
+        "Skill 3": "Insight",
+        "Skill 4": "Perception",
+        "Skill 5": "Persuasion",
+        "Skill 6": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 3,
+        "Language 1": "Deep Speech",
+        "Language 2": "Undercommon",
+        "Language 3": "Telepathy"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Tentacles, Melee Weapon Attack, Range: 5ft, Average Damage: 15 Psychic and can grapple",
+        "Action 2": "Extract Brain, Melee Weapon Attack, Range: 5ft, Average Damage: 55 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Mind Blast, The Mind Flayer emits psychic energy in a cone that deals an Average 22 Psychic and can stun"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 11,
+        "Dexterity": 12,
+        "Constitution": 12,
+        "Intelligence": 19,
+        "Wisdom": 17,
+        "Charisma": 17
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Magic Resistance, The Mind Flayer has advantage on saving throws against spells and other magical effects",
+        "Ability 2": "Innate Spellcasting, The Mind Flayer can cast a few spells"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

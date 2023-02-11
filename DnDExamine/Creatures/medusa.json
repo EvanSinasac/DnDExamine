@@ -1,0 +1,75 @@
+{
+    "Name": "Medusa",
+    "Creature Type": "Medium Monstrosity",
+    "Max HP": 127,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "6",
+    "EXP": 2300,
+    "Skills": {
+        "Number": 4,
+        "Skill 1": "Deception",
+        "Skill 2": "Insight",
+        "Skill 3": "Perception",
+        "Skill 4": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Common"
+    },
+    "Equipment Actions": {
+        "Number": 3,
+        "Action 1": "Snake Hair, Melee Weapon Attack, Range: 5ft, Average Damage: 4 Piercing plus 14 Poison",
+        "Action 2": "Shortsword, Melee Weapon Attack, Range: 5ft, Average Damage: 5 Piercing",
+        "Action 3": "Longbow, Ranged Weapon Attack, Range: 150/600ft, Average Damage: 6 Piercing plus 7 Poison"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Medusa makes either 3 attacks melee attacks, one with its Snake Hair and two with its Shortsword, or two ranged attacks with its Longbow"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 10,
+        "Dexterity": 15,
+        "Constitution": 16,
+        "Intelligence": 12,
+        "Wisdom": 13,
+        "Charisma": 15
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Petrifying Gaze, When a creature that can see the Medusa's eyes starts its turn, the Medusa attempts to petrify the creature by forcing a Constitution saving throw.  Many great heroes and legends are told of Gorgons and the legendary Medusa, but few survive direct combat due to this cursed affect"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

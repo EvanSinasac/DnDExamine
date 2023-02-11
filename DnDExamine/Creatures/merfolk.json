@@ -1,0 +1,72 @@
+{
+    "Name": "Merfolk",
+    "Creature Type": "Medium Humanoid (Merfolk)",
+    "Max HP": 11,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 10,
+        "Type 2": "Swimming",
+        "Speed 2": 40
+    },
+    "Challenge Rating": "1/8",
+    "EXP": 25,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Aquan",
+        "Language 2": "Common"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Spear, Melee or Ranged Weapon Attack, Range: 5ft or 20/60ft, Average Damage: 3 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 11,
+    "Stats": {
+        "Strength": 10,
+        "Dexterity": 13,
+        "Constitution": 12,
+        "Intelligence": 11,
+        "Wisdom": 11,
+        "Charisma": 12
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Amphibious, The Merfolk can breathe air and water"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

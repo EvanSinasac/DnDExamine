@@ -1,0 +1,73 @@
+{
+    "Name": "Minotaur",
+    "Creature Type": "Large Monstrosity",
+    "Max HP": 76,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 40
+    },
+    "Challenge Rating": "3",
+    "EXP": 700,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Abyssal"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Greataxe, Melee Weapon Attack, Range: 5ft, Average Damage: 17 Slashing",
+        "Action 2": "Gore, Melee Weapon Attack, Range: 5ft, Average Damage: 13 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 14,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 11,
+        "Constitution": 16,
+        "Intelligence": 6,
+        "Wisdom": 16,
+        "Charisma": 9
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Charge, If the Minotaur charges in a straight line towards a target and then hits it with a Gore attack, the target takes an extra Average 9 Piercing damage and could be knocked prone",
+        "Ability 2": "Labyrinthine Recall, THe Minotaur can perfectly recall any path it has traveled",
+        "Ability 3": "Reckless, The Minotaur can enter a reckless rage, giving it advantage on all of its Melee Weapon attack rolls, and grants advantage on all Melee Weapon attack rolls against it"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}
