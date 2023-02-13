@@ -1,0 +1,73 @@
+{
+    "Name": "Spirit Naga",
+    "Creature Type": "Large Monstrosity",
+    "Max HP": 75,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 40
+    },
+    "Challenge Rating": "8",
+    "EXP": 3900,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Abyssal",
+        "Language 2": "Common"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 10ft, Average Damage: 7 Piercing plus 31 Poison"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 17,
+        "Constitution": 14,
+        "Intelligence": 16,
+        "Wisdom": 15,
+        "Charisma": 16
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Rejuvenation, The Naga returns to life after a few days after it has died",
+        "Ability 2": "Spellcasting, The Naga is a 10th level spellcaster with a lot of Wizard spells prepared"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 2,
+        "Condition 1": "Charmed",
+        "Condition 2": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

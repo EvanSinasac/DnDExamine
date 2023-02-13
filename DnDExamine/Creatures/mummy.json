@@ -1,0 +1,76 @@
+{
+    "Name": "Mummy",
+    "Creature Type": "Medium Undead",
+    "Max HP": 58,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 20
+    },
+    "Challenge Rating": "3",
+    "EXP": 700,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Common"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Rotting Fist, Melee Weapon Attack, Range: 5ft, Average Damage: 10 Bludgeoning plus 10 Necrotic and can curse"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Mummy can use its Dreadful Glare and makes one Rotting Fist attack",
+        "Action 2": "Dreadful Glare, The Mummy glares at a creature and attempts to frighten them"
+    },
+    "AC": 11,
+    "Stats": {
+        "Strength": 16,
+        "Dexterity": 8,
+        "Constitution": 15,
+        "Intelligence": 6,
+        "Wisdom": 10,
+        "Charisma": 12
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "N/A"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "Fire"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 2,
+        "Damage 1": "Necrotic",
+        "Damage 2": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 5,
+        "Condition 1": "Charmed",
+        "Condition 2": "Exhaustion",
+        "Condition 3": "Frightened",
+        "Condition 4": "Paralyzed",
+        "Condition 5": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

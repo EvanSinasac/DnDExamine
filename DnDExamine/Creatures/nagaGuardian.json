@@ -1,0 +1,74 @@
+{
+    "Name": "Guardian Naga",
+    "Creature Type": "Large Monstrosity",
+    "Max HP": 127,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 40
+    },
+    "Challenge Rating": "10",
+    "EXP": 5900,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Celestial",
+        "Language 2": "Common"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 10ft, Average Damage: 8 Piercing plus 45 Poison",
+        "Action 2": "Spit Poison, Ranged Weapon Attack, Range: 15/30ft, Average Damage: 45 Poison"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 18,
+    "Stats": {
+        "Strength": 19,
+        "Dexterity": 18,
+        "Constitution": 16,
+        "Intelligence": 16,
+        "Wisdom": 19,
+        "Charisma": 18
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Rejuvenation, The Naga returns to life after a few days after it has died",
+        "Ability 2": "Spellcasting, The Naga is an 11th level spellcaster with a lot of Cleric spells prepared"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 2,
+        "Condition 1": "Charmed",
+        "Condition 2": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

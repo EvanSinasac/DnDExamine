@@ -1,0 +1,72 @@
+{
+    "Name": "Duodrone",
+    "Creature Type": "Medium Construct",
+    "Max HP": 11,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "1/4",
+    "EXP": 50,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Truesight",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Modron"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Fist, Melee Weapon Attack, Range: 5ft, Average Damage: 2 Bludgeoning",
+        "Action 2": "Javeling, Melee or Ranged Weapon Attack, Range: 5ft or 30/120ft, Average Damage: 4 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Duodrone makes 2 Fist attacks or 2 Javelin attacks"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 11,
+        "Dexterity": 13,
+        "Constitution": 12,
+        "Intelligence": 6,
+        "Wisdom": 10,
+        "Charisma": 7
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Axiomatic Mind, The Duodrone can not be compelled to act in a manner contrary to its nature or instructions",
+        "Ability 2": "Disintigration, If the Duodrone dies, its body disintigrates into dust"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

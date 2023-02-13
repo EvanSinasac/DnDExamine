@@ -1,0 +1,74 @@
+{
+    "Name": "Bone Naga",
+    "Creature Type": "Large Undead",
+    "Max HP": 58,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "4",
+    "EXP": 1100,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Common",
+        "Language 2": "Whichever other language it knew in life"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 10ft, Average Damage: 10 Piercing plus 10 Poison"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 15,
+        "Dexterity": 16,
+        "Constitution": 12,
+        "Intelligence": 15,
+        "Wisdom": 15,
+        "Charisma": 16
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Spellcasting, The Naga is a 5th level spellcaster with a number of spells prepared.  If it was a Guardian Naga in life it has Cleric spells prepared.  If it was a Spirit Naga in life it has Wizard spells prepared"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 4,
+        "Condition 1": "Charmed",
+        "Condition 2": "Exhaustion",
+        "Condition 3": "Paralyzed",
+        "Condition 4": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

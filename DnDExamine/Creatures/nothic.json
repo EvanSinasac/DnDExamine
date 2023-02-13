@@ -1,0 +1,75 @@
+{
+    "Name": "Nothic",
+    "Creature Type": "Medium Aberration",
+    "Max HP": 45,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "2",
+    "EXP": 450,
+    "Skills": {
+        "Number": 4,
+        "Skill 1": "Arcana",
+        "Skill 2": "Insight",
+        "Skill 3": "Perception",
+        "Skill 4": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Truesight",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Undercommon"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 6 Slashing"
+    },
+    "Other Actions": {
+        "Number": 3,
+        "Action 1": "Multiattack, The Nothic makes 2 Claw attacks",
+        "Action 2": "Rotting Gaze, The Nothic targets a creature who makes a Constitution saving throw, taking an Average 10 Necrotic damage on a failure",
+        "Action 3": "Weird Insight, The Nothic targets a creature and begins a mental contest with them.  The Nothic makes a Wisdom (Insight) check against the target's Charisma (Deception) check.  If the NOthic wins, it magically learns one fact or secret about the target"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 14,
+        "Dexterity": 16,
+        "Constitution": 16,
+        "Intelligence": 13,
+        "Wisdom": 10,
+        "Charisma": 8
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Keen Sight, The Nothic has advantage on Wisdom (Perception) checks that rely on sight"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

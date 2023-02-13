@@ -1,0 +1,71 @@
+{
+    "Name": "Myconid Sprout",
+    "Creature Type": "Small Plant",
+    "Max HP": 7,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 10
+    },
+    "Challenge Rating": "0",
+    "EXP": 10,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Fist, Melee Weapon Attack, Range: 5ft, Average Damage: 1 Bludgeoning plus 2 Poison"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Rapport Spores, The Myconid expels spores around it.  Infected creatures can speak telepathically with each other"
+    },
+    "AC": 10,
+    "Stats": {
+        "Strength": 8,
+        "Dexterity": 10,
+        "Constitution": 10,
+        "Intelligence": 8,
+        "Wisdom": 11,
+        "Charisma": 5
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Distress Spore, The Myconid shares its pain with all other nearby Myconids",
+        "Ability 2": "Sun Sickness, The Myconid has disadvantage on ability checks, attack rolls and saving throws while in sunlight.  It will die after spending an hour or more in direct sunlight"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

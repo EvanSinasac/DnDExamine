@@ -1,0 +1,86 @@
+{
+    "Name": "Mummy Lord",
+    "Creature Type": "Medium Undead",
+    "Max HP": 97,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 20
+    },
+    "Challenge Rating": "15",
+    "EXP": 13000,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "History",
+        "Skill 2": "Religion"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Common"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Rotting Fist, Melee Weapon Attack, Range: 5ft, Average Damage: 14 Bludgeoning plus 21 Necrotic and can curse"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Mummy can use its Dreadful Glare and makes one Rotting Fist attack",
+        "Action 2": "Dreadful Glare, The Mummy glares at a creature and attempts to frighten them"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 10,
+        "Constitution": 17,
+        "Intelligence": 11,
+        "Wisdom": 18,
+        "Charisma": 16
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Magic Resistance, The Mummy Lord has advantage on saving throws against spells and other magical effects",
+        "Ability 2": "Rejuvenation, A destroyed Mummy Lord gains a new body after 24 hours if its heart remains intact",
+        "Ability 3": "Spellcasting, The Mummy Lord is a 10th level spellcaster with a lot of Cleric spells prepared"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "Fire"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 3,
+        "Damage 1": "Necrotic",
+        "Damage 2": "Poison",
+        "Damage 3": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Condition Immunities": {
+        "Number": 5,
+        "Condition 1": "Charmed",
+        "Condition 2": "Exhaustion",
+        "Condition 3": "Frightened",
+        "Condition 4": "Paralyzed",
+        "Condition 5": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 5,
+        "Action 1": "Attack, The Mummy Lord attacks with its Rotting Fist or uses its Dreadful Glare",
+        "Action 2": "Blinding Dust, The Mummy Lord summons dust and sand to swirl around it, blinding nearby creatures",
+        "Action 3": "Blasphemous Word, The Mummy Lord mutters a blasphemous word, stunning any creature that hears it",
+        "Action 4": "Channel Negative Energy, The Mummy Lord magically unleashes a burst of negative energy, blocking all healing",
+        "Action 5": "Whirlwind of Sand, The Mummy Lord magically transforms into a whirlwind of sand, moves and then reverts to its normal form"
+    },
+    "Lair Actions": {
+        "Number": 3,
+        "Action 1": "The Mummy Lord spreads a mystical energy that pinpoints the location of all living creatures and shares that information will undead creatures",
+        "Action 2": "The Mummy Lord spreads a mystical energy that grants all undead advantage on saving throws",
+        "Action 3": "The Mummy Lord spreads a mystical energy that causes living creatures unbearable pain when they attempt to cast spells"
+    }    
+}

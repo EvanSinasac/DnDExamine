@@ -1,0 +1,72 @@
+{
+    "Name": "Nightmare",
+    "Creature Type": "Large Fiend",
+    "Max HP": 68,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 60,
+        "Type 2": "Flying",
+        "Speed 2": 90
+    },
+    "Challenge Rating": "3",
+    "EXP": 700,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Understands Abyssal, Common and Infernal but can not speak"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Hooves, Melee Weapon Attack, Range: 5ft, Average Damage: 13 Bludgeoning plus 7 Fire"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Ethereal Stride, The Nightmare can bring itself and up to 3 allies to the Ethereal Plane from the Material Plane, or vice versa"
+    },
+    "AC": 13,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 15,
+        "Constitution": 16,
+        "Intelligence": 10,
+        "Wisdom": 13,
+        "Charisma": 15
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Confer Fire Resistance, The Nightmare can grant resistance to Fire damage to anyone riding it",
+        "Ability 2": "Illumination, The Nightmare sheds bright line around it, due to it being one fire"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Fire"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}
