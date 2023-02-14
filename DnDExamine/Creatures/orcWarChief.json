@@ -1,0 +1,74 @@
+{
+    "Name": "Orc War Chief",
+    "Creature Type": "Medium Humanoid (Orc)",
+    "Max HP": 93,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "4",
+    "EXP": 1100,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Intimidation"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Common",
+        "Language 2": "Orc"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Greataxe, Melee Weapon Attack, Range: 5ft, Average Damage: 15 Slashing",
+        "Action 2": "Spear, Melee or Ranged Weapon Attack, Range: 5ft or 20/60ft, Average Damage: 12 Piercing"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Orc makes 2 attacks with its Greataxe or its Spear",
+        "Action 2": "Battle Cry, Each creature of the War Chief's choice that can hear it gains advantage on attack rolls.  The War Chief then makes one attack as a Bonus Action"
+    },
+    "AC": 16,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 12,
+        "Constitution": 18,
+        "Intelligence": 11,
+        "Wisdom": 11,
+        "Charisma": 16
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Aggressive, As a Bonus Action, the Orc can move up to its speed toward a hostile creature that it can see",
+        "Ability 2": "Gruumsh's Fury, The Orc deals an extra 4 Damage when it hits with a weapon attack"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

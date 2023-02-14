@@ -1,0 +1,76 @@
+{
+    "Name": "Gelatinous Cube",
+    "Creature Type": "Large Ooze",
+    "Max HP": 84,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 15
+    },
+    "Challenge Rating": "2",
+    "EXP": 450,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Pseudopod, Melee Weapon Attack, Range: 5ft, Average Damage: 10 Acid"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Engulf, The Gelatinous Cube moves up to its speed, entering Large or smaller creatures' spaces, attempting to engulf the creatures, suffocating and restraining them"
+    },
+    "AC": 6,
+    "Stats": {
+        "Strength": 14,
+        "Dexterity": 3,
+        "Constitution": 20,
+        "Intelligence": 1,
+        "Wisdom": 6,
+        "Charisma": 1
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Ooze Cube, The Cube takes up its entire space.  Other creatures can enter the space, but are subjected to the Cube's Engulf effect",
+        "Ability 2": "Transparent, The Cube is transparent and is nearly invisible to creatures while it has not moved nor attacked"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 6,
+        "Condition 1": "Blinded",
+        "Condition 2": "Charmed",
+        "Condition 3": "Deafened",
+        "Condition 4": "Exhaustion",
+        "Condition 5": "Frightened",
+        "Condition 6": "Prone"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

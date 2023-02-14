@@ -1,0 +1,79 @@
+{
+    "Name": "Oni",
+    "Creature Type": "Large Giant",
+    "Max HP": 110,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Flying",
+        "Speed 2": 30
+    },
+    "Challenge Rating": "7",
+    "EXP": 2900,
+    "Skills": {
+        "Number": 3,
+        "Skill 1": "Arcana",
+        "Skill 2": "Deception",
+        "Skill 3": "Perception"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-HIgh Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Common",
+        "Language 2": "Giant"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 8 Slashing",
+        "Action 2": "Glaive, Melee Weapon Attack, Range: 10ft, Average Damage: 15 Slashing"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Oni makes 2 attacks, either with its Claws or its Glaive",
+        "Action 2": "Change Shape, The Oni can magically polymorph into a Small or Medium humanoid, into a Large Giant or back into its true form"
+    },
+    "AC": 16,
+    "Stats": {
+        "Strength": 19,
+        "Dexterity": 11,
+        "Constitution": 16,
+        "Intelligence": 14,
+        "Wisdom": 12,
+        "Charisma": 15
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Innate Spellcasting, The Oni can innately cast a few spells",
+        "Ability 2": "Magic Weapons, The Oni's weapon attacks are magical",
+        "Ability 3": "Regeneration, The Oni heals at the start of its turn"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

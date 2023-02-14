@@ -1,0 +1,72 @@
+{
+    "Name": "Otyugh",
+    "Creature Type": "Large Aberration",
+    "Max HP": 114,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Otyugh"
+    },
+    "Equipment Actions": {
+        "Number": 3,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 12 Piercing and can infect creatures with a disease",
+        "Action 2": "Tentacle, Melee Weapon Attack, Range: 10ft, Average Damage: 7 Bludgeoning plus 4 Piercing and can grapple",
+        "Action 3": "Tentacle Slam, The Otyugh slams creatures it is grappling into each other or a solid surface, doing an Average 10 Bludgeoning damage and stunning the creatures"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Otyugh makes 3 attacks, one with its Bite and two with its Tentacles"
+    },
+    "AC": 14,
+    "Stats": {
+        "Strength": 16,
+        "Dexterity": 11,
+        "Constitution": 19,
+        "Intelligence": 6,
+        "Wisdom": 13,
+        "Charisma": 6
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Limited Telepathy, The Otyugh can magically transmit simple messages to nearby creatures.  The recipient can not respond with this ability"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

@@ -1,0 +1,74 @@
+{
+    "Name": "Orc Eye of Gruumsh",
+    "Creature Type": "Medium Humanoid (Orc)",
+    "Max HP": 45,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "2",
+    "EXP": 450,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Intimidation",
+        "Skill 2": "Religion"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Common",
+        "Language 2": "Orc"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Spear, Melee or Ranged Weapon Attack, Range: 5ft or 20/60ft, Average Damage: 11 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 16,
+    "Stats": {
+        "Strength": 16,
+        "Dexterity": 12,
+        "Constitution": 16,
+        "Intelligence": 9,
+        "Wisdom": 13,
+        "Charisma": 12
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Aggressive, As a Bonus Action, the Orc can move up to its speed toward a hostile creature that it can see",
+        "Ability 2": "Gruumsh's Fury, The Orc deals an extra 4 Damage when it hits with a weapon attack",
+        "Ability 3": "Spellcasting, The Orc is a 3rd level spellcaster with a few CLeric spells prepared"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

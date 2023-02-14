@@ -1,0 +1,72 @@
+{
+    "Name": "Half-Ogre",
+    "Creature Type": "Large Giant",
+    "Max HP": 30,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "1",
+    "EXP": 200,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Common",
+        "Language 2": "Giant"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Battleaxe, Melee Weapon Attack, Range: 5ft, Average Damage: 12 Slashing",
+        "Action 2": "Javelin, Melee or Ranged Weapon Attack, Range: 5ft or 30/120ft, Average Damage: 10 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 12,
+    "Stats": {
+        "Strength": 17,
+        "Dexterity": 10,
+        "Constitution": 14,
+        "Intelligence": 7,
+        "Wisdom": 9,
+        "Charisma": 10
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "N/A"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}
