@@ -1,0 +1,74 @@
+{
+    "Name": "Peryton",
+    "Creature Type": "Medium Monstrosity",
+    "Max HP": 33,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 20,
+        "Type 2": "Flying",
+        "Speed 2": 60
+    },
+    "Challenge Rating": "2",
+    "EXP": 450,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Understands Common and Elvish but can not speak"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Gore, Melee Weapon Attack, Range: 5ft, Average Damage: 7 Piercing",
+        "Action 2": "Talons, Melee Weapon Attack, Range: 5ft, Average Damage: 8 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Peryton makes 1 Gore attack and 1 Talon attack"
+    },
+    "AC": 13,
+    "Stats": {
+        "Strength": 16,
+        "Dexterity": 12,
+        "Constitution": 13,
+        "Intelligence": 9,
+        "Wisdom": 12,
+        "Charisma": 10
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Dive Attack, If the Peryton is flying and dives at a target and then hits with a Melee Weapon attack, the attack deals an extra Average 9 damage",
+        "Ability 2": "Flyby, The Peryton does not provoke an opportunity attack when it flies out of an enemy's reach",
+        "Ability 3": "Keen Sight and Smell, The Peryton has advantage on Wisdom (Perception) checks that rely on sight or smell"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

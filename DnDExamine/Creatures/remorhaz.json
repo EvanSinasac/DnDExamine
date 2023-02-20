@@ -1,0 +1,74 @@
+{
+    "Name": "Remorhaz",
+    "Creature Type": "Huge Monstrosity",
+    "Max HP": 195,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Burrowing",
+        "Speed 2": 20
+    },
+    "Challenge Rating": "11",
+    "EXP": 7200,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Tremorsense",
+        "Sense 3": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 10ft, Average Damage: 40 Piercing plus 10 Fire and can grapple"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Swallow, When the Remorhaz makes a Bite attack against a creature it is grappling, it can swallow that creature.  A swallowed creature takes an Average 21 acid damage while restrained in the Remorhaz's stomach"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 24,
+        "Dexterity": 13,
+        "Constitution": 21,
+        "Intelligence": 4,
+        "Wisdom": 10,
+        "Charisma": 5
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Heated Body, A creature that touches the Remorhaz or hits with a Melee Weapon attack takes an Average 10 Fire damage"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 2,
+        "Damage 1": "Cold",
+        "Damage 2": "Fire"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

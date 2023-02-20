@@ -1,0 +1,71 @@
+{
+    "Name": "Rust Monsters",
+    "Creature Type": "Medium Monstrosity",
+    "Max HP": 14,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 40
+    },
+    "Challenge Rating": "1/2",
+    "EXP": 100,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 5 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Antennae, The Rust Monster corrodes nonmagical ferrous metal objects it can see within 5ft of it.  If the targeted metal is being worn or carried by a creature, they can make a Dexterity saving throw to avoid the Rust Monster's touch"
+    },
+    "AC": 14,
+    "Stats": {
+        "Strength": 13,
+        "Dexterity": 12,
+        "Constitution": 13,
+        "Intelligence": 2,
+        "Wisdom": 13,
+        "Charisma": 6
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Iron Scent, The Rust Monster can pinpoint the location of any ferrous metal within 30ft of it by smell",
+        "Ability 2": "Rust Metal, Any nonmagical weapon made of metal that hits the Rust Monster starts to corrode after dealing damage"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

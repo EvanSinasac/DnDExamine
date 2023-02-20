@@ -1,0 +1,71 @@
+{
+    "Name": "Pegasus",
+    "Creature Type": "Large Celestial",
+    "Max HP": 59,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 60,
+        "Type 2": "Flying",
+        "Speed 2": 90
+    },
+    "Challenge Rating": "2",
+    "EXP": 450,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Understands Celestial, Common, Elvish, and Sylvan but can not speak"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Hooves, Melee Weapon Attack, Range: 5ft, Average Damage: 11 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 12,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 15,
+        "Constitution": 16,
+        "Intelligence": 10,
+        "Wisdom": 15,
+        "Charisma": 13
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "N/A"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

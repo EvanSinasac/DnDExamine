@@ -1,0 +1,74 @@
+{
+    "Name": "Piercer",
+    "Creature Type": "Medium Monstrosity",
+    "Max HP": 22,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 5,
+        "Type 2": "Climbing",
+        "Speed 2": 5
+    },
+    "Challenge Rating": "1/2",
+    "EXP": 100,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Stealth"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Drop, Melee Weapon Attack, Range: One creature directly underneath, Average Damage: 3 Piercing to 21 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 10,
+        "Dexterity": 13,
+        "Constitution": 16,
+        "Intelligence": 1,
+        "Wisdom": 7,
+        "Charisma": 3
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "False Appearance, While the Piercer remains motionless on the ceiling, it is indistinguishable from a normal stalactite",
+        "Ability 2": "Spider Climb, The Piercer can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

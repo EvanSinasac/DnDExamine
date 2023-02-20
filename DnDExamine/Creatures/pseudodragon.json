@@ -1,0 +1,77 @@
+{
+    "Name": "Pseudodragon",
+    "Creature Type": "Tiny Dragon",
+    "Max HP": 7,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 15,
+        "Type 2": "Flying",
+        "Speed 2": 60
+    },
+    "Challenge Rating": "1/4",
+    "EXP": 50,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Understands Common and Draconic but can not speak"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 4 Piercing",
+        "Action 2": "Sting, Melee Weapon Attcak, Range: 5ft, Average Damage: 4 Piercing and can poison"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 13,
+    "Stats": {
+        "Strength": 6,
+        "Dexterity": 15,
+        "Constitution": 13,
+        "Intelligence": 10,
+        "Wisdom": 12,
+        "Charisma": 10
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Keen Senses, The Pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing or smell",
+        "Ability 2": "Magic Resistance, The Pseudodragon has advantage on saving throws against spells and other magical effects",
+        "Ability 3": "Limited Telepathy, The Pseudodragon can magically communicate simple ideas, emotions and images telepathically with any creature within range"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

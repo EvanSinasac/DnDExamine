@@ -1,0 +1,73 @@
+{
+    "Name": "Rakshasa",
+    "Creature Type": "Medium Fiend",
+    "Max HP": 110,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 40
+    },
+    "Challenge Rating": "13",
+    "EXP": 10000,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Deception",
+        "Skill 2": "Insight"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Common",
+        "Language 2": "Infernal"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 9 Slashing and can curse"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Rakshasa makes 2 Claw attacks"
+    },
+    "AC": 16,
+    "Stats": {
+        "Strength": 14,
+        "Dexterity": 17,
+        "Constitution": 18,
+        "Intelligence": 13,
+        "Wisdom": 16,
+        "Charisma": 20
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Limited Magic Immunity, The Rakshasa can't be affected or detected by spells of 6th level or lower unless it wishes to be.  It has advantage on saving throws against all other spells and magical effects",
+        "Ability 2": "Innate Spellcasting, The Rakshasa can innately cast a number of spells"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "Piercing from magic weapons wielded by good creatures (really, this is a thing? lmao)"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Bludgeoning, Piercing and Slashing from nonmagical attacks"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

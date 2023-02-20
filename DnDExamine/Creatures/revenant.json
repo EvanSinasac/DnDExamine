@@ -1,0 +1,80 @@
+{
+    "Name": "Revenant",
+    "Creature Type": "Medium Undead",
+    "Max HP": 136,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "The Languages it knew in life"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Fist, Melee Weapon Attack, Range: 5ft, Average Damage: 11 Bludgeoning, extra if the target is the creature the Revenant has sworn vengeance against"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Revenant makes 2 Fist attacks",
+        "Action 2": "Vengeful Glare, The Revenant targets one creature it has sworn vengeance against and galres at them, paralyzing them"
+    },
+    "AC": 13,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 14,
+        "Constitution": 18,
+        "Intelligence": 13,
+        "Wisdom": 16,
+        "Charisma": 18
+    },
+    "Abilities": {
+        "Number": 4,
+        "Ability 1": "Regeneration, The Revenant heals unless it takes Fire or Radiant damage.  The only way to destroy a Revenant's body is with Fire or Radiant damage",
+        "Ability 2": "Rejuventation, When the Revenant's body is destroyed, its soul lingers and inhabits the body of another corpse on the same plane of existance.  Only a Wish spell is known to prevent the soul from reanimating",
+        "Ability 3": "Turn Immunity, The Revenant is immune to effects that turn undead",
+        "Ability 4": "Vengeful Tracker, The Revenant always knows the distance to and direction of any creature it is seeking revenge against"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 2,
+        "Damage 1": "Necrotic",
+        "Damage 2": "Psychic"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 6,
+        "Condition 1": "Charmed",
+        "Condition 2": "Exhaustion",
+        "Condition 3": "Frightened",
+        "Condition 4": "Paralyzed",
+        "Condition 5": "Poisoned",
+        "Condition 6": "Stunned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

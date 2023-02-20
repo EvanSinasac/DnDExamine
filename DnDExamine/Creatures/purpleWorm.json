@@ -1,0 +1,74 @@
+{
+    "Name": "Purple Worm",
+    "Creature Type": "Gargantuan Monstrosity",
+    "Max HP": 247,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 50,
+        "Type 2": "Burrowing",
+        "Speed 2": 30
+    },
+    "Challenge Rating": "15",
+    "EXP": 13000,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Tremorsense",
+        "Sense 3": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 10ft, Average Damage: 22 Piercing and can swallow Large or smaller creatures",
+        "Action 2": "Tail Stinger, Melee Weapon Attack, Range: 10ft, Average Damage: 19 Piercing plus 42 Poison"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Purple Worm makes 2 attacks, one with its Bite and one with its Stinger"
+    },
+    "AC": 18,
+    "Stats": {
+        "Strength": 28,
+        "Dexterity": 7,
+        "Constitution": 22,
+        "Intelligence": 1,
+        "Wisdom": 8,
+        "Charisma": 4
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Tunneler, The Worm can burrow through solid rock and leaves a 10ft diameter tunnel in its wake"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

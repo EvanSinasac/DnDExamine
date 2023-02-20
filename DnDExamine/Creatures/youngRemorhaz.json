@@ -1,0 +1,73 @@
+{
+    "Name": "Young Remorhaz",
+    "Creature Type": "Large Monstrosity",
+    "Max HP": 93,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Burrowing",
+        "Speed 2": 20
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Tremorsense",
+        "Sense 3": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 20 Piercing plus 7 Fire"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 14,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 13,
+        "Constitution": 17,
+        "Intelligence": 3,
+        "Wisdom": 10,
+        "Charisma": 4
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Heated Body, A creature that touches the Remorhaz or hits with a Melee Weapon attack takes an Average 7 Fire damage"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Fire"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

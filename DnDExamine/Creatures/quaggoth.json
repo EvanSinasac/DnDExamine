@@ -1,0 +1,72 @@
+{
+    "Name": "Quaggoth",
+    "Creature Type": "Medium Humanoid",
+    "Max HP": 45,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Climbing",
+        "Speed 2": 30
+    },
+    "Challenge Rating": "2",
+    "EXP": 450,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Athletics"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Undercommon"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 6 Slashing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Quaggoth makes 2 Claw attacks"
+    },
+    "AC": 13,
+    "Stats": {
+        "Strength": 17,
+        "Dexterity": 12,
+        "Constitution": 16,
+        "Intelligence": 6,
+        "Wisdom": 12,
+        "Charisma": 7
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Wounded Fury, When the Quaggoth gets low on HP, it gains advantage on all attack rolls and deals additional damage"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}
