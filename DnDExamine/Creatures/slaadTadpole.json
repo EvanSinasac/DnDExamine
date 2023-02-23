@@ -1,0 +1,74 @@
+{
+    "Name": "Slaad Tadpole",
+    "Creature Type": "Tiny Aberration",
+    "Max HP": 10,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "1/8",
+    "EXP": 25,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Low Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Understands Slaad but can not speak"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 4 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 12,
+    "Stats": {
+        "Strength": 7,
+        "Dexterity": 15,
+        "Constitution": 10,
+        "Intelligence": 3,
+        "Wisdom": 5,
+        "Charisma": 3
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Magic Resistance, The Slaad has advantage on saving throws against spells and other magical effects"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 5,
+        "Damage 1": "Acid",
+        "Damage 2": "Cold",
+        "Damage 3": "Fire",
+        "Damage 4": "Lightning",
+        "Damage 5": "Thunder"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

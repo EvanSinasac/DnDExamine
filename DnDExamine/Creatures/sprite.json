@@ -1,0 +1,76 @@
+{
+    "Name": "Sprite",
+    "Creature Type": "Tiny Fey",
+    "Max HP": 2,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 10,
+        "Type 2": "Flying",
+        "Speed 2": 40
+    },
+    "Challenge Rating": "1/4",
+    "EXP": 50,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 3,
+        "Language 1": "Common",
+        "Language 2": "Elvish",
+        "Language 3": "Abyssal"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Longsword, Melee Weapon Attack, Range: 5ft, Average Damage: 1 Slashing",
+        "Action 2": "Shortbow, Ranged Weapon Attack, Range: 40/160ft, Average Damage: 1 Piercing and can poison"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Heart Sight, The Sprite can touch a creature and connect with it on an emotional level, learning its current emotional state",
+        "Action 2": "Invisibility, The Sprite magically turns invisible"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 3,
+        "Dexterity": 18,
+        "Constitution": 10,
+        "Intelligence": 14,
+        "Wisdom": 13,
+        "Charisma": 11
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "N/A"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

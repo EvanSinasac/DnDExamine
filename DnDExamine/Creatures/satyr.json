@@ -1,0 +1,75 @@
+{
+    "Name": "Satyr",
+    "Creature Type": "Medium Fey",
+    "Max HP": 31,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 40
+    },
+    "Challenge Rating": "1/2",
+    "EXP": 100,
+    "Skills": {
+        "Number": 3,
+        "Skill 1": "Perception",
+        "Skill 2": "Performance",
+        "Skill 3": "Stealth"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 3,
+        "Language 1": "Common",
+        "Language 2": "Elvish",
+        "Language 3": "Sylvan"
+    },
+    "Equipment Actions": {
+        "Number": 3,
+        "Action 1": "Ram, Melee Weapon Attack, Range: 5ft, Average Damage: 6 Bludgeoning",
+        "Action 2": "Shortsword, Melee Weapon Attack, Range: 5ft, Average Damage: 6 Piercing",
+        "Action 3": "Shortbow, Ranged Weapon Attack, Range: 80/320ft, Average Damage: 6 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 14,
+    "Stats": {
+        "Strength": 12,
+        "Dexterity": 16,
+        "Constitution": 11,
+        "Intelligence": 12,
+        "Wisdom": 10,
+        "Charisma": 14
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Magic Resistance, The Satyr has advantage on saving throws against spells and other magical effects"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

@@ -1,0 +1,76 @@
+{
+    "Name": "Scarecrow",
+    "Creature Type": "Medium Construct",
+    "Max HP": 36,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "1",
+    "EXP": 200,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Understands the languages of its creator but can not speak"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 6 Slashing and can frighten"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Scarecrow makes 2 Claw attacks",
+        "Action 2": "Terrifying Glare, The Scarecrow targets a creature, making a terrifying face and screech to frighten the creature"
+    },
+    "AC": 11,
+    "Stats": {
+        "Strength": 11,
+        "Dexterity": 13,
+        "Constitution": 11,
+        "Intelligence": 10,
+        "Wisdom": 10,
+        "Charisma": 13
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "False Appearance, While the Scarecrow remains motionless, it is indistinguishable from an ordinary, inanimate scarecrow"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "Fire"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 6,
+        "Condition 1": "Charmed",
+        "Condition 2": "Exhaustion",
+        "Condition 3": "Frightened",
+        "Condition 4": "Paralyzed",
+        "Condition 5": "Poisoned",
+        "Condition 6": "Unconscious"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

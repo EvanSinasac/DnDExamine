@@ -1,0 +1,83 @@
+{
+    "Name": "Green Slaad",
+    "Creature Type": "Large Aberration",
+    "Max HP": 127,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Arcana",
+        "Skill 2": "Perception"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Slaad",
+        "Language 2": "Telepathy"
+    },
+    "Equipment Actions": {
+        "Number": 3,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 11 Piercing",
+        "Action 2": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 7 Slashing",
+        "Action 3": "Staff, Melee Weapon Attack, Range: 5ft, Average Damage: 11 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Slaad makes 3 attacks, one with its Bite and two with its Claws or Staff.  Alternatively, it uses its Hurl Flame twice",
+        "Action 2": "Hurl Flame, Ranged Spell Attack, Range: 60ft, Average Damage, 10 Fire"
+    },
+    "AC": 16,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 15,
+        "Constitution": 16,
+        "Intelligence": 11,
+        "Wisdom": 8,
+        "Charisma": 12
+    },
+    "Abilities": {
+        "Number": 4,
+        "Ability 1": "Shapechanger, The Slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form",
+        "Ability 2": "Innate Spellcasting, The Slaad can cast a few spells innately",
+        "Ability 3": "Magic Resistance, The Slaad has advantage on saving throws against spells and other magical effects",
+        "Ability 4": "Regeneration, The Slaad regains HP at the start of its turn"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 5,
+        "Damage 1": "Acid",
+        "Damage 2": "Cold",
+        "Damage 3": "Fire",
+        "Damage 4": "Lightning",
+        "Damage 5": "Thunder"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

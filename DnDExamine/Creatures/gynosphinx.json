@@ -1,0 +1,84 @@
+{
+    "Name": "Gynosphinx",
+    "Creature Type": "Large Monstrosity",
+    "Max HP": 136,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 40,
+        "Type 2": "Flying",
+        "Speed 2": 60
+    },
+    "Challenge Rating": "11",
+    "EXP": 7200,
+    "Skills": {
+        "Number": 4,
+        "Skill 1": "Arcana",
+        "Skill 2": "History",
+        "Skill 3": "Perception",
+        "Skill 4": "Religion"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Truesight",
+        "Sense 2": "High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "Common",
+        "Language 2": "Sphinx"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 13 Slashing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Sphinx makes 2 Claw attacks"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 15,
+        "Constitution": 16,
+        "Intelligence": 18,
+        "Wisdom": 18,
+        "Charisma": 18
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Inscrutable, The Sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses.  Uh oh, what have you done",
+        "Ability 2": "Magic Weapons, The Sphinx's weapon attacks are magical",
+        "Ability 3": "Spellcasting, The Sphinx is a 9th level spellcaster with a number of Cleric spells prepared"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Psychic"
+    },
+    "Condition Immunities": {
+        "Number": 2,
+        "Condition 1": "Charmed",
+        "Condition 2": "Frightened"
+    },
+    "Legendary Actions": {
+        "Number": 3,
+        "Action 1": "Claw Attack, The Sphinx makes one Claw attack",
+        "Action 2": "Teleport, The Sphinx magically teleports to an unoccupied space it can see",
+        "Action 3": "Cast a Spell, The Sphinx casts one of its prepared spells"
+    },
+    "Lair Actions": {
+        "Number": 4,
+        "Action 1": "The Sphinx alters the flow of time, forcing creatures to reroll initiative",
+        "Action 2": "The Sphinx alters time, causing creatures to become older or younger",
+        "Action 3": "The Sphinx jerks time forwards or backwards by 10 years.  Why do we know its 10?  Some very lucky adventurers who ran away",
+        "Action 4": "The Sphinx shifts itself and other creatures it can see to another plane of existance"
+    }    
+}

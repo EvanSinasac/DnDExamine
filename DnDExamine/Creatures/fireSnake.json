@@ -1,0 +1,71 @@
+{
+    "Name": "Fire Snake",
+    "Creature Type": "Medium Elemental",
+    "Max HP": 22,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "1",
+    "EXP": 200,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Understands Ignan but can not speak"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 3 Piercing plus 3 Fire",
+        "Action 2": "Tail, Melee Weapon Attack, Range: 5ft, Average Damage: 3 Bludgeoning plus 3 Fire"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Fire Snake makes 2 attacks, one with its Bite and one with its Tail"
+    },
+    "AC": 14,
+    "Stats": {
+        "Strength": 12,
+        "Dexterity": 14,
+        "Constitution": 11,
+        "Intelligence": 7,
+        "Wisdom": 10,
+        "Charisma": 8
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Heated Body, The Fire Snake's body is extremely hot, causing nearby creatures to take an Average 3 Fire damage while attempting to attack it"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "Cold"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "Bludgeoning, Piercing and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Fire"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

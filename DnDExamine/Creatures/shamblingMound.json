@@ -1,0 +1,76 @@
+{
+    "Name": "Shambling Mound",
+    "Creature Type": "Large Plant",
+    "Max HP": 136,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 20,
+        "Type 2": "Swimming",
+        "Speed 2": 20
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Slam, Melee Weapon Attack, Range: 5ft, Average Damage: 13 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Shambling Mound makes 2 Slam attacks, if both attacks hit a Medium or smaller target, the target becomes grappled and the Shambling Mound uses its Engulf on it",
+        "Action 2": "Engulf, The Shambling Mound engulf a Medium or smaller creature, blinding, restraining and suffocating them.  Engulfed creatures are Bludgeoned while inside the Mound, taking an Average 13 damage"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 8,
+        "Constitution": 16,
+        "Intelligence": 5,
+        "Wisdom": 10,
+        "Charisma": 5
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Lightning Absorption, Whenever the Shambling Mound is subjected to Lightning damage, it takes no damage and regains HP"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 2,
+        "Damage 1": "Cold",
+        "Damage 2": "Fire"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Lightning"
+    },
+    "Condition Immunities": {
+        "Number": 3,
+        "Condition 1": "Blinded",
+        "Condition 2": "Deafened",
+        "Condition 3": "Exhaustion"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

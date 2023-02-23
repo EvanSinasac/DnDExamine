@@ -1,0 +1,86 @@
+{
+    "Name": "Succubus",
+    "Creature Type": "Medium Fiend",
+    "Max HP": 66,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Flying",
+        "Speed 2": 60
+    },
+    "Challenge Rating": "4",
+    "EXP": 1100,
+    "Skills": {
+        "Number": 5,
+        "Skill 1": "Deception",
+        "Skill 2": "Insight",
+        "Skill 3": "Perception",
+        "Skill 4": "Persuasion",
+        "Skill 5": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 4,
+        "Language 1": "Abyssal",
+        "Language 2": "Common",
+        "Language 3": "Infernal",
+        "Language 4": "Telepathy"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 6 Slashing"
+    },
+    "Other Actions": {
+        "Number": 3,
+        "Action 1": "Charm, The Succubus targets one humanoid and attempts to magically charm them.  The charmed target loves to obey the Succubus' commands, unless they would result in the target's death",
+        "Action 2": "Draining Kiss, The Succubus kisses one creature it has charmed, dealing an Average 32 Psychic damage, and reduces the creature's maximum HP",
+        "Action 3": "Etherealness, The Succubus enters the Ethereal Plane from the Material Plane or vice versa"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 8,
+        "Dexterity": 17,
+        "Constitution": 13,
+        "Intelligence": 15,
+        "Wisdom": 12,
+        "Charisma": 20
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Telepathic Bond, The Succubus can telepathically communicate with a creature it has charmed, regardless of the distance or if they are even on the same plane of existance",
+        "Ability 2": "Shapechanger, The Succubus can use its action to polymorph into a Small or Medium humanoid, or back into its true form"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 5,
+        "Damage 1": "Cold",
+        "Damage 2": "Fire",
+        "Damage 3": "Lightning",
+        "Damage 4": "Poison",
+        "Damage 5": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

@@ -1,0 +1,85 @@
+{
+    "Name": "Shadow",
+    "Creature Type": "Medium Undead",
+    "Max HP": 16,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 40
+    },
+    "Challenge Rating": "1/2",
+    "EXP": 100,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Strength Drain, Melee Weapon Attack, Range: 5ft, Average Damage: 9 Necrotic and can reduce the target's Strength"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "AC": 12,
+    "Stats": {
+        "Strength": 6,
+        "Dexterity": 14,
+        "Constitution": 13,
+        "Intelligence": 6,
+        "Wisdom": 10,
+        "Charisma": 8
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Amorphous, The Shadow can move through nearly any space",
+        "Ability 2": "Shadow Stealth, The Shadow can Hide as a bonus action while in dim light or darkness",
+        "Ability 3": "Sunlight Weakness, The Shadow ahs disadvantage on attack rolls, ability checks, and saving throws while in Sunlight"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "Radiant"
+    },
+    "Damage Resistances": {
+        "Number": 6,
+        "Damage 1": "Acid",
+        "Damage 2": "Cold",
+        "Damage 3": "Fire",
+        "Damage 4": "Lightning",
+        "Damage 5": "Thunder",
+        "Damage 6": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 2,
+        "Damage 1": "Necrotic",
+        "Damage 2": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 8,
+        "Condition 1": "Exhaustion",
+        "Condition 2": "Frightened",
+        "Condition 3": "Grappled",
+        "Condition 4": "Paralyzed",
+        "Condition 5": "Petrified",
+        "Condition 6": "Poisoned",
+        "Condition 7": "Prone",
+        "Condition 8": "Restrained"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

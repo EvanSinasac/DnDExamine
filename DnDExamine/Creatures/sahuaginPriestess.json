@@ -1,0 +1,77 @@
+{
+    "Name": "Sahuagin Priestess",
+    "Creature Type": "Medium Humanoid (Sahuagin)",
+    "Max HP": 33,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Swimming",
+        "Speed 2": 40
+    },
+    "Challenge Rating": "2",
+    "EXP": 450,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Religion"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Sahuagin"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 3 Piercing",
+        "Action 2": "Claws, Melee Weapon Attack, Range: 5ft, Average Damage: 3 Slashing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Sahuagin makes 2 Melee attacks, one with its Bite and one with its Claws"
+    },
+    "AC": 12,
+    "Stats": {
+        "Strength": 13,
+        "Dexterity": 11,
+        "Constitution": 12,
+        "Intelligence": 12,
+        "Wisdom": 14,
+        "Charisma": 13
+    },
+    "Abilities": {
+        "Number": 4,
+        "Ability 1": "Blood Frenzy, The Sahuagin has advantage on melee attack rolls against any creature that doesn't have all its HP",
+        "Ability 2": "Limited Amphibiousness, The Sahuagin can breathe air and water, but needs to be submerged every few hours to avoid suffocating",
+        "Ability 3": "Shark Telepathy, The Sahuagin can magically command any shark within range",
+        "Ability 4": "Spellcasting, The Sahuagin is a 6th level spellcaster with a number of Cleric spells prepared"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

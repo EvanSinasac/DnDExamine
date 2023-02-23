@@ -1,0 +1,78 @@
+{
+    "Name": "Shield Guardian",
+    "Creature Type": "Large Construct",
+    "Max HP": 142,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "7",
+    "EXP": 2900,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Understands commands given to it in any language but can not speak"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Fist, Melee Weapon Attack, Range: 5ft, Average Damage: 11 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Shield Guardian makes 2 Fist attacks",
+        "Action 2": "Shield, The Shield Guardian reacts to attacks against the holder of its amulet, attempting to block attacks while it is nearby, Reaction"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 8,
+        "Constitution": 18,
+        "Intelligence": 7,
+        "Wisdom": 10,
+        "Charisma": 3
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Bound, The Shield Guardian is magically bound to an amulet.  So long as the Guardian and its amulet are on the same plane of existance, the amulet's wearer can communicate with the Guardian telepathically.  The amulet magically transfers half of the damage dealt to its wearer to the Guardian",
+        "Ability 2": "Regeneration, The Shield Guardian magiaclly repairs itself at the start of tis turn while it is not completely destroyed",
+        "Ability 3": "Spell Storing, A Spellcaster wearing the Guardian's amulet can store one spell of 4th level of lower within the Shield Guardian.  The Guardian can cast the stored spell when set conditions are met or is commanded to do so"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 5,
+        "Condition 1": "Charmed",
+        "Condition 2": "Exhaustion",
+        "Condition 3": "Frightened",
+        "Condition 4": "Paralyzed",
+        "Condition 5": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}
