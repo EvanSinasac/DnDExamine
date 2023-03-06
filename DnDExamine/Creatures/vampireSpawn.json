@@ -1,0 +1,75 @@
+{
+    "Name": "Vampire Spawn",
+    "Creature Type": "Medium Undead",
+    "Max HP": 82,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Languages it knew in life"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Claws, Melee Weapon Attack, Range: 5ft, Average Damage: 8 Slashing.  The Vampire Spawn can grapple instead of dealing damage",
+        "Action 2": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 6 Piercing plus 7 Necrotic.  The target's maximum health is reduced by the Necrotic damage and the Vampire Spawn heals"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Vampire Spawn makes 2 attacks, only one of which can be a Bite"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 16,
+        "Dexterity": 16,
+        "Constitution": 16,
+        "Intelligence": 11,
+        "Wisdom": 10,
+        "Charisma": 12
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Regeneration, The Vampire Spawn regains its health every turn.  It is said Radiant damage and Holy Water can prevent a Vampire from healing",
+        "Ability 2": "Spider Climb, The Vampire Spawn can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check",
+        "Ability 3": "Vampire Weaknesses, These are mostly from folk tales and should be taken with a grain of salt.  Forbiddance, A vampire can not enter a residence without invitation from an occupant.  Harmed by Running Water, The vampire is affected by running water as if it were acid.  Stake to the Heart, If a piercing weapon made of wood is driven into the vampire's heart while it is resting, it becomes paralyzed.  Sunlight Hypersensitivity, A vampire takes Radiant damage from sunlight, as well as disadvantage on attack rolls and ability checks"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 2,
+        "Damage 1": "Necrotic",
+        "Damage 2": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

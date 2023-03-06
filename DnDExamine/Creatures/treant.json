@@ -1,0 +1,75 @@
+{
+    "Name": "Treant",
+    "Creature Type": "Huge Plant",
+    "Max HP": 138,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "9",
+    "EXP": 5000,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 1,
+        "Sense 1": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 4,
+        "Language 1": "Common",
+        "Language 2": "Druidic",
+        "Language 3": "Elvish",
+        "Language 4": "Sylvan"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Slam, Melee Weapon Attack, Range: 5ft, Average Damage: 16 Bludgeoning",
+        "Action 2": "Rock, Ranged Weapon Attack, Range: 60/180ft, Average Damage: 28 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Treant makes 2 Slam attacks",
+        "Action 2": "Animate Trees, The Treant magically animates trees around it, typically to slam trespassers in its forests"
+    },
+    "AC": 16,
+    "Stats": {
+        "Strength": 23,
+        "Dexterity": 8,
+        "Constitution": 21,
+        "Intelligence": 12,
+        "Wisdom": 16,
+        "Charisma": 12
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "False Appearance, While the Treant remains motionless, it is indistinguishable from a normal tree",
+        "Ability 2": "Siege Monster, The Treant deals double damage to objects and structures"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "Fire"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "Bludgeoning and Piercing"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

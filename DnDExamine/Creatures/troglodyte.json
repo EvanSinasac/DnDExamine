@@ -1,0 +1,73 @@
+{
+    "Name": "Troglodyte",
+    "Creature Type": "Medium Humanoid (Troglodyte)",
+    "Max HP": 13,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "1/4",
+    "EXP": 50,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Troglodyte"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 4 Piercing",
+        "Action 2": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 4 Slashing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Troglodyte makes 3 attacks, one with its Bite and two with its Claws"
+    },
+    "AC": 11,
+    "Stats": {
+        "Strength": 14,
+        "Dexterity": 10,
+        "Constitution": 14,
+        "Intelligence": 6,
+        "Wisdom": 10,
+        "Charisma": 6
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Chameleon Skin, The Troglodyte can blend into its surroundings",
+        "Ability 2": "Stench, Creatures too close to the Troglodyte become poisoned by its horrific stench",
+        "Ability 3": "Sunlight Sensitivity, While in sunlight, the Troglodyte has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

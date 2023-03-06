@@ -1,0 +1,83 @@
+{
+    "Name": "Vampire",
+    "Creature Type": "Medium Undead (Shapechanger)",
+    "Max HP": 144,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "13",
+    "EXP": 10000,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Languages they knew in life"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Unarmed Strike, Melee Weapon Attack, Range: 5ft, Average Damage: 8 Bludgeoning.  The Vampire can grapple a hit target instead of doing damage.  Wait a second, Vampires are people, they can equip weapons, uh oh",
+        "Action 2": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 7 Piercing plus 10 Necrotic, reducing the target's maximum health by the Necrotic damage and healing the Vampire"
+    },
+    "Other Actions": {
+        "Number": 3,
+        "Action 1": "Multiattack, The Vampire makes 2 attacks, only one of which can be a Bite",
+        "Action 2": "Charm, The Vampire targets a humanoid it can see and charms them.  A charmed target regards the vampire as a trusted friend of the highest regard, to be heeded and protected",
+        "Action 3": "Children of the Night, The Vampire magically calls swarms of bats, rats or wolves and can command them"
+    },
+    "AC": 16,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 18,
+        "Constitution": 18,
+        "Intelligence": 17,
+        "Wisdom": 15,
+        "Charisma": 18
+    },
+    "Abilities": {
+        "Number": 6,
+        "Ability 1": "Shapechanger, The Vampire can polymorph into a Tiny Bat or a Medium cloud of mist, or back into its true form",
+        "Ability 2": "Legendary Resistance, If the Vampire fails a saving throw, it can choose to succeed instead",
+        "Ability 3": "Misty Escape, If the Vampire is defeated, it transforms into a cloud of mist and attempts to return to its resting place to recover",
+        "Ability 4": "Regeneration, The Vampire restores its health every turn.  It is believed that Radiant damage and holy water will prevent the Vampire from healing",
+        "Ability 5": "Spider Climb, The Vampire can climb difficult surfaces, including upside down on ceilings without needing to make an ability check",
+        "Ability 6": "Vampire Weaknesses, These are mostly from folk tales and should be taken with a grain of salt.  Forbiddance, A vampire can not enter a residence without invitation from an occupant.  Harmed by Running Water, The vampire is affected by running water as if it were acid.  Stake to the Heart, If a piercing weapon made of wood is driven into the vampire's heart while it is resting, it becomes paralyzed.  Sunlight Hypersensitivity, A vampire takes Radiant damage from sunlight, as well as disadvantage on attack rolls and ability checks"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 2,
+        "Damage 1": "Necrotic",
+        "Damage 2": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 3,
+        "Action 1": "Move, The Vampire moves up to its speed without provoking opportunity attacks",
+        "Action 2": "Unarmed Strike, The Vampire makes one unarmed strike",
+        "Action 3": "Bite, The Vampire makes one Bite attack"
+    },
+    "Lair Actions": {
+        "Number": 2,
+        "Action 1": "Honestly, not many who have entered a Vampire's lair have survived to recount their tales, here is what we do know",
+        "Action 2": "There is a surge in the population of bats, rats and wolves.  Plants near the lair wither and become twisted and thorny.  Shadows move as if alive.  A creeping fog clings to the ground, taking eerie forms"
+    }    
+}

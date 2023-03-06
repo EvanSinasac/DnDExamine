@@ -1,0 +1,86 @@
+{
+    "Name": "Unicorn",
+    "Creature Type": "Large Celestial",
+    "Max HP": 67,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 50
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 4,
+        "Language 1": "Celestial",
+        "Language 2": "Elvish",
+        "Language 3": "Sylvan",
+        "Language 4": "Telepathy"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Hooves, Melee Weapon Attack, Range: 5ft, Average Damage: 11 Bludgeoning",
+        "Action 2": "Horn, Melee Weapon Attack, Range: 5ft, Average Damage: 8 Piercing"
+    },
+    "Other Actions": {
+        "Number": 3,
+        "Action 1": "Multiattack, The Unicorn makes 2 attacks, one with its Hooves and one with its Horn",
+        "Action 2": "Healing Touch, The Unicorn touches another creature with its horn and magically heals the target",
+        "Action 3": "Teleport, The Unicorn teleports itself and willing creatures to a location it is familiar with"
+    },
+    "AC": 12,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 14,
+        "Constitution": 15,
+        "Intelligence": 11,
+        "Wisdom": 17,
+        "Charisma": 16
+    },
+    "Abilities": {
+        "Number": 4,
+        "Ability 1": "Charge, The Unicorn moves at least 20ft in a straight line and hits a target with a Horn attack, the target takes an additional Average 9 Piercing damage and can be knocked prone",
+        "Ability 2": "Innate Spellcasting, The Unicorn can cast a few spells",
+        "Ability 3": "Magic Resistance, The Unicorn has advantage on saving throws against spells and other magical effects",
+        "Ability 4": "Magic Weapons, The Unicorn's weapon attacks are magical"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 3,
+        "Condition 1": "Charmed",
+        "Condition 2": "Paralyzed",
+        "Condition 3": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 3,
+        "Action 1": "Hooves, The Unicorn makes one attack with its Hooves",
+        "Action 2": "Shimmering Shield, The Unicorn creates a shimmering, magical field around itself or another creature, raising their defense",
+        "Action 3": "Heal Self, The Unicorn magically heals itself"
+    },
+    "Lair Actions": {
+        "Number": 4,
+        "Action 1": "Open nonmagical flames are extinguished, torches and campfires refuse to light.  The Unicorn's magic protects its forest",
+        "Action 2": "Creatures that belong to the Unicorn's domain have an easier time hiding from intruders",
+        "Action 3": "Healing spells are maximized for good-aligned casters",
+        "Action 4": "Curses afflicting good-aligned creatures are suppressed"
+    }    
+}

@@ -1,0 +1,74 @@
+{
+    "Name": "Thri-Kreen",
+    "Creature Type": "Medium Humanoid (Thri-Kreen)",
+    "Max HP": 33,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 40
+    },
+    "Challenge Rating": "1",
+    "EXP": 200,
+    "Skills": {
+        "Number": 3,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth",
+        "Skill 3": "Survival"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Thri-Kreen"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 4 Piercing and can poison",
+        "Action 2": "Claws, Melee Weapon Attack, Range: 5ft, Average Damage: 6 Piercing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Thri-Kreen makes 2 attacks, one with tis Bite and one with its Claws"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 12,
+        "Dexterity": 15,
+        "Constitution": 13,
+        "Intelligence": 8,
+        "Wisdom": 12,
+        "Charisma": 7
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Chameleon Carapace, The Thri-Kreen can change the colour of tis carapace to match the colour and texture of its surroundings, making it incredibly difficult to spot",
+        "Ability 2": "Standing Leap, The Thri-Kreen can long jump up to 30ft and its high jump is 15ft, with or without a running start"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

@@ -1,0 +1,85 @@
+{
+    "Name": "Tarrasque",
+    "Creature Type": "Gargantuan Monstrosity",
+    "Max HP": 676,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 40
+    },
+    "Challenge Rating": "30",
+    "EXP": 155000,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "None"
+    },
+    "Equipment Actions": {
+        "Number": 4,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 10ft, Average Damage: 36 Piercing and can grapple",
+        "Action 2": "Claws, Melee Weapon Attack, Range: 15ft, Average Damage: 28 Slashing",
+        "Action 3": "Horns, Melee Weapon Attack, Range: 10ft, Average Damage: 32 Piercing",
+        "Action 4": "Tail, Melee Weapon Attack, Range: 20ft, Average Damage: 24 Bludgeoning"
+    },
+    "Other Actions": {
+        "Number": 3,
+        "Action 1": "Multiattack, The Tarrasque uses its Frightful Presence and then makes 5 attacks, one with its Bite, two with its Claws, one with its Horns and one with its Tail.  It can use Swallow instead of Bite",
+        "Action 2": "Frightful Presence, Each creature that can see the Tarrasque feels the sheer pressure of the Tarrasque's power, making a Wisdom saving throw or becoming frightened of the Tarrasque",
+        "Action 3": "Swallow, The Tarrasque swallows a creature it is grappling, trapping them in its stomach and burning them alive with its stomach acid, dealing an Average 56 damage"
+    },
+    "AC": 25,
+    "Stats": {
+        "Strength": 30,
+        "Dexterity": 11,
+        "Constitution": 30,
+        "Intelligence": 3,
+        "Wisdom": 11,
+        "Charisma": 11
+    },
+    "Abilities": {
+        "Number": 4,
+        "Ability 1": "Legendary Resistance, If the Tarrasque fails a saving throw, it can choose to succeed instead",
+        "Ability 2": "Magic Resistance, The Tarrasque has advantage on saving throws against spells and other magical effects",
+        "Ability 3": "Reflective Carapace, When the Tarrasque is targeted by Magic Missile, a line spell or a spell that requires an attack roll, there is a 1 in 6 chance that the Tarrasque's Carapace reflects the spell back onto the caster",
+        "Ability 4": "Siege Monster, The Tarrasque deals double damage to objects and structures"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 3,
+        "Damage 1": "Fire",
+        "Damage 2": "Poison",
+        "Damage 3": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Condition Immunities": {
+        "Number": 4,
+        "Condition 1": "Charmed",
+        "Condition 2": "Frightened",
+        "Condition 3": "Paralyzed",
+        "Condition 4": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 3,
+        "Action 1": "Attack, The Tarrasque makes one Claw or Tail attack",
+        "Action 2": "Move, The Tarrasqque moves up to half its speed",
+        "Action 3": "Chomp, The Tarrasque makes one Bite attack or Swallows a creature it is grappling"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

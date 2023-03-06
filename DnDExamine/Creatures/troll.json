@@ -1,0 +1,72 @@
+{
+    "Name": "Troll",
+    "Creature Type": "Large Giant",
+    "Max HP": 999,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Giant"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 7 Piercing",
+        "Action 2": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 11 Slashing"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Multiattack, The Troll makes 3 attacks, one with its Bite and two with its Claws"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 13,
+        "Constitution": 20,
+        "Intelligence": 7,
+        "Wisdom": 9,
+        "Charisma": 7
+    },
+    "Abilities": {
+        "Number": 2,
+        "Ability 1": "Keen Smell, The Troll has advantage on Wisdom (Perception) checks that rely on smell",
+        "Ability 2": "Regeneration, The Troll has amazing regenerative powers, however it has long been known that both Fire and Acid prevents the Troll from healing"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}
