@@ -1,0 +1,85 @@
+{
+    "Name": "Nycaloth",
+    "Creature Type": "Large Fiend (Yugoloth)",
+    "Max HP": 123,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 40,
+        "Type 2": "Flying",
+        "Speed 2": 60
+    },
+    "Challenge Rating": "9",
+    "EXP": 5000,
+    "Skills": {
+        "Number": 3,
+        "Skill 1": "Intimidation",
+        "Skill 2": "Perception",
+        "Skill 3": "Stealth"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 3,
+        "Language 1": "Abyssal",
+        "Language 2": "Infernal",
+        "Language 3": "Telepathy"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Claws, Melee Weapon Attack, Range: 5ft, Average Damage: 12 Slashing and can inflict a fiendish wound",
+        "Action 2": "Greataxe, Melee Weapon Attack, Range: 20/60ft, Average Damage: 18 Slashing"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Nycaloth makes 2 melee attacks, or it makes one melee attack and teleports",
+        "Action 2": "Teleport, The Nycaloth magically teleports to an unoccupied space it can see"
+    },
+    "AC": 20,
+    "Stats": {
+        "Strength": 20,
+        "Dexterity": 11,
+        "Constitution": 19,
+        "Intelligence": 12,
+        "Wisdom": 10,
+        "Charisma": 15
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Innate Spellcasting, The Nycaloth can innately cast a few spells",
+        "Ability 2": "Magic Resistance, The Nycaloth has advantage on saving throws against spells and other magical effects",
+        "Ability 3": "Magic Weapons, The Nycaloth's weapons attacks are magical"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 4,
+        "Damage 1": "Cold",
+        "Damage 2": "Fire",
+        "Damage 3": "Lightning",
+        "Damage 4": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 2,
+        "Damage 1": "Acid",
+        "Damage 2": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

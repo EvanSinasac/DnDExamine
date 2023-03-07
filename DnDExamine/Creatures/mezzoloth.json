@@ -1,0 +1,81 @@
+{
+    "Name": "Mezzoloth",
+    "Creature Type": "Medium Fiend (Yugoloth)",
+    "Max HP": 75,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 40
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "Perception"
+    },
+    "Senses": {
+        "Number": 3,
+        "Sense 1": "Blindsight",
+        "Sense 2": "Darkvision",
+        "Sense 3": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 3,
+        "Language 1": "Abyssal",
+        "Language 2": "Infernal",
+        "Language 3": "Telepathy"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Claws, Melee Weapon Attack, Range: 5ft, Average Damage: 9 Slashing",
+        "Action 2": "Trident, Melee or Ranged Weapon Attack, Range: 20/60ft, Average Damage: 7 Piercing"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Mezzoloth makes 2 attacks, one with its Claws and one with its Trident",
+        "Action 2": "Teleport, The Mezzoloth magically teleports to an unoccupied space it can see"
+    },
+    "AC": 18,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 11,
+        "Constitution": 16,
+        "Intelligence": 7,
+        "Wisdom": 10,
+        "Charisma": 11
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Innate Spellcasting, The Mezzoloth can innately cast a few spells",
+        "Ability 2": "Magic Resistance, The Mezzoloth has advantage on saving throws against spells and other magical effects",
+        "Ability 3": "Magic Weapons, The Mezzoloth's weapons attacks are magical"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 4,
+        "Damage 1": "Cold",
+        "Damage 2": "Fire",
+        "Damage 3": "Lightning",
+        "Damage 4": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 2,
+        "Damage 1": "Acid",
+        "Damage 2": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

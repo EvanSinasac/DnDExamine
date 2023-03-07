@@ -1,0 +1,84 @@
+{
+    "Name": "Arcanaloth",
+    "Creature Type": "Medium Fiend (Yugoloth)",
+    "Max HP": 104,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 30,
+        "Type 2": "Flying",
+        "Speed 2": 30
+    },
+    "Challenge Rating": "12",
+    "EXP": 8400,
+    "Skills": {
+        "Number": 4,
+        "Skill 1": "Arcana",
+        "Skill 2": "Deception",
+        "Skill 3": "Insight",
+        "Skill 4": "Perception"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Truesight",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 2,
+        "Language 1": "All",
+        "Language 2": "Telepathy"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Claws, Melee Weapon Attack, Range: 5ft, Average Damage: 8 Slashing plus 10 Poison"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Teleport, The Arcanaloth can magically teleport to an unoccupied space it can see"
+    },
+    "AC": 17,
+    "Stats": {
+        "Strength": 17,
+        "Dexterity": 12,
+        "Constitution": 14,
+        "Intelligence": 20,
+        "Wisdom": 16,
+        "Charisma": 17
+    },
+    "Abilities": {
+        "Number": 4,
+        "Ability 1": "Innate Spellcasting, The Arcanaloth can cast a few spells innately",
+        "Ability 2": "Magic Resistance, The Arcanaloth has advantage on saving throws against spells and other magical effects",
+        "Ability 3": "Magic Weapons, The Arcanaloth's weapon attacks are magical",
+        "Ability 4": "Spellcasting, In addition to its Innate Spellcasting, the Arcanaloth is a 16th level spellcaster with a large number of Wizard spells prepared"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 4,
+        "Damage 1": "Cold",
+        "Damage 2": "Fire",
+        "Damage 3": "Lightning",
+        "Damage 4": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 2,
+        "Damage 1": "Acid",
+        "Damage 2": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 2,
+        "Condition 1": "Charmed",
+        "Condition 2": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

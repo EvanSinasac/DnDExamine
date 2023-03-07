@@ -1,0 +1,76 @@
+{
+    "Name": "Yeti",
+    "Creature Type": "Large Monstrosity",
+    "Max HP": 51,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 40,
+        "Type 2": "Climbing",
+        "Speed 2": 40
+    },
+    "Challenge Rating": "3",
+    "EXP": 700,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Yeti"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Claw, Melee Weapon Attack, Range: 5ft, Average Damage: 7 Slashing plus 3 Cold"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Yeti can use its Chilling Gaze and makes two Claw attacks",
+        "Action 2": "Chilling Gaze, The Yeti targets one creature it can see and magically blasts them with with an Average 10 Cold damage and paralyzes them"
+    },
+    "AC": 12,
+    "Stats": {
+        "Strength": 18,
+        "Dexterity": 13,
+        "Constitution": 16,
+        "Intelligence": 8,
+        "Wisdom": 12,
+        "Charisma": 7
+    },
+    "Abilities": {
+        "Number": 3,
+        "Ability 1": "Fear of Fire, The Yeti has a natural fear of fire, causing it to attack at disadvantage when it takes Fire damage",
+        "Ability 2": "Keen Smell, The Yeti has advantage on Wisdom (Perception) checks that rely on smell",
+        "Ability 3": "Snow Camouflage, The Yeti has advantage on Dexterity (Stealth) checks made to hide in snowy terrain"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Cold"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "N/A"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

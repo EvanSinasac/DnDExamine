@@ -1,0 +1,87 @@
+{
+    "Name": "Will-O'-Wisp",
+    "Creature Type": "Tiny Undead",
+    "Max HP": 22,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 0,
+        "Type 2": "Flying",
+        "Speed 2": 50
+    },
+    "Challenge Rating": "2",
+    "EXP": 450,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Languages it knew in life"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Shock, Melee Spell Attack, Range: 5ft, Average Damage: 9 Lightning"
+    },
+    "Other Actions": {
+        "Number": 1,
+        "Action 1": "Invisibility, The Will-O'-Wisp and its light magically become invisible"
+    },
+    "AC": 19,
+    "Stats": {
+        "Strength": 1,
+        "Dexterity": 28,
+        "Constitution": 10,
+        "Intelligence": 13,
+        "Wisdom": 14,
+        "Charisma": 11
+    },
+    "Abilities": {
+        "Number": 4,
+        "Ability 1": "Consume Life, As a bonus action, the Will-O'-Wisp can target one creature that has 0 HP but is still alive and attempt to drain their life and kill them",
+        "Ability 2": "Ephemeral, The Will-O'-Wisp can not wear or carry anything",
+        "Ability 3": "Incorporeal Movement, The Will-O'-Wisp can move through other creatures and objects",
+        "Ability 4": "Variable Illumination, The Will-O'-Wisp sheds bright light in a 5-20ft radius that it controls"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 6,
+        "Damage 1": "Acid",
+        "Damage 2": "Cold",
+        "Damage 3": "Fire",
+        "Damage 4": "Necrotic",
+        "Damage 5": "Thunder",
+        "Damage 6": "Bludgeoning, Piercing, and Slashing from nonmagical attacks"
+    },
+    "Damage Immunities": {
+        "Number": 2,
+        "Damage 1": "Lightning",
+        "Damage 2": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 7,
+        "Condition 1": "Exhaustion",
+        "Condition 2": "Grappled",
+        "Condition 3": "Paralyzed",
+        "Condition 4": "Poisoned",
+        "Condition 5": "Prone",
+        "Condition 6": "Restrained",
+        "Condition 7": "Unconscious"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

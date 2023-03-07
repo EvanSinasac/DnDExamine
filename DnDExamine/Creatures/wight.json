@@ -1,0 +1,75 @@
+{
+    "Name": "Wight",
+    "Creature Type": "Medium Undead",
+    "Max HP": 45,
+    "Movement Speeds": {
+        "Number": 1,
+        "Type 1": "Walking",
+        "Speed 1": 30
+    },
+    "Challenge Rating": "3",
+    "EXP": 700,
+    "Skills": {
+        "Number": 2,
+        "Skill 1": "Perception",
+        "Skill 2": "Stealth"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium-High Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Languages it knew in life"
+    },
+    "Equipment Actions": {
+        "Number": 2,
+        "Action 1": "Longsword, Melee Weapon Attack, Range: 5ft, Average Damage: 6 Slashing",
+        "Action 2": "Longbow, Ranged Weapon Attack, Range: 150/600ft, Average Damage: 6 Piercing"
+    },
+    "Other Actions": {
+        "Number": 2,
+        "Action 1": "Multiattack, The Wight makes 2 Longsword or Longbow attacks.  It can use Life Drain in place of one Longsword attack",
+        "Action 2": "Life Drain, Melee Weapon Attack, Range: 5ft, Average Damage: 5 Necrotic and can reduce the target's maximum HP"
+    },
+    "AC": 14,
+    "Stats": {
+        "Strength": 15,
+        "Dexterity": 14,
+        "Constitution": 16,
+        "Intelligence": 10,
+        "Wisdom": 13,
+        "Charisma": 15
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Sunlight Sensitivity, While in sunlight, the Wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 2,
+        "Damage 1": "Necrotic",
+        "Damage 2": "Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with silvered weapons"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 2,
+        "Condition 1": "Exhaustion",
+        "Condition 2": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}

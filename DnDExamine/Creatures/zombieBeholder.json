@@ -1,0 +1,76 @@
+{
+    "Name": "Beholder Zombie",
+    "Creature Type": "Large Undead",
+    "Max HP": 93,
+    "Movement Speeds": {
+        "Number": 2,
+        "Type 1": "Walking",
+        "Speed 1": 0,
+        "Type 2": "Flying",
+        "Speed 2": 20
+    },
+    "Challenge Rating": "5",
+    "EXP": 1800,
+    "Skills": {
+        "Number": 1,
+        "Skill 1": "N/A"
+    },
+    "Senses": {
+        "Number": 2,
+        "Sense 1": "Darkvision",
+        "Sense 2": "Medium Passive Perception"
+    },
+    "Languages": {
+        "Number": 1,
+        "Language 1": "Understands Deep Speech and Undercommon but can not speak"
+    },
+    "Equipment Actions": {
+        "Number": 1,
+        "Action 1": "Bite, Melee Weapon Attack, Range: 5ft, Average Damage: 14 Piercing"
+    },
+    "Other Actions": {
+        "Number": 5,
+        "Action 1": "Eye Ray, The Beholder Zombie's Eye Stalks have mostly decomposed with time, but some of its descriptive rays remain intact",
+        "Action 2": "Paralyzing Ray, The Beholder Zombie attempts to paralyze a target",
+        "Action 3": "Fear Ray, The Beholder Zombie attempts to frighten a target",
+        "Action 4": "Enervation Ray, The Beholder Zombie blasts a target with a necrotic ray",
+        "Action 5": "Disintigration Ray, The Beholder Zombie blasts a target with a force ray, disintigrating objects and any creature it kills"
+    },
+    "AC": 15,
+    "Stats": {
+        "Strength": 10,
+        "Dexterity": 8,
+        "Constitution": 16,
+        "Intelligence": 3,
+        "Wisdom": 8,
+        "Charisma": 5
+    },
+    "Abilities": {
+        "Number": 1,
+        "Ability 1": "Undead Fortitude, If an attack would destroy the Zombie, it instead makes a Constitution saving throw, surviving with 1 HP if it succeeds.  Radiant damage and Holy Water ignore this effect"
+    },
+    "Damage Vulnerabilities": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Resistances": {
+        "Number": 1,
+        "Damage 1": "N/A"
+    },
+    "Damage Immunities": {
+        "Number": 1,
+        "Damage 1": "Poison"
+    },
+    "Condition Immunities": {
+        "Number": 1,
+        "Condition 1": "Poisoned"
+    },
+    "Legendary Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    },
+    "Lair Actions": {
+        "Number": 1,
+        "Action 1": "N/A"
+    }    
+}
